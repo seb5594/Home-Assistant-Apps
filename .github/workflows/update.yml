@@ -11,7 +11,7 @@ on:
     paths:
       - '.github/scripts/**'
       - '.github/workflows/update.yml'
-      - 'templates/**'
+      - '.templates/**'
 
 permissions:
   contents: read
