@@ -38,13 +38,13 @@ These apps require Supervisor, such as the installation provided by Home Assista
 
 ### [Rsync-Local](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon)
 
-> **Version 1.74**
+> Back up **`/config`**, including your automations, dashboards, scripts, and `secrets.yaml`, to a USB stick, USB hard drive, or USB SSD attached directly to your Home Assistant server. Keep the important resources from `/share`, `/media`, and your app configuration folders alongside them.
 
 | App | Version | Architectures |
 | --- | --- | --- |
-| Rsync Local | `1.74` | armhf, armv7, aarch64, amd64, i386 |
+| Rsync Local | `1.74.1` | armhf, armv7, aarch64, amd64, i386 |
 
-[Source & documentation](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon) · [Pinned commit `ba2b464`](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/commit/fab3697e8059a5e04e278dc8174d92d9d68e660f)
+[Source & documentation](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon) · [Pinned commit `9a15947`](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/commit/bf8156eb00cfaf4961b39ced6e6c23468ea71850)
 
 ## Discovery rules
 
