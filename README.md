@@ -3,9 +3,8 @@
 **One repository for seb5594's Home Assistant apps and add-ons.**
 
 Install this repository once to browse the available apps in Home Assistant.
-Matching source projects are discovered automatically. Complete app folders such
-as `rsync-local/` and `git-exporter/` are generated directly at the repository root.
-Pinned source submodules live under `.sources/`, outside the Supervisor app scan.
+Matching source projects are discovered automatically and added as Git submodules
+in folders named after the project, such as `Rsync-Local/` and `git-exporter/`.
 This page previews the introduction from each source README.
 
 [![Add repository to Home Assistant](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fseb5594%2FHome-Assistant-Apps)
@@ -66,10 +65,6 @@ Each project must contain at least one Home Assistant app configuration, at its
 root or inside a nested folder. Invalid catalog metadata and duplicate app slugs
 stop synchronization before changes are pushed.
 
-App folders are identified by valid `config.yaml`, `config.yml`, or `config.json`
-metadata, not by choosing the first visible directory. Tests/docs folders are not
-mistaken for apps. Each generated folder is named after the app's unique slug.
-
 ## Automatic updates
 
 | Trigger | Behavior |
@@ -92,10 +87,9 @@ source. Unchanged results produce no commit. GitHub may delay scheduled runs.
    select **Actions → Synchronize app catalog → Run workflow**.
 3. Wait for a successful run before adding the repository to Home Assistant.
 
-The action keeps real source submodules under `.sources/` and generates complete
-installable app folders, `.gitmodules`, `repository.yaml` and this README.
-Git stores the pinned source commits; each app's `.catalog-source.json` records
-its origin and identifies generated folders for safe cleanup. No project files or Git
+The action creates the app subfolders as real Git submodules, `.gitmodules`,
+`repository.yaml` and this README. Git stores the pinned source commits, so no
+separate lock file is required. No project files or Git
 metadata need to be uploaded manually. The job requests `contents: write`
 for the built-in `GITHUB_TOKEN`; no PAT is required for ordinary synchronization.
 Repository or organization rules must allow that token to push to `main`.
