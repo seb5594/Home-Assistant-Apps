@@ -1,6 +1,6 @@
 [submodule "Home-Assistant-git-exporter-Addon"]
-	path = git-exporter
+	path = .sources/git-exporter
 	url = https://github.com/seb5594/Home-Assistant-git-exporter-Addon.git
 [submodule "Home-Assistant-Rsync-Local-Addon"]
-	path = Rsync-Local
+	path = .sources/Rsync-Local
 	url = https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon.git
