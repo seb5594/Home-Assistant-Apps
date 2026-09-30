@@ -20,7 +20,7 @@ ROOT = Path(__file__).resolve().parents[2]
 OWNER = "seb5594"
 EXCLUDED_REPOSITORIES: set[str] = set()
 EXCERPT_MAX_CHARS = 500
-NAME_PATTERN = re.compile(r"^Home-Assistant-[A-Za-z0-9][A-Za-z0-9._-]*-(?:App|Addon)$")
+NAME_PATTERN = re.compile(r"^Home-Assistant-(?P<project>[A-Za-z0-9][A-Za-z0-9._-]*)-(?:App|Addon)$")
 ARCHITECTURES = {"aarch64", "amd64", "armhf", "armv7", "i386"}
 CONFIG_NAMES = {"config.yaml", "config.yml", "config.json"}
 
@@ -163,21 +163,55 @@ def current_submodules() -> dict[str, dict[str, str]]:
     return result
 
 
+def project_path(name: str) -> str:
+    """Strip the repository naming prefix and suffix without changing project case."""
+    if not (match := NAME_PATTERN.fullmatch(name)):
+        raise ValueError(f"Invalid source repository name: {name}")
+    return match["project"]
+
+
+def managed_submodules(modules: dict) -> dict[str, dict[str, str]]:
+    """Identify our generated folders using .gitmodules instead of a lock file."""
+    managed = {}
+    prefix = f"https://github.com/{OWNER}/"
+    for path, module in modules.items():
+        url = module["url"]
+        if not url.startswith(prefix) or not url.endswith(".git"):
+            continue
+        name = url[len(prefix):-4]
+        if NAME_PATTERN.fullmatch(name) and path in {name, project_path(name)}:
+            managed[path] = {**module, "repository_name": name}
+    return managed
+
+
 def sync_repository(repo: dict, modules: dict, limit: int) -> dict:
     """Pin exactly the latest commit of the actual default branch."""
     name = repo["name"]
-    folder = ROOT / name
+    path = project_path(name)
+    folder = ROOT / path
     url = f"https://github.com/{OWNER}/{name}.git"
     branch = repo["default_branch"]
-    if name not in modules:
+    existing = [old_path for old_path, module in managed_submodules(modules).items()
+                if module["url"] == url]
+    if len(existing) > 1:
+        raise ValueError(f"Multiple managed submodules reference {name}.")
+    if existing and existing[0] != path:
+        old_path = existing[0]
+        if folder.exists() or path in modules:
+            raise ValueError(f"Refusing to overwrite an existing directory: {path}")
+        # Initialize before moving so migration also works with checkout submodules: false.
+        git("submodule", "update", "--init", "--", old_path)
+        git("mv", "--", old_path, path)
+        modules = current_submodules()
+    if path not in modules:
         if folder.exists():
-            raise ValueError(f"Refusing to overwrite an unmanaged directory: {name}")
-        git("submodule", "add", "--", url, name)
+            raise ValueError(f"Refusing to overwrite an unmanaged directory: {path}")
+        git("submodule", "add", "--", url, path)
     else:
-        if modules[name]["url"] != url:
+        if modules[path]["url"] != url:
             raise ValueError(f"Unexpected submodule URL for {name}; fix .gitmodules first.")
-        git("submodule", "sync", "--", name)
-        git("submodule", "update", "--init", "--", name)
+        git("submodule", "sync", "--", path)
+        git("submodule", "update", "--init", "--", path)
     git("fetch", "--depth=1", "origin", f"refs/heads/{branch}", cwd=folder)
     sha = git("rev-parse", "FETCH_HEAD", cwd=folder)
     git("checkout", "--detach", sha, cwd=folder)
@@ -185,7 +219,7 @@ def sync_repository(repo: dict, modules: dict, limit: int) -> dict:
     git("submodule", "update", "--init", "--recursive", cwd=folder)
     apps = app_metadata(folder)
     return {
-        "repository": f"{OWNER}/{name}", "path": name, "branch": branch, "commit": sha,
+        "repository": f"{OWNER}/{name}", "path": path, "branch": branch, "commit": sha,
         "url": f"https://github.com/{OWNER}/{name}",
         "excerpt": readme_excerpt(folder, repo.get("description") or apps[0]["description"], limit),
         "apps": apps,
@@ -196,7 +230,7 @@ def render_catalog(entries: list[dict]) -> str:
     sections = []
     for entry in entries:
         sections.extend([
-            f"### [{entry['repository'].split('/', 1)[1]}]({entry['url']})", "",
+            f"### [{entry['path']}]({entry['url']})", "",
             f"> {entry['excerpt']}", "",
             "| App | Version | Architectures |", "| --- | --- | --- |",
         ])
@@ -227,23 +261,22 @@ def main() -> None:
     repository_yaml = yaml.safe_dump(metadata, sort_keys=False, allow_unicode=True)
     repositories = discover_repositories(set(excluded))
     modules = current_submodules()
-    lock_path = ROOT / "apps.lock.json"
-    previous = json.loads(lock_path.read_text(encoding="utf-8")) if lock_path.exists() else {"repositories": []}
-    if previous["repositories"] and not repositories:
+    if managed_submodules(modules) and not repositories:
         raise ValueError("Refusing to remove the whole catalog; check the API and exclusions.")
+    paths = [project_path(repo["name"]).casefold() for repo in repositories]
+    if len(paths) != len(set(paths)):
+        raise ValueError("Multiple source repositories resolve to the same app folder.")
     entries = [sync_repository(repo, modules, limit) for repo in repositories]
     slugs = [app["slug"] for entry in entries for app in entry["apps"]]
     if len(slugs) != len(set(slugs)):
         raise ValueError("Duplicate app slugs would collide in Home Assistant.")
     wanted = {entry["path"] for entry in entries}
-    # Remove only previously managed submodules after all current sources validate.
-    for entry in previous["repositories"]:
-        path = entry["path"]
-        if path not in wanted and path in modules:
-            if not NAME_PATTERN.fullmatch(path):
-                raise ValueError(f"Unsafe path in the previous catalog: {path}")
+    # Remove only managed submodules after all current sources validate.
+    for path in managed_submodules(current_submodules()):
+        if path not in wanted:
             git("rm", "--force", "--", path)
-    lock_path.write_text(json.dumps({"repositories": entries}, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    # Remove the legacy catalog state; Git already pins every submodule commit.
+    (ROOT / "apps.lock.json").unlink(missing_ok=True)
     (ROOT / "README.md").write_text(template.replace("{{APP_CATALOG}}", render_catalog(entries)), encoding="utf-8")
     (ROOT / "repository.yaml").write_text(repository_yaml, encoding="utf-8")
     print(f"Synchronized {len(entries)} repositories and {len(slugs)} apps.")
