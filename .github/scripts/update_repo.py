@@ -248,10 +248,10 @@ def render_catalog(entries: list[dict]) -> str:
 def main() -> None:
     excluded = EXCLUDED_REPOSITORIES
     limit = EXCERPT_MAX_CHARS
-    template = (ROOT / "templates/README.md").read_text(encoding="utf-8")
+    template = (ROOT / ".templates/README.md").read_text(encoding="utf-8")
     if template.count("{{APP_CATALOG}}") != 1:
         raise ValueError("README template must contain exactly one {{APP_CATALOG}} placeholder.")
-    metadata = json.loads((ROOT / "templates/repository.json").read_text(encoding="utf-8"))
+    metadata = json.loads((ROOT / ".templates/repository.json").read_text(encoding="utf-8"))
     if not isinstance(metadata, dict) or set(metadata) - {"name", "url", "maintainer"}:
         raise ValueError("Repository template must contain only name, url and maintainer.")
     if not isinstance(metadata.get("name"), str) or not metadata["name"].strip():
