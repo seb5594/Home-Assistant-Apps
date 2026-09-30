@@ -4,7 +4,8 @@
 
 Install this repository once to browse the available apps in Home Assistant.
 Matching source projects are discovered automatically and added as Git submodules
-in their own folders. This page previews the introduction from each source README.
+in folders named after the project, such as `Rsync-Local/` and `git-exporter/`.
+This page previews the introduction from each source README.
 
 [![Add repository to Home Assistant](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fseb5594%2FHome-Assistant-Apps)
 [![Synchronize app catalog](https://github.com/seb5594/Home-Assistant-Apps/actions/workflows/update.yml/badge.svg)](https://github.com/seb5594/Home-Assistant-Apps/actions/workflows/update.yml)
@@ -24,7 +25,7 @@ These apps require Supervisor, such as the installation provided by Home Assista
 ## Available apps
 
 <!-- Generated from the source repositories. Edit templates/README.md for static content. -->
-### [Home-Assistant-git-exporter-Addon](https://github.com/seb5594/Home-Assistant-git-exporter-Addon)
+### [git-exporter](https://github.com/seb5594/Home-Assistant-git-exporter-Addon)
 
 > Export your entire Home Assistant configuration to a Git repository of your choice. This addon allows you to safely version your setup and optionally share it in public repositories.
 
@@ -34,7 +35,7 @@ These apps require Supervisor, such as the installation provided by Home Assista
 
 [Source & documentation](https://github.com/seb5594/Home-Assistant-git-exporter-Addon) · [Pinned commit `57daa71`](https://github.com/seb5594/Home-Assistant-git-exporter-Addon/commit/76587a9a46cd9ab3ee2c26102e35fcc77e1395d7)
 
-### [Home-Assistant-Rsync-Local-Addon](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon)
+### [Rsync-Local](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon)
 
 > Sync folders to a external usb drive with rsync.
 
@@ -42,7 +43,7 @@ These apps require Supervisor, such as the installation provided by Home Assista
 | --- | --- | --- |
 | rsync local | `dev` | armhf, armv7, aarch64, amd64, i386 |
 
-[Source & documentation](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon) · [Pinned commit `2e52142`](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/commit/d07326209f679017676816916b9752ef4850a6ab)
+[Source & documentation](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon) · [Pinned commit `9362f78`](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/commit/a8cb76fe53467b5479c5634b1cb0ff27348ec4ec)
 
 ## Discovery rules
 
@@ -87,7 +88,8 @@ source. Unchanged results produce no commit. GitHub may delay scheduled runs.
 3. Wait for a successful run before adding the repository to Home Assistant.
 
 The action creates the app subfolders as real Git submodules, `.gitmodules`,
-`apps.lock.json`, `repository.yaml` and this README. No project files or Git
+`repository.yaml` and this README. Git stores the pinned source commits, so no
+separate lock file is required. No project files or Git
 metadata need to be uploaded manually. The job requests `contents: write`
 for the built-in `GITHUB_TOKEN`; no PAT is required for ordinary synchronization.
 Repository or organization rules must allow that token to push to `main`.
