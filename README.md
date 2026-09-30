@@ -24,7 +24,7 @@ These apps require Supervisor, such as the installation provided by Home Assista
 
 ## Available apps
 
-<!-- Generated from the source repositories. Edit templates/README.md for static content. -->
+<!-- Generated from the source repositories. Edit .templates/README.md for static content. -->
 ### [git-exporter](https://github.com/seb5594/Home-Assistant-git-exporter-Addon)
 
 > Export your entire Home Assistant configuration to a Git repository of your choice. This addon allows you to safely version your setup and optionally share it in public repositories.
@@ -82,7 +82,7 @@ source. Unchanged results produce no commit. GitHub may delay scheduled runs.
 
 1. Upload the package contents directly into the root of
    **`seb5594/Home-Assistant-Apps`** on **`main`**, including the `.github` folder.
-   The package contains only `.github/` and `templates/`; keep both folders at the repository root.
+   The package contains only `.github/` and `.templates/`; keep both folders at the repository root.
 2. Enable GitHub Actions. The initial push starts synchronization; alternatively,
    select **Actions → Synchronize app catalog → Run workflow**.
 3. Wait for a successful run before adding the repository to Home Assistant.
@@ -96,7 +96,7 @@ Repository or organization rules must allow that token to push to `main`.
 
 ## Optional immediate source notifications
 
-Copy [templates/notify-main.yml](templates/notify-main.yml) to
+Copy [.templates/notify-main.yml](.templates/notify-main.yml) to
 `.github/workflows/notify-main.yml` in every source project. Configure an Actions
 secret named **`PAT_TOKEN`** in each source repository using a fine-grained PAT
 with access only to **`seb5594/Home-Assistant-Apps`** and permission
@@ -113,8 +113,8 @@ workflow; the scheduled fallback still discovers those commits.
 - Create a source repository with a matching name to add a new app automatically.
 - Set `EXCLUDED_REPOSITORIES` and `EXCERPT_MAX_CHARS` in
   [.github/scripts/update_repo.py](.github/scripts/update_repo.py) to exclude repositories or change excerpt length.
-- Edit [templates/README.md](templates/README.md) to change the catalog's static text.
-- Edit [templates/repository.json](templates/repository.json) to change repository metadata;
+- Edit [.templates/README.md](.templates/README.md) to change the catalog's static text.
+- Edit [.templates/repository.json](.templates/repository.json) to change repository metadata;
   the action converts it into the root `repository.yaml` used by Home Assistant.
 - Develop apps in their source projects and update their configured versions for
   Home Assistant to offer app updates.
