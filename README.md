@@ -37,13 +37,13 @@ These apps require Supervisor, such as the installation provided by Home Assista
 
 ### [Rsync-Local](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon)
 
-> Sync folders to a external usb drive with rsync.
+> **Version 1.73**
 
 | App | Version | Architectures |
 | --- | --- | --- |
-| rsync local | `dev` | armhf, armv7, aarch64, amd64, i386 |
+| Rsync Local | `1.73` | aarch64, amd64 |
 
-[Source & documentation](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon) · [Pinned commit `c36bb02`](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/commit/595e6cb64f8c8663c6dc1808a540de98245756a0)
+[Source & documentation](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon) · [Pinned commit `8999494`](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/commit/3ba4955df79173a048f66d17540ce882085e5cd6)
 
 ## Discovery rules
 
