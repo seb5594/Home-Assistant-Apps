@@ -10,6 +10,7 @@ on:
     branches: [main]
     paths:
       - '.github/scripts/**'
+      - '.github/tests/**'
       - '.github/workflows/update.yml'
       - '.templates/**'
 
@@ -42,6 +43,9 @@ jobs:
 
       - name: Install the catalog dependency
         run: python -m pip install --disable-pip-version-check PyYAML==6.0.3
+
+      - name: Validate direct app publication and safe cleanup
+        run: python -m unittest discover -s .github/tests -v
 
       - name: Discover apps and update pinned submodules
         env:

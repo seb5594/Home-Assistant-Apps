@@ -8,8 +8,10 @@ import json
 import os
 from pathlib import Path
 import re
+import shutil
 import subprocess
 import sys
+from tempfile import TemporaryDirectory
 import time
 import urllib.error
 import urllib.request
@@ -179,7 +181,8 @@ def managed_submodules(modules: dict) -> dict[str, dict[str, str]]:
         if not url.startswith(prefix) or not url.endswith(".git"):
             continue
         name = url[len(prefix):-4]
-        if NAME_PATTERN.fullmatch(name) and path in {name, project_path(name)}:
+        # Replaced: if NAME_PATTERN.fullmatch(name) and path in {name, project_path(name)}:
+        if NAME_PATTERN.fullmatch(name) and path in {name, project_path(name), f".sources/{project_path(name)}"}:
             managed[path] = {**module, "repository_name": name}
     return managed
 
@@ -187,7 +190,9 @@ def managed_submodules(modules: dict) -> dict[str, dict[str, str]]:
 def sync_repository(repo: dict, modules: dict, limit: int) -> dict:
     """Pin exactly the latest commit of the actual default branch."""
     name = repo["name"]
-    path = project_path(name)
+    # Replaced: path = project_path(name)
+    project = project_path(name)
+    path = f".sources/{project}"
     folder = ROOT / path
     url = f"https://github.com/{OWNER}/{name}.git"
     branch = repo["default_branch"]
@@ -201,11 +206,13 @@ def sync_repository(repo: dict, modules: dict, limit: int) -> dict:
             raise ValueError(f"Refusing to overwrite an existing directory: {path}")
         # Initialize before moving so migration also works with checkout submodules: false.
         git("submodule", "update", "--init", "--", old_path)
+        (ROOT / ".sources").mkdir(exist_ok=True)
         git("mv", "--", old_path, path)
         modules = current_submodules()
     if path not in modules:
         if folder.exists():
             raise ValueError(f"Refusing to overwrite an unmanaged directory: {path}")
+        (ROOT / ".sources").mkdir(exist_ok=True)
         git("submodule", "add", "--", url, path)
     else:
         if modules[path]["url"] != url:
@@ -219,11 +226,46 @@ def sync_repository(repo: dict, modules: dict, limit: int) -> dict:
     git("submodule", "update", "--init", "--recursive", cwd=folder)
     apps = app_metadata(folder)
     return {
-        "repository": f"{OWNER}/{name}", "path": path, "branch": branch, "commit": sha,
+        # Replaced: "repository": f"{OWNER}/{name}", "path": path, "branch": branch, "commit": sha,
+        "repository": f"{OWNER}/{name}", "path": project, "branch": branch, "commit": sha,
         "url": f"https://github.com/{OWNER}/{name}",
         "excerpt": readme_excerpt(folder, repo.get("description") or apps[0]["description"], limit),
         "apps": apps,
     }
+
+
+def materialize_apps(entries: list[dict]) -> None:
+    """Expose complete build folders directly, hiding pinned source checkouts."""
+    wanted = {app["slug"] for entry in entries for app in entry["apps"]}
+    existing = {
+        folder.name for folder in ROOT.iterdir()
+        if folder.is_dir() and not folder.is_symlink() and not folder.name.startswith(".")
+        and (folder / ".catalog-source.json").is_file()
+    }
+    for slug in wanted:
+        if (ROOT / slug).exists() and slug not in existing:
+            raise ValueError(f"Refusing to overwrite an unmanaged app folder: {slug}")
+
+    # Stage every complete app before replacing any previously generated copy.
+    with TemporaryDirectory(prefix=".catalog-stage-", dir=ROOT) as temporary:
+        stage = Path(temporary)
+        for entry in entries:
+            source = ROOT / ".sources" / entry["path"]
+            for app in entry["apps"]:
+                target = stage / app["slug"]
+                shutil.copytree(source / app["path"], target, symlinks=True,
+                                ignore=shutil.ignore_patterns(".git"))
+                for license_name in ("LICENSE", "LICENCE", "LICENSE.md", "LICENCE.md", "COPYING"):
+                    if (source / license_name).is_file() and not (target / license_name).exists():
+                        shutil.copy2(source / license_name, target / license_name)
+                (target / ".catalog-source.json").write_text(json.dumps({
+                    "repository": entry["repository"], "commit": entry["commit"],
+                    "path": app["path"],
+                }, indent=2) + "\n", encoding="utf-8")
+        for slug in existing:
+            shutil.rmtree(ROOT / slug)
+        for slug in sorted(wanted):
+            shutil.move(str(stage / slug), ROOT / slug)
 
 
 def render_catalog(entries: list[dict]) -> str:
@@ -270,7 +312,9 @@ def main() -> None:
     slugs = [app["slug"] for entry in entries for app in entry["apps"]]
     if len(slugs) != len(set(slugs)):
         raise ValueError("Duplicate app slugs would collide in Home Assistant.")
-    wanted = {entry["path"] for entry in entries}
+    # Replaced: wanted = {entry["path"] for entry in entries}
+    wanted = {f".sources/{entry['path']}" for entry in entries}
+    materialize_apps(entries)
     # Remove only managed submodules after all current sources validate.
     for path in managed_submodules(current_submodules()):
         if path not in wanted:
@@ -279,7 +323,8 @@ def main() -> None:
     (ROOT / "apps.lock.json").unlink(missing_ok=True)
     (ROOT / "README.md").write_text(template.replace("{{APP_CATALOG}}", render_catalog(entries)), encoding="utf-8")
     (ROOT / "repository.yaml").write_text(repository_yaml, encoding="utf-8")
-    print(f"Synchronized {len(entries)} repositories and {len(slugs)} apps.")
+    # Replaced: print(f"Synchronized {len(entries)} repositories and {len(slugs)} apps.")
+    print(f"Synchronized {len(entries)} sources and {len(slugs)} directly installable app folders.")
     if summary := os.environ.get("GITHUB_STEP_SUMMARY"):
         with open(summary, "a", encoding="utf-8") as stream:
             stream.write(f"## App catalog\n\n{render_catalog(entries)}\n")
