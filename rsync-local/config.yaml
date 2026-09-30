@@ -1,0 +1,63 @@
+name: Rsync Local
+version: "1.74"
+slug: rsync-local
+description: Keep an extra local copy of your Home Assistant files on an attached USB drive.
+url: https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon
+arch:
+  - armhf
+  - armv7
+  - aarch64
+  - amd64
+  - i386
+startup: application
+boot: manual
+init: true
+map:
+  - config:ro
+  - share:ro
+  - media:ro
+  - backup:ro
+  - ssl:ro
+  # Legacy names also resolve to the renamed host folders on current Supervisors.
+  - addons:ro
+  - all_addon_configs:ro
+devices:
+  - /dev/sda1
+  - /dev/sda2
+  - /dev/sda3
+  - /dev/sda4
+  - /dev/sda5
+  - /dev/sdb1
+  - /dev/sdb2
+  - /dev/sdb3
+  - /dev/sdb4
+  - /dev/sdb5
+  - /dev/sdc1
+  - /dev/sdc2
+  - /dev/sdc3
+  - /dev/sdc4
+  - /dev/sdc5
+  - /dev/sdd1
+  - /dev/sdd2
+  - /dev/sdd3
+  - /dev/sdd4
+  - /dev/sdd5
+  - /dev/sde1
+  - /dev/sde2
+  - /dev/sde3
+  - /dev/sde4
+  - /dev/sde5
+privileged:
+  - SYS_ADMIN
+apparmor: false
+schema:
+  folders:
+    - source: str
+      options: str?
+  external_folder: match(^[^/].*$)
+  external_device: match(^(/dev/sd[a-e][1-5])?$)
+options:
+  folders:
+    - source: /config
+  external_folder: backup
+  external_device: ""
