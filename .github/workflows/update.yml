@@ -17,6 +17,10 @@ on:
 permissions:
   contents: read
 
+env:
+  # Prevent tests and helper imports from generating bytecode in the checkout.
+  PYTHONDONTWRITEBYTECODE: '1'
+
 concurrency:
   group: synchronize-app-catalog
   cancel-in-progress: false # Serialize writes; do not cancel a running synchronization.
