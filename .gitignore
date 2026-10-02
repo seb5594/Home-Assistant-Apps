@@ -1,5 +1,0 @@
-# Python bytecode is generated locally and must not enter catalog commits.
-__pycache__/
-*.pyc
-*.pyo
-.engine/
