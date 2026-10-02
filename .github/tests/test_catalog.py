@@ -136,6 +136,18 @@ class RootSubmoduleTests(unittest.TestCase):
         }}
         self.assertEqual(set(catalog.managed_submodules(self.modules | unrelated)), {"Rsync-Local"})
 
+    def test_catalog_badges_reflect_declared_features(self):
+        entry = {"path": "Rsync-Local", "url": "https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon",
+                 "repository": "seb5594/Home-Assistant-Rsync-Local-Addon", "excerpt": "USB backups",
+                 "commit": "a" * 40, "apps": [{**catalog.app_metadata(self.source)[0],
+                 "mounts": ["config", "media"], "devices": True, "ingress": False}]}
+        rendered = catalog.render_catalog([entry])
+        self.assertIn("Version 1.74.1", rendered)
+        self.assertIn("mount-config", rendered)
+        self.assertIn("mount-local%20disks", rendered)
+        self.assertIn("github/downloads/", rendered)
+        self.assertNotIn("ingress-enabled", rendered)
+
 
 if __name__ == "__main__":
     unittest.main()
