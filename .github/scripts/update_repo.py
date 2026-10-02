@@ -143,9 +143,14 @@ def app_metadata(folder: Path) -> list[dict]:
         if not isinstance(data.get("arch"), list) or not data["arch"] or not set(data["arch"]) <= ARCHITECTURES:
             raise ValueError(f"Invalid architectures in {config}")
         app_path = config.parent.relative_to(folder).as_posix()
+        # Read only declared Supervisor capabilities; never advertise a feature by guesswork.
+        mounts = [item.split(":", 1)[0] if isinstance(item, str)
+                  else item.get("type", next(iter(item))) for item in data.get("map", [])]
         apps.append({
             "name": data["name"], "slug": data["slug"], "version": data["version"],
             "description": data["description"], "arch": data["arch"], "path": app_path,
+            "mounts": list(dict.fromkeys(mounts)), "ingress": bool(data.get("ingress")),
+            "devices": bool(data.get("devices")),
         })
     if not apps:
         raise ValueError(f"No Home Assistant app configuration found in {folder.name}.")
@@ -277,14 +282,33 @@ def render_catalog(entries: list[dict]) -> str:
         sections.extend([
             f"### [{entry['path']}]({entry['url']})", "",
             f"> {entry['excerpt']}", "",
-            "| App | Version | Architectures |", "| --- | --- | --- |",
         ])
         for app in entry["apps"]:
-            name = app["name"].replace("|", "\\|")
-            version = app["version"].replace("|", "\\|")
-            sections.append(f"| {name} | `{version}` | {', '.join(app['arch'])} |")
+            version = app["version"]
+            sections.extend([
+                f"**{app['name']}** · [Version {version}]({entry['url']}/releases) · "
+                f"[Changelog]({entry['url']}/blob/main/{app['path']}/CHANGELOG.md)", "",
+                f"[![Build](https://img.shields.io/github/actions/workflow/status/"
+                f"{entry['repository']}/ci.yml?branch=main&label=build)]"
+                f"({entry['url']}/actions/workflows/ci.yml) "
+                f"[![Release downloads](https://img.shields.io/github/downloads/"
+                f"{entry['repository']}/total?label=release%20downloads)]"
+                f"({entry['url']}/releases) "
+                f"[![Stars](https://img.shields.io/github/stars/{entry['repository']}?label=stars)]"
+                f"({entry['url']}/stargazers)", "",
+                " ".join(f"![{arch}](https://img.shields.io/badge/{arch}-supported-157F71)"
+                         for arch in app["arch"]),
+            ])
+            names = {"all_addon_configs": "app%20configs", "addons": "local%20apps"}
+            features = [f"![mount](https://img.shields.io/badge/mount-"
+                        f"{names.get(mount, mount)}-1877A5)" for mount in app.get("mounts", [])]
+            if app.get("devices"):
+                features.append("![mount](https://img.shields.io/badge/mount-local%20disks-1877A5)")
+            if app.get("ingress"):
+                features.append("![ingress](https://img.shields.io/badge/ingress-enabled-7C3AED)")
+            sections.extend([" ".join(features), ""])
         sections.extend([
-            "", f"[Source & documentation]({entry['url']}) · "
+            f"[Source & documentation]({entry['url']}) · "
             f"[Pinned commit `{entry['commit'][:7]}`]({entry['url']}/commit/{entry['commit']})", "",
         ])
     return "\n".join(sections).strip() or "No matching apps are currently available."
