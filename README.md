@@ -27,13 +27,13 @@ These apps require Supervisor, such as the installation provided by Home Assista
 <!-- Generated from the source repositories. Edit .templates/README.md for static content. -->
 ### [git-exporter](https://github.com/seb5594/Home-Assistant-git-exporter-Addon)
 
-> Export your entire Home Assistant configuration to a Git repository of your choice. This addon allows you to safely version your setup and optionally share it in public repositories.
+> **App version: 1.18.0** · Changelog
 
 | App | Version | Architectures |
 | --- | --- | --- |
-| Home Assistant Git Exporter (dev) | `0.8.1dev` | armhf, armv7, aarch64, amd64, i386 |
+| Home Assistant Git Exporter | `1.18.0` | armhf, armv7, aarch64, amd64, i386 |
 
-[Source & documentation](https://github.com/seb5594/Home-Assistant-git-exporter-Addon) · [Pinned commit `57daa71`](https://github.com/seb5594/Home-Assistant-git-exporter-Addon/commit/57daa7100e31d550899f5ae87a6356956fed73c3)
+[Source & documentation](https://github.com/seb5594/Home-Assistant-git-exporter-Addon) · [Pinned commit `42d3115`](https://github.com/seb5594/Home-Assistant-git-exporter-Addon/commit/42d311500ad5b1441d2182a2b80a1b681eba33ef)
 
 ### [Rsync-Local](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon)
 
@@ -43,7 +43,7 @@ These apps require Supervisor, such as the installation provided by Home Assista
 | --- | --- | --- |
 | Rsync Local | `1.74.2` | armhf, armv7, aarch64, amd64, i386 |
 
-[Source & documentation](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon) · [Pinned commit `d0124a1`](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/commit/d0124a1296e18b2d700100b696bc434df9e39d57)
+[Source & documentation](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon) · [Pinned commit `5b68609`](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/commit/5b686095ea5c1425207a53ea5c9bd04f173155f9)
 
 ## Discovery rules
 
