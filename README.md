@@ -25,7 +25,7 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 ![armhf](https://img.shields.io/badge/armhf-supported-157F71) ![armv7](https://img.shields.io/badge/armv7-supported-157F71) ![aarch64](https://img.shields.io/badge/aarch64-supported-157F71) ![amd64](https://img.shields.io/badge/amd64-supported-157F71) ![i386](https://img.shields.io/badge/i386-supported-157F71)
 ![mount](https://img.shields.io/badge/mount-config-1877A5) ![mount](https://img.shields.io/badge/mount-app%20configs-1877A5)
 
-[Source & documentation](https://github.com/seb5594/Home-Assistant-git-exporter-Addon) · [Pinned commit `39d7c67`](https://github.com/seb5594/Home-Assistant-git-exporter-Addon/commit/646ab5269971408fa76353ea57bfd32a4890dea8)
+[Source & documentation](https://github.com/seb5594/Home-Assistant-git-exporter-Addon) · [Pinned commit `64af2f4`](https://github.com/seb5594/Home-Assistant-git-exporter-Addon/commit/630caf854ccd457179baf8b5dacf56cbc99aa59e)
 
 ### [Rsync-Local](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon)
 
@@ -38,7 +38,7 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 ![armhf](https://img.shields.io/badge/armhf-supported-157F71) ![armv7](https://img.shields.io/badge/armv7-supported-157F71) ![aarch64](https://img.shields.io/badge/aarch64-supported-157F71) ![amd64](https://img.shields.io/badge/amd64-supported-157F71) ![i386](https://img.shields.io/badge/i386-supported-157F71)
 ![mount](https://img.shields.io/badge/mount-config-1877A5) ![mount](https://img.shields.io/badge/mount-share-1877A5) ![mount](https://img.shields.io/badge/mount-media-1877A5) ![mount](https://img.shields.io/badge/mount-backup-1877A5) ![mount](https://img.shields.io/badge/mount-ssl-1877A5) ![mount](https://img.shields.io/badge/mount-local%20apps-1877A5) ![mount](https://img.shields.io/badge/mount-app%20configs-1877A5) ![mount](https://img.shields.io/badge/mount-local%20disks-1877A5)
 
-[Source & documentation](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon) · [Pinned commit `5831551`](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/commit/d7e1c1f362308bcb817c2a4e88dbb5289111118b)
+[Source & documentation](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon) · [Pinned commit `03a9b75`](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/commit/4dbe360f80b100357fa00ab2374e2a5b5da4b090)
 
 The download badges count GitHub release assets, not installations, GHCR pulls, or local builds. GitHub does not expose country or continent totals for those downloads. See each app's documentation for the actual backup or export behavior.
 
