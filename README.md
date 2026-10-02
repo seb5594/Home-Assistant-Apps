@@ -41,9 +41,9 @@ These apps require Supervisor, such as the installation provided by Home Assista
 
 | App | Version | Architectures |
 | --- | --- | --- |
-| Rsync Local | `1.74.1` | armhf, armv7, aarch64, amd64, i386 |
+| Rsync Local | `1.74.2` | armhf, armv7, aarch64, amd64, i386 |
 
-[Source & documentation](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon) · [Pinned commit `9a15947`](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/commit/9a15947fa21f3a4df1c3e2853a621500875204ca)
+[Source & documentation](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon) · [Pinned commit `d0124a1`](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/commit/d0124a1296e18b2d700100b696bc434df9e39d57)
 
 ## Discovery rules
 
