@@ -6,3 +6,6 @@
 	# Replaced: path = .sources/Rsync-Local
 	path = Rsync-Local
 	url = https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon.git
+[submodule "Playstation-VR-Camera-Loader"]
+	path = Playstation-VR-Camera-Loader
+	url = https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App.git
