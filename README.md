@@ -37,6 +37,19 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 
 [Source & documentation](https://github.com/seb5594/Home-Assistant-git-exporter-Addon) · [Pinned commit `64af2f4`](https://github.com/seb5594/Home-Assistant-git-exporter-Addon/commit/64af2f4ee4ca9cfbd404f80968f190e7742c26c9)
 
+### [Playstation-VR-Camera-Loader](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App)
+
+> A Home Assistant app that turns the PlayStation 4 / PlayStation VR camera into a far-field microphone for Assist: four capsules, speech focus against TV and music, one clean 16 kHz input for any voice satellite. The camera picture comes along as a bonus.
+
+**Sony PlayStation VR Camera Loader** · [Version 1.0.0-beta4](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/releases) · [Changelog](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/blob/main/sony_playstation_vr_camera_loader/CHANGELOG.md)
+
+[![Build](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/ci.yml?branch=main&label=build)](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/actions/workflows/ci.yml) [![Release downloads](https://img.shields.io/github/downloads/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/total?label=release%20downloads)](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/releases) [![Stars](https://img.shields.io/github/stars/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App?label=stars)](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/stargazers)
+
+![amd64](https://img.shields.io/badge/amd64-supported-157F71) ![aarch64](https://img.shields.io/badge/aarch64-supported-157F71)
+![mount](https://img.shields.io/badge/mount-addon_config-1877A5) ![mount](https://img.shields.io/badge/mount-local%20disks-1877A5) ![ingress](https://img.shields.io/badge/ingress-enabled-7C3AED)
+
+[Source & documentation](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App) · [Pinned commit `d19bab2`](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/commit/d19bab2fab61f602a3b7c184b26f22ae5f61f316)
+
 ### [Rsync-Local](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon)
 
 > Keep a second copy of the Home Assistant files that matter most on a USB stick, hard drive, or SSD plugged directly into your server. **`/config`** contains your automations, dashboards, scripts, and secrets; share, media, and app configuration folders can join the same scheduled backup.
