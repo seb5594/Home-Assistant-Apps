@@ -1,14 +1,14 @@
 [
   {
     "repository": "seb5594/Home-Assistant-git-exporter-Addon",
-    "commit": "b0c4d1bbbde71297045da1de0e20da56dc55b5a4"
+    "commit": "52edfcb47066d05123cdda245bfd3c1c0a562e31"
   },
   {
     "repository": "seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App",
-    "commit": "c813fe769402abcdd0c7fc800fcb5fe6a5f89aa3"
+    "commit": "be014fb191aba7f73e040d90c262fe574bb23842"
   },
   {
     "repository": "seb5594/Home-Assistant-Rsync-Local-Addon",
-    "commit": "bc49f0160a605cd9ff544372698fb9c9d5797aca"
+    "commit": "bcea13cdade86122b8702ca104583d9c73e15090"
   }
 ]
