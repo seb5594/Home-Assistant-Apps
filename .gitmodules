@@ -12,3 +12,6 @@
 [submodule "Gitea-MCP-Server"]
 	path = Gitea-MCP-Server
 	url = https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App.git
+[submodule "Gitea-Runner"]
+	path = Gitea-Runner
+	url = https://github.com/seb5594/Home-Assistant-Gitea-Runner-App.git

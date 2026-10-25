@@ -1,7 +1,7 @@
 # Home Assistant Apps by seb5594
 
 [![Home Assistant](https://img.shields.io/static/v1?label=Home%20Assistant&message=Add%20app%20repository&color=18BCF2&logo=homeassistant&logoColor=white&style=flat)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fseb5594%2FHome-Assistant-Apps)<br>
-[![catalog sync](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Apps/update.yml?branch=main&label=catalog%20sync&style=flat)](https://github.com/seb5594/Home-Assistant-Apps/actions/workflows/update.yml) ![apps](https://img.shields.io/static/v1?label=apps&message=4&color=1877A5&style=flat)<br>
+[![catalog sync](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Apps/update.yml?branch=main&label=catalog%20sync&style=flat)](https://github.com/seb5594/Home-Assistant-Apps/actions/workflows/update.yml) ![apps](https://img.shields.io/static/v1?label=apps&message=5&color=1877A5&style=flat)<br>
 [![synced](https://img.shields.io/github/last-commit/seb5594/Home-Assistant-Apps?label=synced&style=flat)](https://github.com/seb5594/Home-Assistant-Apps/commits/main)
 
 Practical Home Assistant apps for backups and configuration history. Add this catalog once, then choose the apps that fit your setup. Their versions, supported architectures, available mounts, and build status are shown below.
@@ -24,16 +24,27 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 
 [Source & documentation](https://github.com/seb5594/Home-Assistant-git-exporter-Addon) · [Pinned commit `e843942`](https://github.com/seb5594/Home-Assistant-git-exporter-Addon/commit/e843942b50bf69b0cd347feb6dacb603113c4161)
 
-### [Gitea-MCP-Server](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App) (1.0.0-dev7)
+### [Gitea-MCP-Server](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App) (1.0.0-dev9)
 
 > Brings the official Gitea MCP server to Home Assistant. MCP, the Model Context Protocol, is how AI assistants use tools. With this app, Assist, Claude and ChatGPT can search your repositories, read files, and look at or write issues and pull requests in your own Gitea.
 
 [Changelog](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/blob/main/gitea_mcp_server/CHANGELOG.md)<br>
-[![version](https://img.shields.io/static/v1?label=version&message=1.0.0-dev7&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/releases/tag/v1.0.0-dev7) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=28&color=1877A5&style=flat)<br>
+[![version](https://img.shields.io/static/v1?label=version&message=1.0.0-dev9&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/releases/tag/v1.0.0-dev9) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=32&color=1877A5&style=flat)<br>
 ![arch](https://img.shields.io/static/v1?label=arch&message=amd64%20%C2%B7%20aarch64&color=157F71&style=flat) ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![mounts (read-only)](https://img.shields.io/static/v1?label=mounts%20%28read-only%29&message=ssl&color=157F71&style=flat) ![image size](https://img.shields.io/static/v1?label=image%20size&message=amd64%2058.3%20%C2%B7%20aarch64%2066.6%20MiB&color=157F71&style=flat)<br>
-[![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Gitea-MCP-Server-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/issues) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=23%20passed&color=2F855A&style=flat) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Gitea-MCP-Server-App/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/actions/workflows/ci.yml)
+[![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Gitea-MCP-Server-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/issues) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=25%20passed&color=2F855A&style=flat) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Gitea-MCP-Server-App/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/actions/workflows/ci.yml)
 
-[Source & documentation](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App) · [Pinned commit `efde338`](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/commit/efde3385b67004407657c5017a71b8ca7ddd9d4b)
+[Source & documentation](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App) · [Pinned commit `d460955`](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/commit/d4609554cb0c331101e555c78bb1c07aa0f026de)
+
+### [Gitea-Runner](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App) (1.0.0-dev1)
+
+> Brings the Gitea Runner to Home Assistant. Gitea Actions workflows need a runner to execute them; with this app your own Gitea builds, tests and deploys on your own hardware, without a cloud service.
+
+[Changelog](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/blob/main/gitea_runner/CHANGELOG.md)<br>
+[![version](https://img.shields.io/static/v1?label=version&message=1.0.0-dev1&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/releases)<br>
+![arch](https://img.shields.io/static/v1?label=arch&message=amd64%20%C2%B7%20aarch64&color=157F71&style=flat) ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![mounts](https://img.shields.io/static/v1?label=mounts&message=backup%20%C2%B7%20homeassistant_config%20%28rw%29%20%C2%B7%20media%20%28rw%29%20%C2%B7%20share%20%28rw%29%20%C2%B7%20ssl&color=B45309&style=flat)<br>
+[![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Gitea-Runner-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/issues) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Gitea-Runner-App/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/actions/workflows/ci.yml)
+
+[Source & documentation](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App) · [Pinned commit `58d41f7`](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/commit/58d41f726b24d4b259fbcf94e0da59cd18b71899)
 
 ### [Playstation-VR-Camera-Loader](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App) (1.0.0-beta.4)
 
