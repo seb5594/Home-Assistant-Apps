@@ -5,7 +5,11 @@
   },
   {
     "repository": "seb5594/Home-Assistant-Gitea-MCP-Server-App",
-    "commit": "efde3385b67004407657c5017a71b8ca7ddd9d4b"
+    "commit": "d4609554cb0c331101e555c78bb1c07aa0f026de"
+  },
+  {
+    "repository": "seb5594/Home-Assistant-Gitea-Runner-App",
+    "commit": "58d41f726b24d4b259fbcf94e0da59cd18b71899"
   },
   {
     "repository": "seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App",
