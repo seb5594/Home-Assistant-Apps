@@ -24,18 +24,18 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 
 [Source & documentation](https://github.com/seb5594/Home-Assistant-git-exporter-Addon) · [Pinned commit `e843942`](https://github.com/seb5594/Home-Assistant-git-exporter-Addon/commit/e843942b50bf69b0cd347feb6dacb603113c4161)
 
-### [Gitea-MCP-Server](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App) (1.0.0-dev13)
+### [Gitea-MCP-Server](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App) (1.0.0-dev14)
 
 > Brings the official Gitea MCP server to Home Assistant. MCP, the Model Context Protocol, is how AI assistants use tools. With this app, Assist, claude.ai, ChatGPT, Claude Code and other agents can search your repositories, read files, and look at or write issues and pull requests in your own Gitea. You decide which of them you connect.
 
 [Changelog](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/blob/main/gitea_mcp_server/CHANGELOG.md)<br>
-[![version](https://img.shields.io/static/v1?label=version&message=1.0.0-dev9&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/releases/tag/v1.0.0-dev9) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=48&color=1877A5&style=flat)<br>
-![arch](https://img.shields.io/static/v1?label=arch&message=amd64%20%C2%B7%20aarch64&color=157F71&style=flat) ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![image size](https://img.shields.io/static/v1?label=image%20size&message=amd64%2058.3%20%C2%B7%20aarch64%2066.6%20MiB&color=157F71&style=flat)<br>
+[![version](https://img.shields.io/static/v1?label=version&message=1.0.0-dev9&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/releases/tag/v1.0.0-dev9) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=52&color=1877A5&style=flat)<br>
+![arch](https://img.shields.io/static/v1?label=arch&message=amd64%20%C2%B7%20aarch64&color=157F71&style=flat) ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![image size](https://img.shields.io/static/v1?label=image%20size&message=amd64%2059.3%20%C2%B7%20aarch64%2067.7%20MiB&color=157F71&style=flat)<br>
 [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Gitea-MCP-Server-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/issues) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=24%20passed&color=2F855A&style=flat) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Gitea-MCP-Server-App/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/actions/workflows/ci.yml)
 
-[Source & documentation](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App) · [Pinned commit `5ce5eca`](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/commit/5ce5ecaf48ac0aee32ab515b053aa79c65d58b7c)
+[Source & documentation](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App) · [Pinned commit `d24f520`](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/commit/d24f5209a9180b80915272c1bc56478e4ccb0224)
 
-### [Gitea-Runner](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App) (1.0.0-dev5)
+### [Gitea-Runner](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App) (1.0.0-dev6)
 
 > Brings the Gitea Runner to Home Assistant. Gitea Actions workflows need a runner to execute them; with this app your own Gitea builds, tests and deploys on your own hardware, without a cloud service.
 
@@ -44,9 +44,9 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 ![arch](https://img.shields.io/static/v1?label=arch&message=amd64%20%C2%B7%20aarch64&color=157F71&style=flat) ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![image size](https://img.shields.io/static/v1?label=image%20size&message=amd64%20136.2%20%C2%B7%20aarch64%20145.4%20MiB&color=157F71&style=flat)<br>
 [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Gitea-Runner-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/issues) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=13%20passed&color=2F855A&style=flat) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Gitea-Runner-App/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/actions/workflows/ci.yml)
 
-[Source & documentation](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App) · [Pinned commit `ba6d00f`](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/commit/ba6d00fb3fdbeafc83c025187ae2a9e6545e4b04)
+[Source & documentation](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App) · [Pinned commit `74696ff`](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/commit/74696ffd5754cf12ffad8f6fd6350c12e69dfa63)
 
-### [Playstation-VR-Camera-Loader](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App) (1.0.0-beta.4)
+### [Playstation-VR-Camera-Loader](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App) (1.0.0-beta.5)
 
 > A Home Assistant app that turns the PlayStation 4 / PlayStation VR camera into a far-field microphone for Assist: four capsules, speech focus against TV and music, one clean 16 kHz input for any voice satellite. The camera picture comes along as a bonus.
 
@@ -55,7 +55,7 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 ![arch](https://img.shields.io/static/v1?label=arch&message=amd64%20%C2%B7%20aarch64&color=157F71&style=flat) ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=addon_config&color=B45309&style=flat) ![local disks](https://img.shields.io/static/v1?label=local%20disks&message=attached&color=1877A5&style=flat) ![image size](https://img.shields.io/static/v1?label=image%20size&message=amd64%20217.0%20%C2%B7%20aarch64%20204.1%20MiB&color=157F71&style=flat)<br>
 [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/issues) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=5%20passed&color=2F855A&style=flat) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/actions/workflows/ci.yml)
 
-[Source & documentation](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App) · [Pinned commit `5064e67`](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/commit/5064e670381b775b7978b0bc8b4b2c85d34df54f)
+[Source & documentation](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App) · [Pinned commit `eaf7395`](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/commit/eaf739509a3fcbf1cf750d464fed0873fa1989ae)
 
 ### [Rsync-Local](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon) (1.75.0)
 
