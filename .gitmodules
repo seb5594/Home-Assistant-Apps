@@ -9,3 +9,6 @@
 [submodule "Playstation-VR-Camera-Loader"]
 	path = Playstation-VR-Camera-Loader
 	url = https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App.git
+[submodule "Gitea-MCP-Server"]
+	path = Gitea-MCP-Server
+	url = https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App.git
