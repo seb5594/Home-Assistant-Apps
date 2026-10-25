@@ -29,11 +29,11 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 > Brings the official Gitea MCP server to Home Assistant. MCP, the Model Context Protocol, is how AI assistants use tools. With this app, Assist, claude.ai, ChatGPT, Claude Code and other agents can search your repositories, read files, and look at or write issues and pull requests in your own Gitea. You decide which of them you connect.
 
 [Changelog](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/blob/main/gitea_mcp_server/CHANGELOG.md)<br>
-[![version](https://img.shields.io/static/v1?label=version&message=1.0.0-dev9&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/releases/tag/v1.0.0-dev9) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=36&color=1877A5&style=flat)<br>
+[![version](https://img.shields.io/static/v1?label=version&message=1.0.0-dev9&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/releases/tag/v1.0.0-dev9) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=40&color=1877A5&style=flat)<br>
 ![arch](https://img.shields.io/static/v1?label=arch&message=amd64%20%C2%B7%20aarch64&color=157F71&style=flat) ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![image size](https://img.shields.io/static/v1?label=image%20size&message=amd64%2058.3%20%C2%B7%20aarch64%2066.6%20MiB&color=157F71&style=flat)<br>
 [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Gitea-MCP-Server-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/issues) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=23%20passed&color=2F855A&style=flat) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Gitea-MCP-Server-App/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/actions/workflows/ci.yml)
 
-[Source & documentation](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App) · [Pinned commit `0eb84d7`](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/commit/0eb84d7a7f11770b4834f4a495bda0201b1f7836)
+[Source & documentation](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App) · [Pinned commit `4218b36`](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/commit/4218b3600091db79ea3d62d50b3c736e8642b793)
 
 ### [Gitea-Runner](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App) (1.0.0-dev2)
 
