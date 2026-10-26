@@ -8,6 +8,10 @@
     "commit": "d24f5209a9180b80915272c1bc56478e4ccb0224"
   },
   {
+    "repository": "seb5594/Home-Assistant-Gitea-Mirror-App",
+    "commit": "83e3050e5c1977a8b0c6d43dfbe0b2dc69f50146"
+  },
+  {
     "repository": "seb5594/Home-Assistant-Gitea-Runner-App",
     "commit": "f7fb6fcdd5e86c3744d44c3477796d5212b2cc36"
   },

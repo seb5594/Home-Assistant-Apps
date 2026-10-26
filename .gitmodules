@@ -15,3 +15,6 @@
 [submodule "Gitea-Runner"]
 	path = Gitea-Runner
 	url = https://github.com/seb5594/Home-Assistant-Gitea-Runner-App.git
+[submodule "Gitea-Mirror"]
+	path = Gitea-Mirror
+	url = https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App.git
