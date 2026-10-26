@@ -24,16 +24,16 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 
 [Source & documentation](https://github.com/seb5594/Home-Assistant-git-exporter-Addon) · [Pinned commit `e843942`](https://github.com/seb5594/Home-Assistant-git-exporter-Addon/commit/e843942b50bf69b0cd347feb6dacb603113c4161)
 
-### [Gitea-MCP-Server](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App) (1.0.0-dev14)
+### [Gitea-MCP-Server](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App) (1.0.0-alpha.10)
 
 > Brings the official Gitea MCP server to Home Assistant. MCP, the Model Context Protocol, is how AI assistants use tools. With this app, Assist, claude.ai, ChatGPT, Claude Code and other agents can search your repositories, read files, and look at or write issues and pull requests in your own Gitea. You decide which of them you connect.
 
 [Changelog](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/blob/main/gitea_mcp_server/CHANGELOG.md)<br>
-[![version](https://img.shields.io/static/v1?label=version&message=1.0.0-dev9&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/releases/tag/v1.0.0-dev9) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=52&color=1877A5&style=flat)<br>
+[![version](https://img.shields.io/static/v1?label=version&message=1.0.0-alpha.10&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/releases/tag/v1.0.0-alpha.10) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=56&color=1877A5&style=flat)<br>
 ![arch](https://img.shields.io/static/v1?label=arch&message=amd64%20%C2%B7%20aarch64&color=157F71&style=flat) ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![image size](https://img.shields.io/static/v1?label=image%20size&message=amd64%2059.3%20%C2%B7%20aarch64%2067.7%20MiB&color=157F71&style=flat)<br>
 [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Gitea-MCP-Server-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/issues) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=24%20passed&color=2F855A&style=flat) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Gitea-MCP-Server-App/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/actions/workflows/ci.yml)
 
-[Source & documentation](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App) · [Pinned commit `d24f520`](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/commit/d24f5209a9180b80915272c1bc56478e4ccb0224)
+[Source & documentation](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App) · [Pinned commit `5e9cbce`](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/commit/5e9cbceca6d6019d2e1a12122fc1c55c85e9dff1)
 
 ### [Gitea-Mirror](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App) (0.1.0)
 
@@ -46,16 +46,16 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 
 [Source & documentation](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App) · [Pinned commit `83e3050`](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App/commit/83e3050e5c1977a8b0c6d43dfbe0b2dc69f50146)
 
-### [Gitea-Runner](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App) (1.0.0-dev6)
+### [Gitea-Runner](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App) (1.0.0-alpha.10)
 
 > Brings the Gitea Runner to Home Assistant. Gitea Actions workflows need a runner to execute them; with this app your own Gitea builds, tests and deploys on your own hardware, without a cloud service.
 
 [Changelog](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/blob/main/gitea_runner/CHANGELOG.md)<br>
-[![version](https://img.shields.io/static/v1?label=version&message=1.0.0-dev6&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/releases/tag/v1.0.0-dev6) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=20&color=1877A5&style=flat)<br>
+[![version](https://img.shields.io/static/v1?label=version&message=1.0.0-alpha.10&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/releases/tag/v1.0.0-alpha.10) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=20&color=1877A5&style=flat)<br>
 ![arch](https://img.shields.io/static/v1?label=arch&message=amd64%20%C2%B7%20aarch64&color=157F71&style=flat) ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![image size](https://img.shields.io/static/v1?label=image%20size&message=amd64%20137.2%20%C2%B7%20aarch64%20146.5%20MiB&color=157F71&style=flat)<br>
 [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Gitea-Runner-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/issues) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=13%20passed&color=2F855A&style=flat) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Gitea-Runner-App/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/actions/workflows/ci.yml)
 
-[Source & documentation](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App) · [Pinned commit `f7fb6fc`](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/commit/f7fb6fcdd5e86c3744d44c3477796d5212b2cc36)
+[Source & documentation](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App) · [Pinned commit `6f3c7d2`](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/commit/6f3c7d20ebdd5458c90e989204682f6a671c064b)
 
 ### [Playstation-VR-Camera-Loader](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App) (1.0.0-beta.5)
 
