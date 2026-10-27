@@ -21,3 +21,6 @@
 [submodule "UnTuyaOS3"]
 	path = UnTuyaOS3
 	url = https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App.git
+[submodule "Assist-AI-Router"]
+	path = Assist-AI-Router
+	url = https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App.git
