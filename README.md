@@ -90,21 +90,21 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 
 [Source & documentation](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon) · [Pinned commit `1397e7e`](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/commit/1397e7e09cf01a0a2d45d38877894fd26c4bb75d)
 
-### [UnTuyaOS3](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App) (untuyaos3 0.2.0-beta.2, untuyaos3_wifi 0.2.0-beta.2)
+### [UnTuyaOS3](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App) (untuyaos3 1.0.0-beta.1, untuyaos3_wifi 1.0.0-beta.1)
 
 > An interactive Home Assistant app for UnTuyaOS3, with an Ingress console, verbose live logs, firmware uploads and a dedicated Wi-Fi radio.
 
 **UnTuyaOS3** · [Changelog](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/blob/main/untuyaos3/CHANGELOG.md)<br>
-[![version](https://img.shields.io/static/v1?label=version&message=Beta%202&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/releases/tag/v0.2.0-beta.2) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=41&color=1877A5&style=flat)<br>
+[![version](https://img.shields.io/static/v1?label=version&message=Beta%201&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/releases/tag/v1.0.0-beta.1) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=45&color=1877A5&style=flat)<br>
 ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20151.2%20%C2%B7%20aarch64%20165.6%20MiB&color=157F71&style=flat) ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN%2C%20NET_RAW&color=B45309&style=flat)<br>
 [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-UnTuyaOS3-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/issues) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=4%20passed&color=2F855A&style=flat) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-UnTuyaOS3-App/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/actions/workflows/ci.yml)
 
 **UnTuyaOS3 Wi-Fi Helper** · [Changelog](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/blob/main/untuyaos3_wifi/CHANGELOG.md)<br>
-[![version](https://img.shields.io/static/v1?label=version&message=Beta%202&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/releases/tag/v0.2.0-beta.2) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=41&color=1877A5&style=flat)<br>
+[![version](https://img.shields.io/static/v1?label=version&message=Beta%201&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/releases/tag/v1.0.0-beta.1) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=45&color=1877A5&style=flat)<br>
 ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20151.2%20%C2%B7%20aarch64%20165.6%20MiB&color=157F71&style=flat) ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN&color=B45309&style=flat)<br>
 [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-UnTuyaOS3-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/issues) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=4%20passed&color=2F855A&style=flat) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-UnTuyaOS3-App/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/actions/workflows/ci.yml)
 
-[Source & documentation](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App) · [Pinned commit `d05d8fa`](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/commit/d05d8fa9b03e14f5d3815f3371dce1ae5c8b84a9)
+[Source & documentation](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App) · [Pinned commit `410ad41`](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/commit/410ad4108bed1928657a75ee31f76b3f4438690c)
 
 Image pull counts come from the public GHCR package pages and image sizes from the build pipeline; GitHub does not report installations or countries. See each app's documentation for the actual backup or export behavior.
 
