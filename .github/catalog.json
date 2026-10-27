@@ -22,5 +22,9 @@
   {
     "repository": "seb5594/Home-Assistant-Rsync-Local-Addon",
     "commit": "1397e7e09cf01a0a2d45d38877894fd26c4bb75d"
+  },
+  {
+    "repository": "seb5594/Home-Assistant-UnTuyaOS3-App",
+    "commit": "a4c7db440b925c6ad207ec87b1af00b339ab37ac"
   }
 ]
