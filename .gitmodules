@@ -1,7 +1,3 @@
-[submodule "Home-Assistant-git-exporter-Addon"]
-	# Replaced: path = .sources/git-exporter
-	path = git-exporter
-	url = https://github.com/seb5594/Home-Assistant-git-exporter-Addon.git
 [submodule "Home-Assistant-Rsync-Local-Addon"]
 	# Replaced: path = .sources/Rsync-Local
 	path = Rsync-Local
@@ -24,3 +20,6 @@
 [submodule "Assist-AI-Router"]
 	path = Assist-AI-Router
 	url = https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App.git
+[submodule "Git-Exporter"]
+	path = Git-Exporter
+	url = https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon.git

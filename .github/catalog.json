@@ -4,7 +4,7 @@
     "commit": "b7aa75e5a7c389a5b9f4a26249e60e1cf53051b0"
   },
   {
-    "repository": "seb5594/Home-Assistant-git-exporter-Addon",
+    "repository": "seb5594/Home-Assistant-Git-Exporter-Addon",
     "commit": "bdc122617b962251e459c7aef84fa02b6cce7f35"
   },
   {
@@ -29,6 +29,6 @@
   },
   {
     "repository": "seb5594/Home-Assistant-UnTuyaOS3-App",
-    "commit": "06e8567c5e99a4c9ea07e7b369ee22374b45b3c9"
+    "commit": "3f71e2678875fa678b69f90d16d944569e661cc8"
   }
 ]
