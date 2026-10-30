@@ -14,12 +14,12 @@
 [submodule "Gitea-Mirror"]
 	path = Gitea-Mirror
 	url = https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App.git
-[submodule "UnTuyaOS3"]
-	path = UnTuyaOS3
-	url = https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App.git
 [submodule "Assist-AI-Router"]
 	path = Assist-AI-Router
 	url = https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App.git
 [submodule "Git-Exporter"]
 	path = Git-Exporter
 	url = https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon.git
+[submodule "Anti-Tuya"]
+	path = Anti-Tuya
+	url = https://github.com/seb5594/Home-Assistant-Anti-Tuya-Apps.git
