@@ -1,7 +1,11 @@
 [
   {
+    "repository": "seb5594/Home-Assistant-Anti-Tuya-Apps",
+    "commit": "588d9c68af3edc64be33d9a79755ccbed43ead46"
+  },
+  {
     "repository": "seb5594/Home-Assistant-Assist-AI-Router-App",
-    "commit": "adeee5e63887ae93c769e3e60df4eaa0a705b8f4"
+    "commit": "6d00d4609de3e3c48ba8462dd2f69d4d4120d85b"
   },
   {
     "repository": "seb5594/Home-Assistant-Git-Exporter-Addon",
@@ -26,9 +30,5 @@
   {
     "repository": "seb5594/Home-Assistant-Rsync-Local-Addon",
     "commit": "1397e7e09cf01a0a2d45d38877894fd26c4bb75d"
-  },
-  {
-    "repository": "seb5594/Home-Assistant-UnTuyaOS3-App",
-    "commit": "3f71e2678875fa678b69f90d16d944569e661cc8"
   }
 ]
