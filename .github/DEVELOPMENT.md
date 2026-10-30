@@ -6,7 +6,7 @@ the private `hass-workflows` engine; the README, `repository.yaml` and the submo
 ## What gets listed
 
 Public, active repositories owned by **[seb5594](https://github.com/seb5594)** named
-`Home-Assistant-<project>-App` or `Home-Assistant-<project>-Addon` with at least one app configuration, at the root or in a nested folder.
+`Home-Assistant-<project>-App`, `Home-Assistant-<project>-Apps` or `Home-Assistant-<project>-Addon` with at least one app configuration, at the root or in a nested folder.
 Private, archived and disabled repositories are skipped entirely, so they are neither listed nor
 pinned; a repository that turns private is removed on the next run.
 
