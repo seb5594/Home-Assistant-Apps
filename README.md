@@ -37,7 +37,7 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 
 ### [Gitea-MCP-Server](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App) (1.0.0-alpha.10)
 
-> Brings the official Gitea MCP server to Home Assistant. MCP, the Model Context Protocol, is how AI assistants use tools. With this app, Assist, claude.ai, ChatGPT, Claude Code and other agents can search your repositories, read files, and look at or write issues and pull requests in your own Gitea. You decide which of them you connect.
+> Lets Assist, Claude, ChatGPT and other AI agents work with your own Gitea: search repositories, read files, and look at or write issues and pull requests.
 
 [Changelog](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/blob/dev/gitea_mcp_server/CHANGELOG.md)<br>
 [![version](https://img.shields.io/static/v1?label=version&message=Alpha%2010&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/releases/tag/v1.0.0-alpha.10) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=56&color=1877A5&style=flat)<br>
@@ -48,7 +48,7 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 
 ### [Gitea-Mirror](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App) (1.0.0-alpha.1)
 
-> Brings Gitea Mirror to Home Assistant. It mirrors repositories from GitHub, GitLab or another Gitea to your own Gitea and keeps them up to date. The original web interface is the page of the app, so there is nothing to open on your network.
+> Mirrors repositories from GitHub, GitLab or another Gitea to your own Gitea and keeps them up to date, with the original web interface inside Home Assistant.
 
 [Changelog](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App/blob/dev/gitea_mirror/CHANGELOG.md)<br>
 [![version](https://img.shields.io/static/v1?label=version&message=Alpha%201&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App/releases/tag/v1.0.0-alpha.1) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=4&color=1877A5&style=flat)<br>
@@ -59,7 +59,7 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 
 ### [Gitea-Runner](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App) (1.0.0-alpha.10)
 
-> Brings the Gitea Runner to Home Assistant. Gitea Actions workflows need a runner to execute them; with this app your own Gitea builds, tests and deploys on your own hardware, without a cloud service.
+> Runs the Actions workflows of your own Gitea on Home Assistant, inside an isolated app.
 
 [Changelog](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/blob/dev/gitea_runner/CHANGELOG.md)<br>
 [![version](https://img.shields.io/static/v1?label=version&message=Alpha%2010&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/releases/tag/v1.0.0-alpha.10) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=24&color=1877A5&style=flat)<br>
@@ -70,7 +70,7 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 
 ### [Playstation-VR-Camera-Loader](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App) (1.0.0-beta.5)
 
-> A Home Assistant app that turns the PlayStation 4 / PlayStation VR camera into a far-field microphone for Assist: four capsules, speech focus against TV and music, one clean 16 kHz input for any voice satellite. The camera picture comes along as a bonus.
+> A far-field microphone for Assist, made from a PlayStation 4 / PlayStation VR camera.
 
 [Changelog](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/blob/main/sony_playstation_vr_camera_loader/CHANGELOG.md)<br>
 [![version](https://img.shields.io/static/v1?label=version&message=Beta%205&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/releases/tag/v1.0.0-beta.5) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=8&color=1877A5&style=flat)<br>
@@ -92,7 +92,7 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 
 ### [Tuya-Breaker](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App) (1.2.0-beta.2)
 
-> **English** · Deutsch
+> Tuya Breaker combines UnTuyaOS3, Lightleak and Tuya-Cloudcutter in one experimental Home Assistant Ingress workspace. Choose a tool, review its requirements and use the shared WiFi Namespace Helper to isolate one dedicated adapter. Includes the community hardware explorer, private firmware library and bounded Lightleak flash readout. The Lightleak controller is experimental and awaits physical-device validation.
 
 [Changelog](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/blob/dev/tuya_breaker/CHANGELOG.md)<br>
 [![version](https://img.shields.io/static/v1?label=version&message=Beta%202&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/releases/tag/v1.2.0-beta.2) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=4&color=1877A5&style=flat)<br>
@@ -103,7 +103,7 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 
 ### [UnTuyaOS3](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App) (1.0.0)
 
-> **English** · Deutsch
+> UnTuyaOS3 provides the original interactive UnTuyaOS3 firmware menus in Home Assistant Ingress, with a live terminal and continuously visible diagnostics. It requires the WiFi Namespace Helper and an unused, AP-capable Wi-Fi adapter.
 
 [Changelog](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/blob/dev/untuyaos3/CHANGELOG.md)<br>
 [![version](https://img.shields.io/static/v1?label=version&message=1.0.0&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/releases) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=53&color=1877A5&style=flat)<br>
@@ -114,7 +114,7 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 
 ### [WiFi-Helper](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App) (1.0.0)
 
-> **English** · Deutsch
+> Reusable local service for Home Assistant apps: lends one unused, AP-capable WLAN PHY to a client's isolated network namespace and restores it afterwards. It has no Web UI, HTTP listener, Docker API or host PID access.
 
 [Changelog](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/blob/dev/wifi_helper/CHANGELOG.md)<br>
 [![version](https://img.shields.io/static/v1?label=version&message=1.0.0&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/releases/tag/v1.0.0) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=4&color=1877A5&style=flat)<br>
