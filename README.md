@@ -99,7 +99,7 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20200.2%20%C2%B7%20aarch64%20219.4%20MiB&color=157F71&style=flat) ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN%2C%20NET_RAW&color=B45309&style=flat)<br>
 [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Tuya-Breaker-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/issues) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=9%20passed&color=2F855A&style=flat) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Tuya-Breaker-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/actions/workflows/ci.yml)
 
-[Source & documentation](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App) · [Pinned commit `b89b057`](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/commit/b89b057ce95d10d350f2c48db5a15e8ce409658d)
+[Source & documentation](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App) · [Pinned commit `218cf6e`](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/commit/218cf6e76c5ffd350d9561994c448be5f2aead67)
 
 ### [UnTuyaOS3](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App) (1.0.0)
 
