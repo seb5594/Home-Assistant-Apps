@@ -13,39 +13,6 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 ## Available apps
 
 <!-- Generated from the source repositories by the hass-workflows catalog action. -->
-### [Tuya Breaker (Experimental)](https://github.com/seb5594/Home-Assistant-Anti-Tuya-Apps/tree/151d3b9481dbbecce398b1efc0e21c967509e694/tuya_breaker) (1.2.0-beta.1)
-
-> Tuya Breaker combines UnTuyaOS3, Lightleak and Tuya-Cloudcutter in one experimental Home Assistant Ingress workspace. Choose a tool, review its requirements and use the shared Anti Tuya WiFi Helper to isolate one dedicated adapter. Includes the community hardware explorer, private firmware library and bounded Lightleak flash readout. The Lightleak controller is experimental and awaits physical-device validation.
-
-**Tuya Breaker (Experimental)** · [Changelog](https://github.com/seb5594/Home-Assistant-Anti-Tuya-Apps/blob/dev/tuya_breaker/CHANGELOG.md)<br>
-[![version](https://img.shields.io/static/v1?label=version&message=Beta%201&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Anti-Tuya-Apps/releases/tag/v1.2.0-beta.1)<br>
-![arch](https://img.shields.io/static/v1?label=arch&message=amd64%20%C2%B7%20aarch64&color=157F71&style=flat) ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN%2C%20NET_RAW&color=B45309&style=flat)<br>
-[![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Anti-Tuya-Apps?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Anti-Tuya-Apps/issues) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Anti-Tuya-Apps/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Anti-Tuya-Apps/actions/workflows/ci.yml)
-
-[README & setup](https://github.com/seb5594/Home-Assistant-Anti-Tuya-Apps/tree/151d3b9481dbbecce398b1efc0e21c967509e694/tuya_breaker) · [Pinned commit `151d3b9`](https://github.com/seb5594/Home-Assistant-Anti-Tuya-Apps/commit/151d3b9481dbbecce398b1efc0e21c967509e694)
-
-### [UnTuyaOS3](https://github.com/seb5594/Home-Assistant-Anti-Tuya-Apps/tree/151d3b9481dbbecce398b1efc0e21c967509e694/untuyaos3) (1.2.0-beta.1)
-
-> UnTuyaOS3 provides the original interactive UnTuyaOS3 firmware menus in Home Assistant Ingress, with a live terminal and continuously visible diagnostics. It requires the Anti Tuya WiFi Helper and an unused, AP-capable Wi-Fi adapter.
-
-**UnTuyaOS3** · [Changelog](https://github.com/seb5594/Home-Assistant-Anti-Tuya-Apps/blob/dev/untuyaos3/CHANGELOG.md)<br>
-[![version](https://img.shields.io/static/v1?label=version&message=Beta%201&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Anti-Tuya-Apps/releases/tag/v1.2.0-beta.1)<br>
-![arch](https://img.shields.io/static/v1?label=arch&message=amd64%20%C2%B7%20aarch64&color=157F71&style=flat) ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN%2C%20NET_RAW&color=B45309&style=flat)<br>
-[![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Anti-Tuya-Apps?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Anti-Tuya-Apps/issues) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Anti-Tuya-Apps/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Anti-Tuya-Apps/actions/workflows/ci.yml)
-
-[README & setup](https://github.com/seb5594/Home-Assistant-Anti-Tuya-Apps/tree/151d3b9481dbbecce398b1efc0e21c967509e694/untuyaos3) · [Pinned commit `151d3b9`](https://github.com/seb5594/Home-Assistant-Anti-Tuya-Apps/commit/151d3b9481dbbecce398b1efc0e21c967509e694)
-
-### [Anti Tuya WiFi Helper](https://github.com/seb5594/Home-Assistant-Anti-Tuya-Apps/tree/151d3b9481dbbecce398b1efc0e21c967509e694/untuyaos3_wifi) (1.2.0-beta.1)
-
-> Anti Tuya WiFi Helper assigns one unused, AP-capable host Wi-Fi radio to either UnTuyaOS3 or Tuya Breaker. It restores the adapter and original host settings after the session. This shared companion has no Web UI; only it receives host networking and D-Bus access.
-
-**Anti Tuya WiFi Helper** · [Changelog](https://github.com/seb5594/Home-Assistant-Anti-Tuya-Apps/blob/dev/untuyaos3_wifi/CHANGELOG.md)<br>
-[![version](https://img.shields.io/static/v1?label=version&message=Beta%201&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Anti-Tuya-Apps/releases/tag/v1.2.0-beta.1)<br>
-![arch](https://img.shields.io/static/v1?label=arch&message=amd64%20%C2%B7%20aarch64&color=157F71&style=flat) ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN&color=B45309&style=flat)<br>
-[![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Anti-Tuya-Apps?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Anti-Tuya-Apps/issues) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Anti-Tuya-Apps/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Anti-Tuya-Apps/actions/workflows/ci.yml)
-
-[README & setup](https://github.com/seb5594/Home-Assistant-Anti-Tuya-Apps/tree/151d3b9481dbbecce398b1efc0e21c967509e694/untuyaos3_wifi) · [Pinned commit `151d3b9`](https://github.com/seb5594/Home-Assistant-Anti-Tuya-Apps/commit/151d3b9481dbbecce398b1efc0e21c967509e694)
-
 ### [Assist-AI-Router](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App) (1.0.0)
 
 > Assist AI Router bündelt verschiedene KI-Anbieter und lokale Modelle hinter einem authentifizierten, OpenAI-kompatiblen Endpunkt für Home Assistant Assist. Die App nutzt das enthaltene **LiteLLM SDK** für Modellanfragen und ergänzt eine eigene Routinglogik, Verbrauchserfassung und Ingress-Oberfläche. Anbieter, Modelle, Schlüssel, Prioritäten und Limits verwaltest du im Browser. Speichern übernimmt Änderungen in die App-Konfiguration und wendet sie sofort an.
@@ -122,6 +89,39 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 [![stars](https://img.shields.io/github/stars/seb5594/Home-Assistant-Rsync-Local-Addon?label=stars&style=flat)](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/stargazers) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Rsync-Local-Addon?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/issues) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=12%20passed&color=2F855A&style=flat) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Rsync-Local-Addon/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/actions/workflows/ci.yml)
 
 [Source & documentation](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon) · [Pinned commit `1397e7e`](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/commit/1397e7e09cf01a0a2d45d38877894fd26c4bb75d)
+
+### [Tuya-Breaker](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App) (1.2.0-beta.2)
+
+> **English** · Deutsch
+
+[Changelog](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/blob/dev/tuya_breaker/CHANGELOG.md)<br>
+[![version](https://img.shields.io/static/v1?label=version&message=Beta%202&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/releases)<br>
+![arch](https://img.shields.io/static/v1?label=arch&message=amd64%20%C2%B7%20aarch64&color=157F71&style=flat) ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN%2C%20NET_RAW&color=B45309&style=flat)<br>
+[![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Tuya-Breaker-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/issues) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Tuya-Breaker-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/actions/workflows/ci.yml)
+
+[Source & documentation](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App) · [Pinned commit `49eab8a`](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/commit/49eab8a4a22123a5dda28f5a1b5a18dda59e4d16)
+
+### [UnTuyaOS3](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App) (1.0.0)
+
+> **English** · Deutsch
+
+[Changelog](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/blob/dev/untuyaos3/CHANGELOG.md)<br>
+[![version](https://img.shields.io/static/v1?label=version&message=1.0.0&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/releases) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=53&color=1877A5&style=flat)<br>
+![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20151.2%20%C2%B7%20aarch64%20165.7%20MiB&color=157F71&style=flat) ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN%2C%20NET_RAW&color=B45309&style=flat)<br>
+[![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-UnTuyaOS3-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/issues) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=6%20passed&color=2F855A&style=flat) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-UnTuyaOS3-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/actions/workflows/ci.yml)
+
+[Source & documentation](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App) · [Pinned commit `3f038b4`](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/commit/3f038b489e5899f14d13d8877dd0e50dab346551)
+
+### [WiFi-Helper](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App) (1.0.0)
+
+> **English** · Deutsch
+
+[Changelog](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/blob/dev/wifi_helper/CHANGELOG.md)<br>
+[![version](https://img.shields.io/static/v1?label=version&message=1.0.0&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/releases/tag/v1.0.0) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=4&color=1877A5&style=flat)<br>
+![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20128.5%20%C2%B7%20aarch64%20144.0%20MiB&color=157F71&style=flat) ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN&color=B45309&style=flat)<br>
+[![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-WiFi-Helper-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/issues) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=2%20passed&color=2F855A&style=flat) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-WiFi-Helper-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/actions/workflows/ci.yml)
+
+[Source & documentation](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App) · [Pinned commit `d410c66`](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/commit/d410c66ebd482334292826cde8158cda35f69f4e)
 
 Image pull counts come from the public GHCR package pages and image sizes from the build pipeline; GitHub does not report installations or countries. See each app's documentation for the actual backup or export behavior.
 
