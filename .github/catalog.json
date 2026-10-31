@@ -1,0 +1,34 @@
+[
+  {
+    "repository": "seb5594/Home-Assistant-Anti-Tuya-Apps",
+    "commit": "151d3b9481dbbecce398b1efc0e21c967509e694"
+  },
+  {
+    "repository": "seb5594/Home-Assistant-Assist-AI-Router-App",
+    "commit": "6d00d4609de3e3c48ba8462dd2f69d4d4120d85b"
+  },
+  {
+    "repository": "seb5594/Home-Assistant-Git-Exporter-Addon",
+    "commit": "536a72d2736c51e166b4abef80ac0992afe0d1cf"
+  },
+  {
+    "repository": "seb5594/Home-Assistant-Gitea-MCP-Server-App",
+    "commit": "ea5c95470b5a3834a11f1c921da025f5b1962880"
+  },
+  {
+    "repository": "seb5594/Home-Assistant-Gitea-Mirror-App",
+    "commit": "307ce5201c0bd51426717222b5f76e14ff9ac5b4"
+  },
+  {
+    "repository": "seb5594/Home-Assistant-Gitea-Runner-App",
+    "commit": "0b02ba8120dbed350c1677ba27cd8c60237e3c25"
+  },
+  {
+    "repository": "seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App",
+    "commit": "204618cfaa837dab62ae83e9e675914ae4955094"
+  },
+  {
+    "repository": "seb5594/Home-Assistant-Rsync-Local-Addon",
+    "commit": "3ee63e16027864112946586b443e8338d1188e7c"
+  }
+]
