@@ -22,7 +22,7 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%201235.0%20%C2%B7%20aarch64%201241.9%20MiB&color=157F71&style=flat) ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat)<br>
 [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Assist-AI-Router-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/issues) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=4%20passed&color=2F855A&style=flat) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Assist-AI-Router-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/actions/workflows/ci.yml)
 
-[Source & documentation](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App) · [Pinned commit `13da329`](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/commit/13da3298ffa1dc60139a701251485d41e1edbd9f)
+[Source & documentation](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App) · [Pinned commit `d148091`](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/commit/d1480917ac722288f4134367e227a8e84f04da00)
 
 ### [Git-Exporter](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon) (2.0.0-beta.2)
 
@@ -33,7 +33,7 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20137.1%20%C2%B7%20aarch64%20149.1%20%C2%B7%20armv7%20110.5%20%C2%B7%20armhf%20119.3%20%C2%B7%20i386%20122.6%20MiB&color=157F71&style=flat) ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![mounts (read-only)](https://img.shields.io/static/v1?label=mounts%20%28read-only%29&message=app%20configs%20%C2%B7%20config%20%C2%B7%20local%20apps&color=157F71&style=flat)<br>
 [![stars](https://img.shields.io/github/stars/seb5594/Home-Assistant-Git-Exporter-Addon?label=stars&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/stargazers) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Git-Exporter-Addon?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/issues) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=49%20passed&color=2F855A&style=flat) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Git-Exporter-Addon/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/actions/workflows/ci.yml)
 
-[Source & documentation](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon) · [Pinned commit `4cf7f6a`](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/commit/4cf7f6acc6dee0facb6039ae63b151b3f26038bc)
+[Source & documentation](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon) · [Pinned commit `bb543c3`](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/commit/bb543c311e3c6cba62b9c15f406630749f56508f)
 
 ### [Gitea-MCP-Server](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App) (1.0.0-alpha.11)
 
@@ -44,7 +44,7 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2058.4%20%C2%B7%20aarch64%2066.6%20MiB&color=157F71&style=flat) ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat)<br>
 [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Gitea-MCP-Server-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/issues) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=24%20passed&color=2F855A&style=flat) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Gitea-MCP-Server-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/actions/workflows/ci.yml)
 
-[Source & documentation](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App) · [Pinned commit `b9fed01`](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/commit/b9fed01aacdaaf94d40f7765f3edf05cb26bbf42)
+[Source & documentation](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App) · [Pinned commit `098aaca`](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/commit/098aaca23486902cd09a095d310f46af8b8462a9)
 
 ### [Gitea-Mirror](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App) (1.0.0-alpha.2)
 
@@ -55,7 +55,7 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20545.1%20%C2%B7%20aarch64%20543.9%20MiB&color=157F71&style=flat) ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat)<br>
 [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Gitea-Mirror-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App/issues) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=24%20passed&color=2F855A&style=flat) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Gitea-Mirror-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App/actions/workflows/ci.yml)
 
-[Source & documentation](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App) · [Pinned commit `9b90d6b`](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App/commit/9b90d6b34e28d56ec683670d15c33f695ddcaa8c)
+[Source & documentation](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App) · [Pinned commit `2056515`](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App/commit/20565158a0b6d2d7a956d20156976f3af4cb0b09)
 
 ### [Gitea-Runner](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App) (1.0.0-alpha.11)
 
@@ -66,7 +66,7 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20136.4%20%C2%B7%20aarch64%20145.5%20MiB&color=157F71&style=flat) ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat)<br>
 [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Gitea-Runner-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/issues) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=13%20passed&color=2F855A&style=flat) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Gitea-Runner-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/actions/workflows/ci.yml)
 
-[Source & documentation](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App) · [Pinned commit `030bc4c`](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/commit/030bc4c9ee03c2e2f982f02809f297043223955a)
+[Source & documentation](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App) · [Pinned commit `ac096b4`](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/commit/ac096b41aede4460f08420bbce6bbe06de99e0b2)
 
 ### [Playstation-VR-Camera-Loader](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App) (1.0.0-beta.6)
 
@@ -77,7 +77,7 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20217.1%20%C2%B7%20aarch64%20204.2%20MiB&color=157F71&style=flat) ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=addon_config&color=B45309&style=flat) ![local disks](https://img.shields.io/static/v1?label=local%20disks&message=attached&color=1877A5&style=flat)<br>
 [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/issues) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=5%20passed&color=2F855A&style=flat) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/actions/workflows/ci.yml)
 
-[Source & documentation](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App) · [Pinned commit `32a1106`](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/commit/32a110606522e3c81f9ec9a0ab5ae2586853d777)
+[Source & documentation](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App) · [Pinned commit `50f604c`](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/commit/50f604cf47611d27f0c7fce613f97a90088abd0e)
 
 ### [Rsync-Local](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon) (1.75.0)
 
@@ -88,7 +88,7 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2047.6%20%C2%B7%20aarch64%2056.8%20%C2%B7%20armv7%2037.1%20%C2%B7%20armhf%2042.5%20%C2%B7%20i386%2043.6%20MiB&color=157F71&style=flat) ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![mounts (read-only)](https://img.shields.io/static/v1?label=mounts%20%28read-only%29&message=app%20configs%20%C2%B7%20backup%20%C2%B7%20config%20%C2%B7%20local%20apps%20%C2%B7%20media%20%C2%B7%20share%20%C2%B7%20ssl&color=157F71&style=flat) ![local disks](https://img.shields.io/static/v1?label=local%20disks&message=attached&color=1877A5&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=SYS_ADMIN&color=B45309&style=flat) ![apparmor](https://img.shields.io/static/v1?label=apparmor&message=disabled&color=B45309&style=flat)<br>
 [![stars](https://img.shields.io/github/stars/seb5594/Home-Assistant-Rsync-Local-Addon?label=stars&style=flat)](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/stargazers) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Rsync-Local-Addon?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/issues) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=12%20passed&color=2F855A&style=flat) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Rsync-Local-Addon/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/actions/workflows/ci.yml)
 
-[Source & documentation](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon) · [Pinned commit `eb32907`](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/commit/eb329079f77a588a61ee16f8a53db5be63ba2f5d)
+[Source & documentation](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon) · [Pinned commit `d99e424`](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/commit/d99e424097f976a45ed8c53f99076e3fce9dd87e)
 
 ### [Tuya-Breaker](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App) (1.2.0-beta.5)
 
@@ -99,7 +99,7 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20204.3%20%C2%B7%20aarch64%20223.5%20MiB&color=157F71&style=flat) ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN%2C%20NET_RAW&color=B45309&style=flat)<br>
 [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Tuya-Breaker-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/issues) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=9%20passed&color=2F855A&style=flat) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Tuya-Breaker-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/actions/workflows/ci.yml)
 
-[Source & documentation](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App) · [Pinned commit `168edb8`](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/commit/168edb81e062b850a3dec68b6740a2d7fa00a388)
+[Source & documentation](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App) · [Pinned commit `1acd5f5`](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/commit/1acd5f5712cb8f156725f5f95d6e4b17556d60b4)
 
 ### [UnTuyaOS3](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App) (1.0.3)
 
@@ -110,7 +110,7 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20153.6%20%C2%B7%20aarch64%20168.0%20MiB&color=157F71&style=flat) ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN%2C%20NET_RAW&color=B45309&style=flat)<br>
 [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-UnTuyaOS3-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/issues) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=6%20passed&color=2F855A&style=flat) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-UnTuyaOS3-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/actions/workflows/ci.yml)
 
-[Source & documentation](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App) · [Pinned commit `f490dbe`](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/commit/f490dbec6e623f5c41675eebf0c6b0a54839ce67)
+[Source & documentation](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App) · [Pinned commit `a5d1fe4`](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/commit/a5d1fe40bd3b53902520f3ca04c6fe6907f40163)
 
 ### [WiFi-Helper](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App) (1.0.2)
 
@@ -121,7 +121,7 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20130.1%20%C2%B7%20aarch64%20145.4%20MiB&color=157F71&style=flat) ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN&color=B45309&style=flat)<br>
 [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-WiFi-Helper-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/issues) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=2%20passed&color=2F855A&style=flat) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-WiFi-Helper-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/actions/workflows/ci.yml)
 
-[Source & documentation](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App) · [Pinned commit `1361041`](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/commit/13610411fc9c8e5e7d417c2537dc5df1793acc23)
+[Source & documentation](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App) · [Pinned commit `a630189`](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/commit/a630189cd217353f48217cebea3210236ec0dee8)
 
 Image pull counts come from the public GHCR package pages and image sizes from the build pipeline; GitHub does not report installations or countries. See each app's documentation for the actual backup or export behavior.
 
