@@ -110,7 +110,7 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20153.6%20%C2%B7%20aarch64%20168.0%20MiB&color=157F71&style=flat) ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN%2C%20NET_RAW&color=B45309&style=flat)<br>
 [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-UnTuyaOS3-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/issues) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=6%20passed&color=2F855A&style=flat) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-UnTuyaOS3-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/actions/workflows/ci.yml)
 
-[Source & documentation](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App) · [Pinned commit `ccc370a`](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/commit/ccc370a8dc3dd20cbf5ad01c7eeaf38137967271)
+[Source & documentation](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App) · [Pinned commit `bba07f0`](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/commit/bba07f08faf0995997fe18130fa2d33981a9b2be)
 
 ### [WiFi-Helper](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App) (1.0.2)
 
