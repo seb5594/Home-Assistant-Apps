@@ -101,16 +101,16 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 
 [Source & documentation](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App) · [Pinned commit `1acd5f5`](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/commit/1acd5f5712cb8f156725f5f95d6e4b17556d60b4)
 
-### [UnTuyaOS3](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App) (1.0.3)
+### [UnTuyaOS3](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App) (1.0.4)
 
 > UnTuyaOS3 provides the original interactive UnTuyaOS3 firmware menus in Home Assistant Ingress, with a live terminal and continuously visible diagnostics. It requires the WiFi App Helper and an unused, AP-capable Wi-Fi adapter.
 
 [Changelog](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/blob/dev/untuyaos3/CHANGELOG.md)<br>
-[![version](https://img.shields.io/static/v1?label=version&message=1.0.3&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/releases/tag/v1.0.3) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=65&color=1877A5&style=flat)<br>
+[![version](https://img.shields.io/static/v1?label=version&message=1.0.4&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/releases/tag/v1.0.4) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=69&color=1877A5&style=flat)<br>
 ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20153.6%20%C2%B7%20aarch64%20168.0%20MiB&color=157F71&style=flat) ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN%2C%20NET_RAW&color=B45309&style=flat)<br>
 [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-UnTuyaOS3-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/issues) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=6%20passed&color=2F855A&style=flat) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-UnTuyaOS3-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/actions/workflows/ci.yml)
 
-[Source & documentation](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App) · [Pinned commit `a5d1fe4`](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/commit/a5d1fe40bd3b53902520f3ca04c6fe6907f40163)
+[Source & documentation](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App) · [Pinned commit `b1be7b3`](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/commit/b1be7b3c72ad0a013b2d72ae5c7c38565e4aef40)
 
 ### [WiFi-Helper](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App) (1.0.2)
 
