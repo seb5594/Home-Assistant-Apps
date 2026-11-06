@@ -62,11 +62,11 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 > Runs the Actions workflows of your own Gitea on Home Assistant, inside an isolated app.
 
 [Changelog](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/blob/dev/gitea_runner/CHANGELOG.md)<br>
-[![version](https://img.shields.io/static/v1?label=version&message=Alpha%2013&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/releases) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=32&color=1877A5&style=flat)<br>
+[![version](https://img.shields.io/static/v1?label=version&message=Alpha%2013&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/releases/tag/v1.0.0-alpha.13) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=36&color=1877A5&style=flat)<br>
 ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20136.8%20%C2%B7%20aarch64%20145.9%20MiB&color=157F71&style=flat) ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat)<br>
 [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Gitea-Runner-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/issues) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=13%20passed&color=2F855A&style=flat) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Gitea-Runner-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/actions/workflows/ci.yml)
 
-[Source & documentation](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App) · [Pinned commit `00c4097`](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/commit/00c4097e67be020e3e8e6707bd2599088afa340d)
+[Source & documentation](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App) · [Pinned commit `97f0e12`](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/commit/97f0e12e7405c389a4e0de5008553420991a3fec)
 
 ### [Playstation-VR-Camera-Loader](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App) (1.0.0-beta.6)
 
