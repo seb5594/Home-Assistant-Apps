@@ -5,7 +5,7 @@
   },
   {
     "repository": "seb5594/Home-Assistant-Git-Exporter-Addon",
-    "commit": "b194298a86e5f06f0025aab0b7f74713ec5933fe"
+    "commit": "8ed439d9cd3dc11a76b0fb400e7ee96b3d871579"
   },
   {
     "repository": "seb5594/Home-Assistant-Gitea-MCP-Server-App",
@@ -21,11 +21,11 @@
   },
   {
     "repository": "seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App",
-    "commit": "f065581f2e6d66d55c643f3e8e8a0fc014badcbc"
+    "commit": "e44a33508a3335ef64ab3e6bee048a726ad41e57"
   },
   {
     "repository": "seb5594/Home-Assistant-Rsync-Local-Addon",
-    "commit": "c5f8e99faddfb94f9bbdfb56ba43cb6c99f351b7"
+    "commit": "a36c10335371e59d394e4101c5c697a662dd4df7"
   },
   {
     "repository": "seb5594/Home-Assistant-Tuya-Breaker-App",
