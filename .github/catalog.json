@@ -5,7 +5,7 @@
   },
   {
     "repository": "seb5594/Home-Assistant-Git-Exporter-Addon",
-    "commit": "62d299ec67bac7972ebf74ca069bce84f6faebbe"
+    "commit": "00e4277f8b1df18affdca5f056150ee70f495cb5"
   },
   {
     "repository": "seb5594/Home-Assistant-Gitea-MCP-Server-App",
@@ -25,7 +25,7 @@
   },
   {
     "repository": "seb5594/Home-Assistant-Rsync-Local-Addon",
-    "commit": "4d6b4fae050db8663d8f980c7d38cab5bc98bd89"
+    "commit": "3f49784f96f455535c8de49f0a9b9e612e3d3f25"
   },
   {
     "repository": "seb5594/Home-Assistant-Tuya-Breaker-App",
