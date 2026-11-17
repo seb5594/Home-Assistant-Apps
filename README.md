@@ -15,14 +15,14 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 <!-- Generated from the source repositories by the hass-workflows catalog action. -->
 ### [Assist-AI-Router](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App) (1.0.5)
 
-> Assist AI Router combines cloud providers and local models behind an authenticated OpenAI-compatible endpoint. The app uses the included **LiteLLM SDK** for model requests and adds its own routing, usage accounting and ingress interface. Manage profiles, keys, models, priorities and limits in your browser. Saving writes to the app configuration and applies changes immediately.
+> Assist AI Router
 
 [Changelog](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/blob/dev/assist_ai_router/CHANGELOG.md)<br>
 ![home assistant](https://img.shields.io/static/v1?label=home%20assistant&message=%E2%89%A5%202026.8.0&color=1877A5&style=flat) [![version](https://img.shields.io/static/v1?label=version&message=1.0.5&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/releases/tag/v1.0.5) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=32&color=1877A5&style=flat)<br>
-![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%201235.0%20%C2%B7%20aarch64%201241.9%20MiB&color=157F71&style=flat) ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat)<br>
+![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20428.9%20%C2%B7%20aarch64%20436.7%20MiB&color=157F71&style=flat) ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat)<br>
 [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Assist-AI-Router-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/issues) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=4%20passed&color=2F855A&style=flat) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Assist-AI-Router-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/actions/workflows/ci.yml)
 
-[Source & documentation](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App) · [Pinned commit `86e10a7`](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/commit/86e10a7b4278275fba6d216599dc60a242dffae6)
+[Source & documentation](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App) · [Pinned commit `dd9f343`](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/commit/dd9f343557f81b4e7d899e5233017ce9f7fb9dd5)
 
 ### [Git-Exporter](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon) (2.0.0-beta.3)
 
