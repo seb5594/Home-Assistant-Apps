@@ -1,11 +1,11 @@
 [
   {
     "repository": "seb5594/Home-Assistant-Assist-AI-Router-App",
-    "commit": "96a8499798e4d5d766afc5c7bc7938e89243b221"
+    "commit": "86e10a7b4278275fba6d216599dc60a242dffae6"
   },
   {
     "repository": "seb5594/Home-Assistant-Git-Exporter-Addon",
-    "commit": "dbbdd56650e1abb6fb080b8c7ecf5cbafdc05016"
+    "commit": "62d299ec67bac7972ebf74ca069bce84f6faebbe"
   },
   {
     "repository": "seb5594/Home-Assistant-Gitea-MCP-Server-App",
@@ -21,7 +21,7 @@
   },
   {
     "repository": "seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App",
-    "commit": "9829356c15901b2e62f554cbc145fadfa651577b"
+    "commit": "16960ebb04274348c77cc59583347108459c898e"
   },
   {
     "repository": "seb5594/Home-Assistant-Rsync-Local-Addon",
