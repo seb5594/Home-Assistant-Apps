@@ -35,16 +35,16 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 
 [Source & documentation](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon) · [Pinned commit `8ed439d`](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/commit/8ed439d9cd3dc11a76b0fb400e7ee96b3d871579)
 
-### [Gitea-MCP-Server](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App) (1.0.0-alpha.12)
+### [Gitea-MCP-Server](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App) (1.13.0)
 
-> Lets Assist, Claude, ChatGPT and other AI agents work with your own Gitea: search repositories, read files, and look at or write issues and pull requests.
+> Connect MCP clients to your Gitea repositories, files, issues and pull requests through Home Assistant.
 
 [Changelog](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/blob/dev/gitea_mcp_server/CHANGELOG.md)<br>
-[![version](https://img.shields.io/static/v1?label=version&message=Alpha%2012&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/releases/tag/v1.0.0-alpha.12) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=128&color=1877A5&style=flat)<br>
-![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2058.1%20%C2%B7%20aarch64%2066.4%20MiB&color=157F71&style=flat) ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat)<br>
-[![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Gitea-MCP-Server-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/issues) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=24%20passed&color=2F855A&style=flat) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Gitea-MCP-Server-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/actions/workflows/ci.yml)
+[![version](https://img.shields.io/static/v1?label=version&message=1.13.0&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/releases/tag/v1.13.0) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=132&color=1877A5&style=flat)<br>
+![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2058.1%20%C2%B7%20aarch64%2066.4%20MiB&color=157F71&style=flat) ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat)<br>
+[![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Gitea-MCP-Server-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/issues) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=23%20passed&color=2F855A&style=flat) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Gitea-MCP-Server-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/actions/workflows/ci.yml)
 
-[Source & documentation](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App) · [Pinned commit `08cb3f8`](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/commit/08cb3f8ed13bdfc44cef29f0fcaf49d9422fd991)
+[Source & documentation](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App) · [Pinned commit `af995b6`](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/commit/af995b63d0f227b2e08f14cbe0bc1583c4a73651)
 
 ### [Gitea-Mirror](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App) (3.54.0)
 
