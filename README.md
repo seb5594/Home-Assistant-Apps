@@ -36,16 +36,16 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 
 [Source & documentation](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon) · [Pinned commit `d9909fd`](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/commit/d9909fd06d8076b9a1e34508d1a33359199ce5d3)
 
-### [Git-Renovate](https://github.com/seb5594/Home-Assistant-Git-Renovate-App) (2026.11.20.1)
+### [Git-Renovate](https://github.com/seb5594/Home-Assistant-Git-Renovate-App) (2026.11.20.2)
 
 > Keeps the dependencies of your GitHub, GitLab, Gitea and Forgejo repositories up to date. Renovate opens a pull request when something you use has a new version, and this app runs it on your Home Assistant with a web interface, a schedule and optional webhooks.
 
 [Changelog](https://github.com/seb5594/Home-Assistant-Git-Renovate-App/blob/dev/renovate/CHANGELOG.md)<br>
-[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.20.1&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Renovate-App/releases/tag/2026.11.20.1) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=8&color=1877A5&style=flat)<br>
+[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.20.2&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Renovate-App/releases/tag/2026.11.20.2) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=12&color=1877A5&style=flat)<br>
 ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2077.4%20%C2%B7%20aarch64%2077.0%20MiB&color=157F71&style=flat) ![mounts (read-only)](https://img.shields.io/static/v1?label=mounts%20%28read-only%29&message=addon_config%20%C2%B7%20ssl&color=157F71&style=flat)<br>
-[![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Git-Renovate-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Renovate-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=93%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Git-Renovate-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Renovate-App/issues)
+[![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Git-Renovate-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Renovate-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=100%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Git-Renovate-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Renovate-App/issues)
 
-[Source & documentation](https://github.com/seb5594/Home-Assistant-Git-Renovate-App) · [Pinned commit `d7d0b69`](https://github.com/seb5594/Home-Assistant-Git-Renovate-App/commit/d7d0b69e0d323f4136b4350ff9c4b8f972eb7710)
+[Source & documentation](https://github.com/seb5594/Home-Assistant-Git-Renovate-App) · [Pinned commit `69bf08b`](https://github.com/seb5594/Home-Assistant-Git-Renovate-App/commit/69bf08b2079866930991820bee9e0be172a0a8b9)
 
 ### [Gitea-MCP-Server](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App) (1.13.0)
 
