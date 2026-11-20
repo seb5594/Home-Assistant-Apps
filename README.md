@@ -202,7 +202,7 @@ Keep an extra local copy of your Home Assistant files on an attached USB drive.
 
 <a name="app-tuya-breaker-tuya_breaker"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Tuya-Breaker-App/45505abb15fcb6ac99dadebfdc631570134825a1/tuya_breaker/icon.png" width="28" height="28" alt=""> [Tuya Breaker](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App) (2026.11.20.3)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Tuya-Breaker-App/822090b9d0cde9b6dfbe13a87f5e8fa91b0582ec/tuya_breaker/icon.png" width="28" height="28" alt=""> [Tuya Breaker](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App) (2026.11.20.3)
 
 One experimental Ingress workspace for UnTuyaOS3, Lightleak flash backups and Tuya-Cloudcutter, with an isolated Wi-Fi lease
 
@@ -211,11 +211,11 @@ One experimental Ingress workspace for UnTuyaOS3, Lightleak flash backups and Tu
 <details>
 <summary>Build, image and repository details</summary>
 
-[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.20.3&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/releases/tag/2026.11.20.3) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=10&color=1877A5&style=flat)<br>
+[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.20.3&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/releases/tag/2026.11.20.3) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=11&color=1877A5&style=flat)<br>
 ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2069.4%20%C2%B7%20aarch64%2069.3%20MiB&color=157F71&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN%2C%20NET_RAW&color=B45309&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Tuya-Breaker-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=9%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Tuya-Breaker-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/issues)
 
-[Pinned commit `45505ab`](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/commit/45505abb15fcb6ac99dadebfdc631570134825a1)
+[Pinned commit `822090b`](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/commit/822090b9d0cde9b6dfbe13a87f5e8fa91b0582ec)
 
 </details>
 
