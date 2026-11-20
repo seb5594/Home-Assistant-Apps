@@ -71,7 +71,7 @@ Keeps the dependencies of your GitHub, GitLab and Gitea repositories up to date,
 
 </details>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/13a58f8a55275612a3545dea5ec0eca669bd4567/gitea_mcp_server/icon.png" width="28" height="28" alt=""> [Gitea MCP-Server](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App) (1.13.0)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/ce2ad0b1a3c5203701e8f0851e75db7c71f706b0/gitea_mcp_server/icon.png" width="28" height="28" alt=""> [Gitea MCP-Server](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App) (1.13.0)
 
 Connects MCP clients to your Gitea repositories, issues and pull requests.
 
@@ -86,7 +86,7 @@ Connects MCP clients to your Gitea repositories, issues and pull requests.
 ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2058.1%20%C2%B7%20aarch64%2066.4%20MiB&color=157F71&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Gitea-MCP-Server-App/ci.yml?branch=master&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=23%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Gitea-MCP-Server-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/issues)
 
-[Pinned commit `13a58f8`](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/commit/13a58f8a55275612a3545dea5ec0eca669bd4567)
+[Pinned commit `ce2ad0b`](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/commit/ce2ad0b1a3c5203701e8f0851e75db7c71f706b0)
 
 </details>
 
@@ -109,7 +109,7 @@ Mirrors your GitHub, GitLab or Gitea repositories to your own Gitea and keeps th
 
 </details>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Gitea-Runner-App/b3c52f3d2cc0c294ab2d7b318fffaf8b0e8425e0/gitea_runner/icon.png" width="28" height="28" alt=""> [Gitea Runner](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App) (6.0.1)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Gitea-Runner-App/622299e4d70928c9797fd63a843a744b420691f7/gitea_runner/icon.png" width="28" height="28" alt=""> [Gitea Runner](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App) (6.0.1)
 
 Runs the Actions workflows of your Gitea inside an isolated app, without access to your Home Assistant host.
 
@@ -124,11 +124,11 @@ Runs the Actions workflows of your Gitea inside an isolated app, without access 
 ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20136.9%20%C2%B7%20aarch64%20146.0%20MiB&color=157F71&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Gitea-Runner-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=13%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Gitea-Runner-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/issues)
 
-[Pinned commit `b3c52f3`](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/commit/b3c52f3d2cc0c294ab2d7b318fffaf8b0e8425e0)
+[Pinned commit `622299e`](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/commit/622299e4d70928c9797fd63a843a744b420691f7)
 
 </details>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Mail-Forwarder-App/6b471b3fbc54713a65a18e93c6069a6777885d9e/mail_forwarder/icon.png" width="28" height="28" alt=""> [Mail Forwarder](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App) (2026.11.20.4)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Mail-Forwarder-App/43600c778f0205809cf5d7dedc0c06779427598f/mail_forwarder/icon.png" width="28" height="28" alt=""> [Mail Forwarder](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App) (2026.11.20.4)
 
 Receives mail for your own domains and forwards it to your Gmail, Outlook or WEB.DE inbox.
 
@@ -139,11 +139,11 @@ Receives mail for your own domains and forwards it to your Gmail, Outlook or WEB
 <details>
 <summary>Build, image and repository details</summary>
 
-[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.20.4&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/releases/tag/2026.11.20.4) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=12&color=1877A5&style=flat)<br>
+[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.20.4&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/releases/tag/2026.11.20.4) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=14&color=1877A5&style=flat)<br>
 ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2041.2%20%C2%B7%20aarch64%2041.3%20MiB&color=157F71&style=flat)<br>
-[![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Mail-Forwarder-App/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=16%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Mail-Forwarder-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/issues)
+[![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Mail-Forwarder-App/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=20%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Mail-Forwarder-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/issues)
 
-[Pinned commit `6b471b3`](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/commit/6b471b3fbc54713a65a18e93c6069a6777885d9e)
+[Pinned commit `43600c7`](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/commit/43600c778f0205809cf5d7dedc0c06779427598f)
 
 </details>
 
