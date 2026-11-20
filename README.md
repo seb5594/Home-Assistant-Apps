@@ -33,7 +33,7 @@ Multi-provider AI gateway for Home Assistant Assist, powered by LiteLLM.
 
 </details>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Git-Exporter-Addon/d9909fd06d8076b9a1e34508d1a33359199ce5d3/git-exporter/icon.png" width="28" height="28" alt=""> [Home Assistant Git Exporter](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon) (2.0.0-beta.3)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Git-Exporter-Addon/82c250253f0d77d031331af558c7d1ff9833eb2b/git-exporter/icon.png" width="28" height="28" alt=""> [Home Assistant Git Exporter](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon) (2.0.0-beta.3)
 
 Exports your Home Assistant configuration to one or more git repositories (GitHub, GitLab, Gitea and others), for private use or for the public, with a preview and a file browser.
 
@@ -48,7 +48,7 @@ Exports your Home Assistant configuration to one or more git repositories (GitHu
 ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20135.3%20%C2%B7%20aarch64%20147.4%20%C2%B7%20armv7%20119.7%20%C2%B7%20armhf%20129.1%20%C2%B7%20i386%20132.0%20MiB&color=157F71&style=flat) ![mounts (read-only)](https://img.shields.io/static/v1?label=mounts%20%28read-only%29&message=app%20configs%20%C2%B7%20config%20%C2%B7%20local%20apps&color=157F71&style=flat)<br>
 [![stars](https://img.shields.io/github/stars/seb5594/Home-Assistant-Git-Exporter-Addon?label=stars&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/stargazers) [![forks](https://img.shields.io/github/forks/seb5594/Home-Assistant-Git-Exporter-Addon?label=forks&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/forks) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Git-Exporter-Addon/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=49%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Git-Exporter-Addon?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/issues)
 
-[Pinned commit `d9909fd`](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/commit/d9909fd06d8076b9a1e34508d1a33359199ce5d3)
+[Pinned commit `82c2502`](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/commit/82c250253f0d77d031331af558c7d1ff9833eb2b)
 
 </details>
 
@@ -90,7 +90,7 @@ Connects MCP clients to your Gitea repositories, issues and pull requests.
 
 </details>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Gitea-Mirror-App/9404d65c6cbb344a5a6205f9cbb50712fd548d08/gitea_mirror/icon.png" width="28" height="28" alt=""> [Gitea Mirror](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App) (3.54.0)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Gitea-Mirror-App/026856d9043f3a89f12d886c5b01c10cca2f7e4c/gitea_mirror/icon.png" width="28" height="28" alt=""> [Gitea Mirror](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App) (3.54.0)
 
 Mirrors your GitHub, GitLab or Gitea repositories to your own Gitea and keeps them up to date, with the original web interface inside Home Assistant.
 
@@ -105,7 +105,7 @@ Mirrors your GitHub, GitLab or Gitea repositories to your own Gitea and keeps th
 ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20591.2%20%C2%B7%20aarch64%20587.2%20MiB&color=157F71&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Gitea-Mirror-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=24%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Gitea-Mirror-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App/issues)
 
-[Pinned commit `9404d65`](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App/commit/9404d65c6cbb344a5a6205f9cbb50712fd548d08)
+[Pinned commit `026856d`](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App/commit/026856d9043f3a89f12d886c5b01c10cca2f7e4c)
 
 </details>
 
@@ -147,7 +147,7 @@ Receives mail for your own domains and forwards it to your Gmail, Outlook or WEB
 
 </details>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/16960ebb04274348c77cc59583347108459c898e/sony_playstation_vr_camera_loader/icon.png" width="28" height="28" alt=""> [Sony PlayStation VR Camera Loader](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App) (1.0.0-beta.6)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/411d878272c8d0f4e3293db9d78cf949e9f7f671/sony_playstation_vr_camera_loader/icon.png" width="28" height="28" alt=""> [Sony PlayStation VR Camera Loader](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App) (1.0.0-beta.6)
 
 Turns the PlayStation (VR) Camera into a far-field voice microphone for Assist, with an optional video preview.
 
@@ -162,7 +162,7 @@ Turns the PlayStation (VR) Camera into a far-field voice microphone for Assist, 
 ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20217.2%20%C2%B7%20aarch64%20204.3%20MiB&color=157F71&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=addon_config&color=B45309&style=flat) ![local disks](https://img.shields.io/static/v1?label=local%20disks&message=attached&color=1877A5&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=5%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/issues)
 
-[Pinned commit `16960eb`](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/commit/16960ebb04274348c77cc59583347108459c898e)
+[Pinned commit `411d878`](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/commit/411d878272c8d0f4e3293db9d78cf949e9f7f671)
 
 </details>
 
@@ -223,7 +223,7 @@ Flash compatible Tuya devices with open firmware from Home Assistant (UnTuyaOS3)
 
 </details>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-WiFi-Helper-App/e6b42b835e6dd673e339b8c14de793864ae2c513/wifi_helper/icon.png" width="28" height="28" alt=""> [WiFi App Helper](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App) (1.0.2)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-WiFi-Helper-App/1920662f0e414fa4d7ec0f73aaff440d69c32cc8/wifi_helper/icon.png" width="28" height="28" alt=""> [WiFi App Helper](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App) (1.0.2)
 
 Reusable local API to lend one idle Wi-Fi radio to an isolated Home Assistant app and restore it afterwards
 
@@ -235,10 +235,10 @@ Reusable local API to lend one idle Wi-Fi radio to an isolated Home Assistant ap
 <summary>Build, image and repository details</summary>
 
 [![app version](https://img.shields.io/static/v1?label=app%20version&message=1.0.2&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/releases/tag/v1.0.2) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=12&color=1877A5&style=flat)<br>
-![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20131.3%20%C2%B7%20aarch64%20146.7%20MiB&color=157F71&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN&color=B45309&style=flat)<br>
+![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2040.7%20%C2%B7%20aarch64%2040.6%20MiB&color=157F71&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN&color=B45309&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-WiFi-Helper-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=2%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-WiFi-Helper-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/issues)
 
-[Pinned commit `e6b42b8`](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/commit/e6b42b835e6dd673e339b8c14de793864ae2c513)
+[Pinned commit `1920662`](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/commit/1920662f0e414fa4d7ec0f73aaff440d69c32cc8)
 
 </details>
 
