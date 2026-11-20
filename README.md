@@ -30,7 +30,7 @@ Add this catalog once to install apps for backups, development tools, smart devi
 <!-- Generated from the source repositories by the hass-workflows catalog action. -->
 <a name="app-assist-ai-router-assist_ai_router"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Assist-AI-Router-App/c83c0de3e9f9fc28af9e56c69897c084a5fe995a/assist_ai_router/icon.png" width="28" height="28" alt=""> [Assist AI Router](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App) (1.0.5)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Assist-AI-Router-App/94c7895542cab0bfb40752e38948006cef6bbe3d/assist_ai_router/icon.png" width="28" height="28" alt=""> [Assist AI Router](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App) (1.0.5)
 
 Multi-provider AI gateway for Home Assistant Assist, powered by LiteLLM.
 
@@ -41,16 +41,16 @@ Multi-provider AI gateway for Home Assistant Assist, powered by LiteLLM.
 
 ![home assistant](https://img.shields.io/static/v1?label=home%20assistant&message=%E2%89%A5%202026.8.0&color=1877A5&style=flat)<br>
 [![app version](https://img.shields.io/static/v1?label=app%20version&message=1.0.5&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/releases/tag/v1.0.5) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=32&color=1877A5&style=flat)<br>
-![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20149.1%20%C2%B7%20aarch64%20147.5%20MiB%20%C2%B7%20armv7%20%C2%B7%20armhf%20%C2%B7%20i386&color=157F71&style=flat)<br>
+![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20149.1%20%C2%B7%20aarch64%20147.5%20MiB&color=157F71&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Assist-AI-Router-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=4%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Assist-AI-Router-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/issues)
 
-[Pinned commit `c83c0de`](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/commit/c83c0de3e9f9fc28af9e56c69897c084a5fe995a)
+[Pinned commit `94c7895`](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/commit/94c7895542cab0bfb40752e38948006cef6bbe3d)
 
 </details>
 
 <a name="app-git-exporter-git-exporter"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Git-Exporter-Addon/0185a22fabb51e2a2ed88e67d17769103b224fb5/git-exporter/icon.png" width="28" height="28" alt=""> [Home Assistant Git Exporter](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon) (2.0.0-beta.3)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Git-Exporter-Addon/0b5252a17d59abc0ce78e3bc574e137ec5ddf122/git-exporter/icon.png" width="28" height="28" alt=""> [Home Assistant Git Exporter](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon) (2.0.0-beta.3)
 
 Exports your Home Assistant configuration to one or more git repositories (GitHub, GitLab, Gitea and others), for private use or for the public, with a preview and a file browser.
 
@@ -63,13 +63,13 @@ Exports your Home Assistant configuration to one or more git repositories (GitHu
 ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2043.1%20%C2%B7%20aarch64%2042.9%20%C2%B7%20armv7%2039.6%20%C2%B7%20armhf%2040.8%20%C2%B7%20i386%2042.4%20MiB&color=157F71&style=flat) ![mounts (read-only)](https://img.shields.io/static/v1?label=mounts%20%28read-only%29&message=app%20configs%20%C2%B7%20config%20%C2%B7%20local%20apps&color=157F71&style=flat)<br>
 [![stars](https://img.shields.io/github/stars/seb5594/Home-Assistant-Git-Exporter-Addon?label=stars&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/stargazers) [![forks](https://img.shields.io/github/forks/seb5594/Home-Assistant-Git-Exporter-Addon?label=forks&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/forks) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Git-Exporter-Addon/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=49%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Git-Exporter-Addon?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/issues)
 
-[Pinned commit `0185a22`](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/commit/0185a22fabb51e2a2ed88e67d17769103b224fb5)
+[Pinned commit `0b5252a`](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/commit/0b5252a17d59abc0ce78e3bc574e137ec5ddf122)
 
 </details>
 
 <a name="app-gitea-mcp-server-gitea_mcp_server"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/cbab827e079e74b4a237c31e192cb164d8542ab8/gitea_mcp_server/icon.png" width="28" height="28" alt=""> [Gitea MCP-Server](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App) (1.13.0)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/c94a26d41cb3c19dab09bc19ac16a96d239354dc/gitea_mcp_server/icon.png" width="28" height="28" alt=""> [Gitea MCP-Server](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App) (1.13.0)
 
 Connects MCP clients to your Gitea repositories, issues and pull requests.
 
@@ -82,13 +82,13 @@ Connects MCP clients to your Gitea repositories, issues and pull requests.
 ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2058.1%20%C2%B7%20aarch64%2066.4%20MiB&color=157F71&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Gitea-MCP-Server-App/ci.yml?branch=master&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=23%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Gitea-MCP-Server-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/issues)
 
-[Pinned commit `cbab827`](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/commit/cbab827e079e74b4a237c31e192cb164d8542ab8)
+[Pinned commit `c94a26d`](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/commit/c94a26d41cb3c19dab09bc19ac16a96d239354dc)
 
 </details>
 
 <a name="app-gitea-mirror-gitea_mirror"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Gitea-Mirror-App/026856d9043f3a89f12d886c5b01c10cca2f7e4c/gitea_mirror/icon.png" width="28" height="28" alt=""> [Gitea Mirror](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App) (3.54.0)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Gitea-Mirror-App/0f23ec75c66709bf772cc13cce13d493f2b9ba03/gitea_mirror/icon.png" width="28" height="28" alt=""> [Gitea Mirror](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App) (3.54.0)
 
 Mirrors your GitHub, GitLab or Gitea repositories to your own Gitea and keeps them up to date, with the original web interface inside Home Assistant.
 
@@ -101,13 +101,13 @@ Mirrors your GitHub, GitLab or Gitea repositories to your own Gitea and keeps th
 ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20591.2%20%C2%B7%20aarch64%20587.2%20MiB&color=157F71&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Gitea-Mirror-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=24%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Gitea-Mirror-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App/issues)
 
-[Pinned commit `026856d`](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App/commit/026856d9043f3a89f12d886c5b01c10cca2f7e4c)
+[Pinned commit `0f23ec7`](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App/commit/0f23ec75c66709bf772cc13cce13d493f2b9ba03)
 
 </details>
 
 <a name="app-gitea-runner-gitea_runner"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Gitea-Runner-App/fee2eda65a1021cdc040cdcabf6b703382a8b4d0/gitea_runner/icon.png" width="28" height="28" alt=""> [Gitea Runner](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App) (6.0.1)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Gitea-Runner-App/03eb9fd4e4397c95d36e304b71ff961e75f42ba3/gitea_runner/icon.png" width="28" height="28" alt=""> [Gitea Runner](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App) (6.0.1)
 
 Runs the Actions workflows of your Gitea inside an isolated app, without access to your Home Assistant host.
 
@@ -120,13 +120,13 @@ Runs the Actions workflows of your Gitea inside an isolated app, without access 
 ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2053.0%20%C2%B7%20aarch64%2052.0%20MiB&color=157F71&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Gitea-Runner-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=13%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Gitea-Runner-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/issues)
 
-[Pinned commit `fee2eda`](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/commit/fee2eda65a1021cdc040cdcabf6b703382a8b4d0)
+[Pinned commit `03eb9fd`](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/commit/03eb9fd4e4397c95d36e304b71ff961e75f42ba3)
 
 </details>
 
 <a name="app-mail-forwarder-mail_forwarder"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Mail-Forwarder-App/9c11d3f4dd7fcefca0a1b02680236629bf702134/mail_forwarder/icon.png" width="28" height="28" alt=""> [Mail Forwarder](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App) (2026.11.20.4)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Mail-Forwarder-App/f34345d735833a14e2be57fedd925196687bf3a3/mail_forwarder/icon.png" width="28" height="28" alt=""> [Mail Forwarder](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App) (2026.11.20.4)
 
 Receives mail for your own domains and forwards it to your Gmail, Outlook or WEB.DE inbox.
 
@@ -139,7 +139,7 @@ Receives mail for your own domains and forwards it to your Gmail, Outlook or WEB
 ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2041.2%20%C2%B7%20aarch64%2041.3%20%C2%B7%20armv7%2038.4%20%C2%B7%20armhf%2039.3%20%C2%B7%20i386%2041.1%20MiB&color=157F71&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Mail-Forwarder-App/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=25%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Mail-Forwarder-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/issues)
 
-[Pinned commit `9c11d3f`](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/commit/9c11d3f4dd7fcefca0a1b02680236629bf702134)
+[Pinned commit `f34345d`](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/commit/f34345d735833a14e2be57fedd925196687bf3a3)
 
 </details>
 
@@ -164,7 +164,7 @@ Turns the PlayStation (VR) Camera into a far-field voice microphone for Assist, 
 
 <a name="app-renovate-renovate"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Renovate-App/42c22f690fffc92dc5f18659afbafe5b8a19d5de/renovate/icon.png" width="28" height="28" alt=""> [Renovate](https://github.com/seb5594/Home-Assistant-Renovate-App) (2026.11.20.2)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Renovate-App/7158018815d46cff2cf12f36d8e64c7f82dadcd7/renovate/icon.png" width="28" height="28" alt=""> [Renovate](https://github.com/seb5594/Home-Assistant-Renovate-App) (2026.11.20.2)
 
 Keeps the dependencies of your GitHub, GitLab and Gitea repositories up to date, with a web interface inside Home Assistant.
 
@@ -177,13 +177,13 @@ Keeps the dependencies of your GitHub, GitLab and Gitea repositories up to date,
 ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2077.5%20%C2%B7%20aarch64%2077.0%20%C2%B7%20armv7%2073.8%20%C2%B7%20armhf%2075.1%20%C2%B7%20i386%2076.8%20MiB&color=157F71&style=flat) ![mounts (read-only)](https://img.shields.io/static/v1?label=mounts%20%28read-only%29&message=addon_config%20%C2%B7%20ssl&color=157F71&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Renovate-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Renovate-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=100%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Renovate-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Renovate-App/issues)
 
-[Pinned commit `42c22f6`](https://github.com/seb5594/Home-Assistant-Renovate-App/commit/42c22f690fffc92dc5f18659afbafe5b8a19d5de)
+[Pinned commit `7158018`](https://github.com/seb5594/Home-Assistant-Renovate-App/commit/7158018815d46cff2cf12f36d8e64c7f82dadcd7)
 
 </details>
 
 <a name="app-rsync-local-rsync-local"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Rsync-Local-Addon/9d936259f6942922a68da48ff053140e4f824571/rsync-local/icon.png" width="28" height="28" alt=""> [Rsync Local](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon) (1.75.1)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Rsync-Local-Addon/f03826edc2b76203febe7b054304ff0f605ab3b9/rsync-local/icon.png" width="28" height="28" alt=""> [Rsync Local](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon) (1.75.1)
 
 Keep an extra local copy of your Home Assistant files on an attached USB drive.
 
@@ -196,13 +196,13 @@ Keep an extra local copy of your Home Assistant files on an attached USB drive.
 ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2018.1%20%C2%B7%20aarch64%2018.2%20%C2%B7%20armv7%2016.8%20%C2%B7%20armhf%2017.5%20%C2%B7%20i386%2018.2%20MiB&color=157F71&style=flat) ![mounts (read-only)](https://img.shields.io/static/v1?label=mounts%20%28read-only%29&message=app%20configs%20%C2%B7%20backup%20%C2%B7%20config%20%C2%B7%20local%20apps%20%C2%B7%20media%20%C2%B7%20share%20%C2%B7%20ssl&color=157F71&style=flat) ![local disks](https://img.shields.io/static/v1?label=local%20disks&message=attached&color=1877A5&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=SYS_ADMIN&color=B45309&style=flat) ![apparmor](https://img.shields.io/static/v1?label=apparmor&message=disabled&color=B45309&style=flat)<br>
 [![stars](https://img.shields.io/github/stars/seb5594/Home-Assistant-Rsync-Local-Addon?label=stars&style=flat)](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/stargazers) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Rsync-Local-Addon/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=12%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Rsync-Local-Addon?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/issues)
 
-[Pinned commit `9d93625`](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/commit/9d936259f6942922a68da48ff053140e4f824571)
+[Pinned commit `f03826e`](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/commit/f03826edc2b76203febe7b054304ff0f605ab3b9)
 
 </details>
 
 <a name="app-tuya-breaker-tuya_breaker"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Tuya-Breaker-App/16384fb268404981eef5ce2dc3d4942820a1704c/tuya_breaker/icon.png" width="28" height="28" alt=""> [Tuya Breaker](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App) (2026.11.20.3)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Tuya-Breaker-App/de0b09c2ed8febd4dff126e3cd123559aa56ac3c/tuya_breaker/icon.png" width="28" height="28" alt=""> [Tuya Breaker](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App) (2026.11.20.3)
 
 One experimental Ingress workspace for UnTuyaOS3, Lightleak flash backups and Tuya-Cloudcutter, with an isolated Wi-Fi lease
 
@@ -215,13 +215,13 @@ One experimental Ingress workspace for UnTuyaOS3, Lightleak flash backups and Tu
 ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2069.4%20%C2%B7%20aarch64%2069.3%20MiB%20%C2%B7%20armv7%20%C2%B7%20armhf%20%C2%B7%20i386&color=157F71&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN%2C%20NET_RAW&color=B45309&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Tuya-Breaker-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=9%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Tuya-Breaker-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/issues)
 
-[Pinned commit `16384fb`](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/commit/16384fb268404981eef5ce2dc3d4942820a1704c)
+[Pinned commit `de0b09c`](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/commit/de0b09c2ed8febd4dff126e3cd123559aa56ac3c)
 
 </details>
 
 <a name="app-untuyaos3-untuyaos3"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-UnTuyaOS3-App/ab5df542b23841059191c4fd8b578c2da0e7b2c4/untuyaos3/icon.png" width="28" height="28" alt=""> [UnTuyaOS3](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App) (1.0.5)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-UnTuyaOS3-App/62341aaf5033d1a995a657f83719ce20d248106e/untuyaos3/icon.png" width="28" height="28" alt=""> [UnTuyaOS3](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App) (1.0.5)
 
 Flash compatible Tuya devices with open firmware from Home Assistant (UnTuyaOS3), with live console and isolated Wi-Fi
 
@@ -234,13 +234,13 @@ Flash compatible Tuya devices with open firmware from Home Assistant (UnTuyaOS3)
 ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2050.6%20%C2%B7%20aarch64%2050.3%20MiB%20%C2%B7%20armv7%20%C2%B7%20armhf%20%C2%B7%20i386&color=157F71&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN%2C%20NET_RAW&color=B45309&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-UnTuyaOS3-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=6%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-UnTuyaOS3-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/issues)
 
-[Pinned commit `ab5df54`](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/commit/ab5df542b23841059191c4fd8b578c2da0e7b2c4)
+[Pinned commit `62341aa`](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/commit/62341aaf5033d1a995a657f83719ce20d248106e)
 
 </details>
 
 <a name="app-wifi-helper-wifi_helper"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-WiFi-Helper-App/9cf9524c920b76c1405462197284a4bac78c7c32/wifi_helper/icon.png" width="28" height="28" alt=""> [WiFi App Helper](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App) (1.0.2)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-WiFi-Helper-App/f2f993602f72f3299b1366ce7c6044df99a94582/wifi_helper/icon.png" width="28" height="28" alt=""> [WiFi App Helper](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App) (1.0.2)
 
 Reusable local API to lend one idle Wi-Fi radio to an isolated Home Assistant app and restore it afterwards
 
@@ -253,7 +253,7 @@ Reusable local API to lend one idle Wi-Fi radio to an isolated Home Assistant ap
 ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2040.7%20%C2%B7%20aarch64%2040.6%20MiB%20%C2%B7%20armv7%20%C2%B7%20armhf%20%C2%B7%20i386&color=157F71&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN&color=B45309&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-WiFi-Helper-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=2%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-WiFi-Helper-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/issues)
 
-[Pinned commit `9cf9524`](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/commit/9cf9524c920b76c1405462197284a4bac78c7c32)
+[Pinned commit `f2f9936`](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/commit/f2f993602f72f3299b1366ce7c6044df99a94582)
 
 </details>
 

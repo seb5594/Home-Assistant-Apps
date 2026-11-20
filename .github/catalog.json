@@ -1,27 +1,27 @@
 [
   {
     "repository": "seb5594/Home-Assistant-Assist-AI-Router-App",
-    "commit": "c83c0de3e9f9fc28af9e56c69897c084a5fe995a"
+    "commit": "94c7895542cab0bfb40752e38948006cef6bbe3d"
   },
   {
     "repository": "seb5594/Home-Assistant-Git-Exporter-Addon",
-    "commit": "0185a22fabb51e2a2ed88e67d17769103b224fb5"
+    "commit": "0b5252a17d59abc0ce78e3bc574e137ec5ddf122"
   },
   {
     "repository": "seb5594/Home-Assistant-Gitea-MCP-Server-App",
-    "commit": "cbab827e079e74b4a237c31e192cb164d8542ab8"
+    "commit": "c94a26d41cb3c19dab09bc19ac16a96d239354dc"
   },
   {
     "repository": "seb5594/Home-Assistant-Gitea-Mirror-App",
-    "commit": "026856d9043f3a89f12d886c5b01c10cca2f7e4c"
+    "commit": "0f23ec75c66709bf772cc13cce13d493f2b9ba03"
   },
   {
     "repository": "seb5594/Home-Assistant-Gitea-Runner-App",
-    "commit": "fee2eda65a1021cdc040cdcabf6b703382a8b4d0"
+    "commit": "03eb9fd4e4397c95d36e304b71ff961e75f42ba3"
   },
   {
     "repository": "seb5594/Home-Assistant-Mail-Forwarder-App",
-    "commit": "9c11d3f4dd7fcefca0a1b02680236629bf702134"
+    "commit": "f34345d735833a14e2be57fedd925196687bf3a3"
   },
   {
     "repository": "seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App",
@@ -29,22 +29,22 @@
   },
   {
     "repository": "seb5594/Home-Assistant-Renovate-App",
-    "commit": "42c22f690fffc92dc5f18659afbafe5b8a19d5de"
+    "commit": "7158018815d46cff2cf12f36d8e64c7f82dadcd7"
   },
   {
     "repository": "seb5594/Home-Assistant-Rsync-Local-Addon",
-    "commit": "9d936259f6942922a68da48ff053140e4f824571"
+    "commit": "f03826edc2b76203febe7b054304ff0f605ab3b9"
   },
   {
     "repository": "seb5594/Home-Assistant-Tuya-Breaker-App",
-    "commit": "16384fb268404981eef5ce2dc3d4942820a1704c"
+    "commit": "de0b09c2ed8febd4dff126e3cd123559aa56ac3c"
   },
   {
     "repository": "seb5594/Home-Assistant-UnTuyaOS3-App",
-    "commit": "ab5df542b23841059191c4fd8b578c2da0e7b2c4"
+    "commit": "62341aaf5033d1a995a657f83719ce20d248106e"
   },
   {
     "repository": "seb5594/Home-Assistant-WiFi-Helper-App",
-    "commit": "9cf9524c920b76c1405462197284a4bac78c7c32"
+    "commit": "f2f993602f72f3299b1366ce7c6044df99a94582"
   }
 ]
