@@ -21,7 +21,7 @@
   },
   {
     "repository": "seb5594/Home-Assistant-Mail-Forwarder-App",
-    "commit": "f34345d735833a14e2be57fedd925196687bf3a3"
+    "commit": "8786a1f1c6304290f0413801b2d5160395a6ad4a"
   },
   {
     "repository": "seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App",
@@ -45,6 +45,6 @@
   },
   {
     "repository": "seb5594/Home-Assistant-WiFi-Helper-App",
-    "commit": "f2f993602f72f3299b1366ce7c6044df99a94582"
+    "commit": "35ce2b51f217aef6a16c335996e8eaad3fbe2ed3"
   }
 ]

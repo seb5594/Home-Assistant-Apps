@@ -126,7 +126,7 @@ Runs the Actions workflows of your Gitea inside an isolated app, without access 
 
 <a name="app-mail-forwarder-mail_forwarder"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Mail-Forwarder-App/f34345d735833a14e2be57fedd925196687bf3a3/mail_forwarder/icon.png" width="28" height="28" alt=""> [Mail Forwarder](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App) (2026.11.20.4)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Mail-Forwarder-App/8786a1f1c6304290f0413801b2d5160395a6ad4a/mail_forwarder/icon.png" width="28" height="28" alt=""> [Mail Forwarder](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App) (2026.11.20.4)
 
 Receives mail for your own domains and forwards it to your Gmail, Outlook or WEB.DE inbox.
 
@@ -137,9 +137,9 @@ Receives mail for your own domains and forwards it to your Gmail, Outlook or WEB
 
 [![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.20.4&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/releases/tag/2026.11.20.4) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=15&color=1877A5&style=flat)<br>
 ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2041.2%20%C2%B7%20aarch64%2041.3%20%C2%B7%20armv7%2038.4%20%C2%B7%20armhf%2039.3%20%C2%B7%20i386%2041.1%20MiB&color=157F71&style=flat)<br>
-[![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Mail-Forwarder-App/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=25%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Mail-Forwarder-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/issues)
+[![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Mail-Forwarder-App/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=18%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Mail-Forwarder-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/issues)
 
-[Pinned commit `f34345d`](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/commit/f34345d735833a14e2be57fedd925196687bf3a3)
+[Pinned commit `8786a1f`](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/commit/8786a1f1c6304290f0413801b2d5160395a6ad4a)
 
 </details>
 
@@ -240,7 +240,7 @@ Flash compatible Tuya devices with open firmware from Home Assistant (UnTuyaOS3)
 
 <a name="app-wifi-helper-wifi_helper"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-WiFi-Helper-App/f2f993602f72f3299b1366ce7c6044df99a94582/wifi_helper/icon.png" width="28" height="28" alt=""> [WiFi App Helper](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App) (1.0.2)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-WiFi-Helper-App/35ce2b51f217aef6a16c335996e8eaad3fbe2ed3/wifi_helper/icon.png" width="28" height="28" alt=""> [WiFi App Helper](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App) (1.0.2)
 
 Reusable local API to lend one idle Wi-Fi radio to an isolated Home Assistant app and restore it afterwards
 
@@ -250,10 +250,10 @@ Reusable local API to lend one idle Wi-Fi radio to an isolated Home Assistant ap
 <summary>Build, image and repository details</summary>
 
 [![app version](https://img.shields.io/static/v1?label=app%20version&message=1.0.2&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/releases/tag/v1.0.2) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=12&color=1877A5&style=flat)<br>
-![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2040.7%20%C2%B7%20aarch64%2040.6%20MiB%20%C2%B7%20armv7%20%C2%B7%20armhf%20%C2%B7%20i386&color=157F71&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN&color=B45309&style=flat)<br>
+![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2040.7%20%C2%B7%20aarch64%2040.6%20%C2%B7%20armv7%2038.3%20%C2%B7%20armhf%2039.3%20%C2%B7%20i386%2040.8%20MiB&color=157F71&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN&color=B45309&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-WiFi-Helper-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=2%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-WiFi-Helper-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/issues)
 
-[Pinned commit `f2f9936`](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/commit/f2f993602f72f3299b1366ce7c6044df99a94582)
+[Pinned commit `35ce2b5`](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/commit/35ce2b51f217aef6a16c335996e8eaad3fbe2ed3)
 
 </details>
 
