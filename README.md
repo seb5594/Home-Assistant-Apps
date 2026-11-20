@@ -128,7 +128,7 @@ Runs the Actions workflows of your Gitea inside an isolated app, without access 
 
 </details>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Mail-Forwarder-App/28377f6687390b06e0b0075371681319b7e160bc/mail_forwarder/icon.png" width="28" height="28" alt=""> [Mail Forwarder](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App) (2026.11.20.4)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Mail-Forwarder-App/6b471b3fbc54713a65a18e93c6069a6777885d9e/mail_forwarder/icon.png" width="28" height="28" alt=""> [Mail Forwarder](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App) (2026.11.20.4)
 
 Receives mail for your own domains and forwards it to your Gmail, Outlook or WEB.DE inbox.
 
@@ -143,7 +143,7 @@ Receives mail for your own domains and forwards it to your Gmail, Outlook or WEB
 ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2041.2%20%C2%B7%20aarch64%2041.3%20MiB&color=157F71&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Mail-Forwarder-App/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=16%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Mail-Forwarder-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/issues)
 
-[Pinned commit `28377f6`](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/commit/28377f6687390b06e0b0075371681319b7e160bc)
+[Pinned commit `6b471b3`](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/commit/6b471b3fbc54713a65a18e93c6069a6777885d9e)
 
 </details>
 
@@ -166,7 +166,7 @@ Turns the PlayStation (VR) Camera into a far-field voice microphone for Assist, 
 
 </details>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Rsync-Local-Addon/ba24de35f4c95a17598a7bdc3b837ccda4dabd6d/rsync-local/icon.png" width="28" height="28" alt=""> [Rsync Local](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon) (1.75.1)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Rsync-Local-Addon/2928b2ad83e9a51711904e9998d9618160594e43/rsync-local/icon.png" width="28" height="28" alt=""> [Rsync Local](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon) (1.75.1)
 
 Keep an extra local copy of your Home Assistant files on an attached USB drive.
 
@@ -177,11 +177,11 @@ Keep an extra local copy of your Home Assistant files on an attached USB drive.
 <details>
 <summary>Build, image and repository details</summary>
 
-[![app version](https://img.shields.io/static/v1?label=app%20version&message=1.75.1&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/releases/tag/v1.75.1) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=17&color=1877A5&style=flat)<br>
-![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2047.2%20%C2%B7%20aarch64%2056.7%20%C2%B7%20armv7%2039.4%20%C2%B7%20armhf%2045.0%20%C2%B7%20i386%2046.2%20MiB&color=157F71&style=flat) ![mounts (read-only)](https://img.shields.io/static/v1?label=mounts%20%28read-only%29&message=app%20configs%20%C2%B7%20backup%20%C2%B7%20config%20%C2%B7%20local%20apps%20%C2%B7%20media%20%C2%B7%20share%20%C2%B7%20ssl&color=157F71&style=flat) ![local disks](https://img.shields.io/static/v1?label=local%20disks&message=attached&color=1877A5&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=SYS_ADMIN&color=B45309&style=flat) ![apparmor](https://img.shields.io/static/v1?label=apparmor&message=disabled&color=B45309&style=flat)<br>
+[![app version](https://img.shields.io/static/v1?label=app%20version&message=1.75.1&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/releases/tag/v1.75.1) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=25&color=1877A5&style=flat)<br>
+![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2018.1%20%C2%B7%20aarch64%2018.2%20%C2%B7%20armv7%2016.8%20%C2%B7%20armhf%2017.5%20%C2%B7%20i386%2018.2%20MiB&color=157F71&style=flat) ![mounts (read-only)](https://img.shields.io/static/v1?label=mounts%20%28read-only%29&message=app%20configs%20%C2%B7%20backup%20%C2%B7%20config%20%C2%B7%20local%20apps%20%C2%B7%20media%20%C2%B7%20share%20%C2%B7%20ssl&color=157F71&style=flat) ![local disks](https://img.shields.io/static/v1?label=local%20disks&message=attached&color=1877A5&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=SYS_ADMIN&color=B45309&style=flat) ![apparmor](https://img.shields.io/static/v1?label=apparmor&message=disabled&color=B45309&style=flat)<br>
 [![stars](https://img.shields.io/github/stars/seb5594/Home-Assistant-Rsync-Local-Addon?label=stars&style=flat)](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/stargazers) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Rsync-Local-Addon/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=12%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Rsync-Local-Addon?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/issues)
 
-[Pinned commit `ba24de3`](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/commit/ba24de35f4c95a17598a7bdc3b837ccda4dabd6d)
+[Pinned commit `2928b2a`](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/commit/2928b2ad83e9a51711904e9998d9618160594e43)
 
 </details>
 
@@ -223,7 +223,7 @@ Flash compatible Tuya devices with open firmware from Home Assistant (UnTuyaOS3)
 
 </details>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-WiFi-Helper-App/545bf12b726f6c8a01a055967e50c8c09cf19e76/wifi_helper/icon.png" width="28" height="28" alt=""> [WiFi App Helper](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App) (1.0.2)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-WiFi-Helper-App/e6b42b835e6dd673e339b8c14de793864ae2c513/wifi_helper/icon.png" width="28" height="28" alt=""> [WiFi App Helper](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App) (1.0.2)
 
 Reusable local API to lend one idle Wi-Fi radio to an isolated Home Assistant app and restore it afterwards
 
@@ -238,7 +238,7 @@ Reusable local API to lend one idle Wi-Fi radio to an isolated Home Assistant ap
 ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20131.3%20%C2%B7%20aarch64%20146.7%20MiB&color=157F71&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN&color=B45309&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-WiFi-Helper-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=2%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-WiFi-Helper-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/issues)
 
-[Pinned commit `545bf12`](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/commit/545bf12b726f6c8a01a055967e50c8c09cf19e76)
+[Pinned commit `e6b42b8`](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/commit/e6b42b835e6dd673e339b8c14de793864ae2c513)
 
 </details>
 

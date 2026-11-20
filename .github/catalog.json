@@ -25,7 +25,7 @@
   },
   {
     "repository": "seb5594/Home-Assistant-Mail-Forwarder-App",
-    "commit": "28377f6687390b06e0b0075371681319b7e160bc"
+    "commit": "6b471b3fbc54713a65a18e93c6069a6777885d9e"
   },
   {
     "repository": "seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App",
@@ -33,7 +33,7 @@
   },
   {
     "repository": "seb5594/Home-Assistant-Rsync-Local-Addon",
-    "commit": "ba24de35f4c95a17598a7bdc3b837ccda4dabd6d"
+    "commit": "2928b2ad83e9a51711904e9998d9618160594e43"
   },
   {
     "repository": "seb5594/Home-Assistant-Tuya-Breaker-App",
@@ -45,6 +45,6 @@
   },
   {
     "repository": "seb5594/Home-Assistant-WiFi-Helper-App",
-    "commit": "545bf12b726f6c8a01a055967e50c8c09cf19e76"
+    "commit": "e6b42b835e6dd673e339b8c14de793864ae2c513"
   }
 ]
