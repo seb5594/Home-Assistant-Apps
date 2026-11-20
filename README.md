@@ -50,7 +50,7 @@ Multi-provider AI gateway for Home Assistant Assist, powered by LiteLLM.
 
 <a name="app-git-exporter-git-exporter"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Git-Exporter-Addon/067628a180a65e55850f4a9fde0d643296419452/git-exporter/icon.png" width="28" height="28" alt=""> [Home Assistant Git Exporter](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon) (2.0.0-beta.3)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Git-Exporter-Addon/aff41c7e4d3b4990e9b26149dfaa572cbe2b020f/git-exporter/icon.png" width="28" height="28" alt=""> [Home Assistant Git Exporter](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon) (2.0.0-beta.3)
 
 Exports your Home Assistant configuration to one or more git repositories (GitHub, GitLab, Gitea and others), for private use or for the public, with a preview and a file browser.
 
@@ -63,7 +63,7 @@ Exports your Home Assistant configuration to one or more git repositories (GitHu
 ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2043.1%20%C2%B7%20aarch64%2042.9%20%C2%B7%20armv7%2039.6%20%C2%B7%20armhf%2040.8%20%C2%B7%20i386%2042.4%20MiB&color=157F71&style=flat) ![mounts (read-only)](https://img.shields.io/static/v1?label=mounts%20%28read-only%29&message=app%20configs%20%C2%B7%20config%20%C2%B7%20local%20apps&color=157F71&style=flat)<br>
 [![stars](https://img.shields.io/github/stars/seb5594/Home-Assistant-Git-Exporter-Addon?label=stars&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/stargazers) [![forks](https://img.shields.io/github/forks/seb5594/Home-Assistant-Git-Exporter-Addon?label=forks&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/forks) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Git-Exporter-Addon/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=49%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Git-Exporter-Addon?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/issues)
 
-[Pinned commit `067628a`](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/commit/067628a180a65e55850f4a9fde0d643296419452)
+[Pinned commit `aff41c7`](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/commit/aff41c7e4d3b4990e9b26149dfaa572cbe2b020f)
 
 </details>
 
@@ -88,7 +88,7 @@ Keeps the dependencies of your GitHub, GitLab and Gitea repositories up to date,
 
 <a name="app-gitea-mcp-server-gitea_mcp_server"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/ce2ad0b1a3c5203701e8f0851e75db7c71f706b0/gitea_mcp_server/icon.png" width="28" height="28" alt=""> [Gitea MCP-Server](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App) (1.13.0)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/cbab827e079e74b4a237c31e192cb164d8542ab8/gitea_mcp_server/icon.png" width="28" height="28" alt=""> [Gitea MCP-Server](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App) (1.13.0)
 
 Connects MCP clients to your Gitea repositories, issues and pull requests.
 
@@ -101,7 +101,7 @@ Connects MCP clients to your Gitea repositories, issues and pull requests.
 ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2058.1%20%C2%B7%20aarch64%2066.4%20MiB&color=157F71&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Gitea-MCP-Server-App/ci.yml?branch=master&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=23%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Gitea-MCP-Server-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/issues)
 
-[Pinned commit `ce2ad0b`](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/commit/ce2ad0b1a3c5203701e8f0851e75db7c71f706b0)
+[Pinned commit `cbab827`](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/commit/cbab827e079e74b4a237c31e192cb164d8542ab8)
 
 </details>
 
@@ -145,7 +145,7 @@ Runs the Actions workflows of your Gitea inside an isolated app, without access 
 
 <a name="app-mail-forwarder-mail_forwarder"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Mail-Forwarder-App/43600c778f0205809cf5d7dedc0c06779427598f/mail_forwarder/icon.png" width="28" height="28" alt=""> [Mail Forwarder](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App) (2026.11.20.4)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Mail-Forwarder-App/dc36a14b48765c59b08e20a5090a849d0c5a89d8/mail_forwarder/icon.png" width="28" height="28" alt=""> [Mail Forwarder](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App) (2026.11.20.4)
 
 Receives mail for your own domains and forwards it to your Gmail, Outlook or WEB.DE inbox.
 
@@ -158,13 +158,13 @@ Receives mail for your own domains and forwards it to your Gmail, Outlook or WEB
 ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2041.2%20%C2%B7%20aarch64%2041.3%20MiB&color=157F71&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Mail-Forwarder-App/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=20%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Mail-Forwarder-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/issues)
 
-[Pinned commit `43600c7`](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/commit/43600c778f0205809cf5d7dedc0c06779427598f)
+[Pinned commit `dc36a14`](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/commit/dc36a14b48765c59b08e20a5090a849d0c5a89d8)
 
 </details>
 
 <a name="app-playstation-vr-camera-loader-sony_playstation_vr_camera_loader"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/cc5083f1c996bf741457cb65c7c8191f42be44d5/sony_playstation_vr_camera_loader/icon.png" width="28" height="28" alt=""> [Sony PlayStation VR Camera Loader](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App) (1.0.0-beta.6)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/f8596db8e833a18957d578a45ac6feb52524d0c7/sony_playstation_vr_camera_loader/icon.png" width="28" height="28" alt=""> [Sony PlayStation VR Camera Loader](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App) (1.0.0-beta.6)
 
 Turns the PlayStation (VR) Camera into a far-field voice microphone for Assist, with an optional video preview.
 
@@ -177,7 +177,7 @@ Turns the PlayStation (VR) Camera into a far-field voice microphone for Assist, 
 ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2087.5%20%C2%B7%20aarch64%2083.3%20MiB&color=157F71&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=addon_config&color=B45309&style=flat) ![local disks](https://img.shields.io/static/v1?label=local%20disks&message=attached&color=1877A5&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=5%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/issues)
 
-[Pinned commit `cc5083f`](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/commit/cc5083f1c996bf741457cb65c7c8191f42be44d5)
+[Pinned commit `f8596db`](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/commit/f8596db8e833a18957d578a45ac6feb52524d0c7)
 
 </details>
 
