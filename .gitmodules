@@ -29,9 +29,9 @@
 [submodule "WiFi-Helper"]
 	path = WiFi-Helper
 	url = https://github.com/seb5594/Home-Assistant-WiFi-Helper-App.git
-[submodule "Git-Renovate"]
-	path = Git-Renovate
-	url = https://github.com/seb5594/Home-Assistant-Git-Renovate-App.git
 [submodule "Mail-Forwarder"]
 	path = Mail-Forwarder
 	url = https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App.git
+[submodule "Renovate"]
+	path = Renovate
+	url = https://github.com/seb5594/Home-Assistant-Renovate-App.git

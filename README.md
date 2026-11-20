@@ -14,12 +14,12 @@ Add this catalog once to install apps for backups, development tools, smart devi
 
 - [Assist AI Router](#app-assist-ai-router-assist_ai_router)
 - [Home Assistant Git Exporter](#app-git-exporter-git-exporter)
-- [Renovate](#app-git-renovate-renovate)
 - [Gitea MCP-Server](#app-gitea-mcp-server-gitea_mcp_server)
 - [Gitea Mirror](#app-gitea-mirror-gitea_mirror)
 - [Gitea Runner](#app-gitea-runner-gitea_runner)
 - [Mail Forwarder](#app-mail-forwarder-mail_forwarder)
 - [Sony PlayStation VR Camera Loader](#app-playstation-vr-camera-loader-sony_playstation_vr_camera_loader)
+- [Renovate](#app-renovate-renovate)
 - [Rsync Local](#app-rsync-local-rsync-local)
 - [Tuya Breaker](#app-tuya-breaker-tuya_breaker)
 - [UnTuyaOS3](#app-untuyaos3-untuyaos3)
@@ -64,25 +64,6 @@ Exports your Home Assistant configuration to one or more git repositories (GitHu
 [![stars](https://img.shields.io/github/stars/seb5594/Home-Assistant-Git-Exporter-Addon?label=stars&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/stargazers) [![forks](https://img.shields.io/github/forks/seb5594/Home-Assistant-Git-Exporter-Addon?label=forks&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/forks) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Git-Exporter-Addon/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=49%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Git-Exporter-Addon?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/issues)
 
 [Pinned commit `aff41c7`](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/commit/aff41c7e4d3b4990e9b26149dfaa572cbe2b020f)
-
-</details>
-
-<a name="app-git-renovate-renovate"></a>
-
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Git-Renovate-App/47d48468f6b74c37fcc43411a9263fee8f2990e3/renovate/icon.png" width="28" height="28" alt=""> [Renovate](https://github.com/seb5594/Home-Assistant-Git-Renovate-App) (2026.11.20.2)
-
-Keeps the dependencies of your GitHub, GitLab and Gitea repositories up to date, with a web interface inside Home Assistant.
-
-📖 [Source & documentation](https://github.com/seb5594/Home-Assistant-Git-Renovate-App) · [Changelog](https://github.com/seb5594/Home-Assistant-Git-Renovate-App/blob/dev/renovate/CHANGELOG.md)
-
-<details>
-<summary>Build, image and repository details</summary>
-
-[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.20.2&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Renovate-App/releases/tag/2026.11.20.2) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=14&color=1877A5&style=flat)<br>
-![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2077.5%20%C2%B7%20aarch64%2077.0%20MiB&color=157F71&style=flat) ![mounts (read-only)](https://img.shields.io/static/v1?label=mounts%20%28read-only%29&message=addon_config%20%C2%B7%20ssl&color=157F71&style=flat)<br>
-[![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Git-Renovate-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Renovate-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=100%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Git-Renovate-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Renovate-App/issues)
-
-[Pinned commit `47d4846`](https://github.com/seb5594/Home-Assistant-Git-Renovate-App/commit/47d48468f6b74c37fcc43411a9263fee8f2990e3)
 
 </details>
 
@@ -145,7 +126,7 @@ Runs the Actions workflows of your Gitea inside an isolated app, without access 
 
 <a name="app-mail-forwarder-mail_forwarder"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Mail-Forwarder-App/dc36a14b48765c59b08e20a5090a849d0c5a89d8/mail_forwarder/icon.png" width="28" height="28" alt=""> [Mail Forwarder](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App) (2026.11.20.4)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Mail-Forwarder-App/b987065d4951804e0fa44e4d5e7e7a734f523e3e/mail_forwarder/icon.png" width="28" height="28" alt=""> [Mail Forwarder](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App) (2026.11.20.4)
 
 Receives mail for your own domains and forwards it to your Gmail, Outlook or WEB.DE inbox.
 
@@ -154,11 +135,11 @@ Receives mail for your own domains and forwards it to your Gmail, Outlook or WEB
 <details>
 <summary>Build, image and repository details</summary>
 
-[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.20.4&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/releases/tag/2026.11.20.4) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=14&color=1877A5&style=flat)<br>
+[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.20.4&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/releases/tag/2026.11.20.4) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=15&color=1877A5&style=flat)<br>
 ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2041.2%20%C2%B7%20aarch64%2041.3%20MiB&color=157F71&style=flat)<br>
-[![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Mail-Forwarder-App/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=20%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Mail-Forwarder-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/issues)
+[![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Mail-Forwarder-App/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=22%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Mail-Forwarder-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/issues)
 
-[Pinned commit `dc36a14`](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/commit/dc36a14b48765c59b08e20a5090a849d0c5a89d8)
+[Pinned commit `b987065`](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/commit/b987065d4951804e0fa44e4d5e7e7a734f523e3e)
 
 </details>
 
@@ -178,6 +159,25 @@ Turns the PlayStation (VR) Camera into a far-field voice microphone for Assist, 
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=5%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/issues)
 
 [Pinned commit `f8596db`](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/commit/f8596db8e833a18957d578a45ac6feb52524d0c7)
+
+</details>
+
+<a name="app-renovate-renovate"></a>
+
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Renovate-App/47d48468f6b74c37fcc43411a9263fee8f2990e3/renovate/icon.png" width="28" height="28" alt=""> [Renovate](https://github.com/seb5594/Home-Assistant-Renovate-App) (2026.11.20.2)
+
+Keeps the dependencies of your GitHub, GitLab and Gitea repositories up to date, with a web interface inside Home Assistant.
+
+📖 [Source & documentation](https://github.com/seb5594/Home-Assistant-Renovate-App) · [Changelog](https://github.com/seb5594/Home-Assistant-Renovate-App/blob/dev/renovate/CHANGELOG.md)
+
+<details>
+<summary>Build, image and repository details</summary>
+
+[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.20.2&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Renovate-App/releases/tag/2026.11.20.2) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=14&color=1877A5&style=flat)<br>
+![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2077.5%20%C2%B7%20aarch64%2077.0%20MiB&color=157F71&style=flat) ![mounts (read-only)](https://img.shields.io/static/v1?label=mounts%20%28read-only%29&message=addon_config%20%C2%B7%20ssl&color=157F71&style=flat)<br>
+[![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Renovate-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Renovate-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=100%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Renovate-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Renovate-App/issues)
+
+[Pinned commit `47d4846`](https://github.com/seb5594/Home-Assistant-Renovate-App/commit/47d48468f6b74c37fcc43411a9263fee8f2990e3)
 
 </details>
 

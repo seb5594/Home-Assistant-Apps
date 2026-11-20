@@ -8,10 +8,6 @@
     "commit": "aff41c7e4d3b4990e9b26149dfaa572cbe2b020f"
   },
   {
-    "repository": "seb5594/Home-Assistant-Git-Renovate-App",
-    "commit": "47d48468f6b74c37fcc43411a9263fee8f2990e3"
-  },
-  {
     "repository": "seb5594/Home-Assistant-Gitea-MCP-Server-App",
     "commit": "cbab827e079e74b4a237c31e192cb164d8542ab8"
   },
@@ -25,11 +21,15 @@
   },
   {
     "repository": "seb5594/Home-Assistant-Mail-Forwarder-App",
-    "commit": "dc36a14b48765c59b08e20a5090a849d0c5a89d8"
+    "commit": "b987065d4951804e0fa44e4d5e7e7a734f523e3e"
   },
   {
     "repository": "seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App",
     "commit": "f8596db8e833a18957d578a45ac6feb52524d0c7"
+  },
+  {
+    "repository": "seb5594/Home-Assistant-Renovate-App",
+    "commit": "47d48468f6b74c37fcc43411a9263fee8f2990e3"
   },
   {
     "repository": "seb5594/Home-Assistant-Rsync-Local-Addon",
