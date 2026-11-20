@@ -1,7 +1,7 @@
 [
   {
     "repository": "seb5594/Home-Assistant-Assist-AI-Router-App",
-    "commit": "dd9f343557f81b4e7d899e5233017ce9f7fb9dd5"
+    "commit": "8e599cc618b475822f4f77e5973fbc40b75e725e"
   },
   {
     "repository": "seb5594/Home-Assistant-Git-Exporter-Addon",
@@ -29,7 +29,7 @@
   },
   {
     "repository": "seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App",
-    "commit": "411d878272c8d0f4e3293db9d78cf949e9f7f671"
+    "commit": "cc5083f1c996bf741457cb65c7c8191f42be44d5"
   },
   {
     "repository": "seb5594/Home-Assistant-Rsync-Local-Addon",
