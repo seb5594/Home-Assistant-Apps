@@ -13,7 +13,7 @@ Add this catalog once to install apps for backups, development tools, smart devi
 ## Available apps
 
 <!-- Generated from the source repositories by the hass-workflows catalog action. -->
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Assist-AI-Router-App/8e599cc618b475822f4f77e5973fbc40b75e725e/assist_ai_router/icon.png" width="28" height="28" alt=""> [Assist AI Router](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App) (1.0.5)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Assist-AI-Router-App/2e994b9077373e80978754866c039bb66ca877ad/assist_ai_router/icon.png" width="28" height="28" alt=""> [Assist AI Router](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App) (1.0.5)
 
 Multi-provider AI gateway for Home Assistant Assist, powered by LiteLLM.
 
@@ -26,10 +26,10 @@ Multi-provider AI gateway for Home Assistant Assist, powered by LiteLLM.
 
 ![home assistant](https://img.shields.io/static/v1?label=home%20assistant&message=%E2%89%A5%202026.8.0&color=1877A5&style=flat)<br>
 [![app version](https://img.shields.io/static/v1?label=app%20version&message=1.0.5&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/releases/tag/v1.0.5) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=32&color=1877A5&style=flat)<br>
-![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20428.9%20%C2%B7%20aarch64%20436.7%20MiB&color=157F71&style=flat)<br>
+![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20149.0%20%C2%B7%20aarch64%20147.4%20MiB&color=157F71&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Assist-AI-Router-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=4%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Assist-AI-Router-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/issues)
 
-[Pinned commit `8e599cc`](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/commit/8e599cc618b475822f4f77e5973fbc40b75e725e)
+[Pinned commit `2e994b9`](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/commit/2e994b9077373e80978754866c039bb66ca877ad)
 
 </details>
 
