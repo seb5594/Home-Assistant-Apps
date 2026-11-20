@@ -183,7 +183,7 @@ Keeps the dependencies of your GitHub, GitLab and Gitea repositories up to date,
 
 <a name="app-rsync-local-rsync-local"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Rsync-Local-Addon/1481eee03a3064c7d902c54f37327615350a6766/rsync-local/icon.png" width="28" height="28" alt=""> [Rsync Local](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon) (1.75.1)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Rsync-Local-Addon/9d936259f6942922a68da48ff053140e4f824571/rsync-local/icon.png" width="28" height="28" alt=""> [Rsync Local](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon) (1.75.1)
 
 Keep an extra local copy of your Home Assistant files on an attached USB drive.
 
@@ -192,11 +192,11 @@ Keep an extra local copy of your Home Assistant files on an attached USB drive.
 <details>
 <summary>Build, image and repository details</summary>
 
-[![app version](https://img.shields.io/static/v1?label=app%20version&message=1.75.1&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/releases/tag/v1.75.1) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=25&color=1877A5&style=flat)<br>
+[![app version](https://img.shields.io/static/v1?label=app%20version&message=1.75.1&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/releases/tag/v1.75.1) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=26&color=1877A5&style=flat)<br>
 ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2018.1%20%C2%B7%20aarch64%2018.2%20%C2%B7%20armv7%2016.8%20%C2%B7%20armhf%2017.5%20%C2%B7%20i386%2018.2%20MiB&color=157F71&style=flat) ![mounts (read-only)](https://img.shields.io/static/v1?label=mounts%20%28read-only%29&message=app%20configs%20%C2%B7%20backup%20%C2%B7%20config%20%C2%B7%20local%20apps%20%C2%B7%20media%20%C2%B7%20share%20%C2%B7%20ssl&color=157F71&style=flat) ![local disks](https://img.shields.io/static/v1?label=local%20disks&message=attached&color=1877A5&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=SYS_ADMIN&color=B45309&style=flat) ![apparmor](https://img.shields.io/static/v1?label=apparmor&message=disabled&color=B45309&style=flat)<br>
 [![stars](https://img.shields.io/github/stars/seb5594/Home-Assistant-Rsync-Local-Addon?label=stars&style=flat)](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/stargazers) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Rsync-Local-Addon/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=12%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Rsync-Local-Addon?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/issues)
 
-[Pinned commit `1481eee`](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/commit/1481eee03a3064c7d902c54f37327615350a6766)
+[Pinned commit `9d93625`](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/commit/9d936259f6942922a68da48ff053140e4f824571)
 
 </details>
 
