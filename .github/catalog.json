@@ -25,11 +25,11 @@
   },
   {
     "repository": "seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App",
-    "commit": "bfba165af33c30884e431858d602fb9153de200e"
+    "commit": "ca2a21797bf2556f2e89a7c67be8bd415c2ed363"
   },
   {
     "repository": "seb5594/Home-Assistant-Renovate-App",
-    "commit": "f2a6e813cf170a98a8b25f0e8aaaa2838058b1df"
+    "commit": "42c22f690fffc92dc5f18659afbafe5b8a19d5de"
   },
   {
     "repository": "seb5594/Home-Assistant-Rsync-Local-Addon",
