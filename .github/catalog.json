@@ -9,7 +9,7 @@
   },
   {
     "repository": "seb5594/Home-Assistant-Git-Renovate-App",
-    "commit": "564eeda861a01c5bdfd5cef908c8e1ce9d66566e"
+    "commit": "47d48468f6b74c37fcc43411a9263fee8f2990e3"
   },
   {
     "repository": "seb5594/Home-Assistant-Gitea-MCP-Server-App",
@@ -41,7 +41,7 @@
   },
   {
     "repository": "seb5594/Home-Assistant-UnTuyaOS3-App",
-    "commit": "bd9e62afb0113efbda9c75f382e85db6d59bb74c"
+    "commit": "159ee79ad1b1142b61db84b46d19f72cc12f7d1c"
   },
   {
     "repository": "seb5594/Home-Assistant-WiFi-Helper-App",

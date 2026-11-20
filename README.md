@@ -52,7 +52,7 @@ Exports your Home Assistant configuration to one or more git repositories (GitHu
 
 </details>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Git-Renovate-App/564eeda861a01c5bdfd5cef908c8e1ce9d66566e/renovate/icon.png" width="28" height="28" alt=""> [Renovate](https://github.com/seb5594/Home-Assistant-Git-Renovate-App) (2026.11.20.2)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Git-Renovate-App/47d48468f6b74c37fcc43411a9263fee8f2990e3/renovate/icon.png" width="28" height="28" alt=""> [Renovate](https://github.com/seb5594/Home-Assistant-Git-Renovate-App) (2026.11.20.2)
 
 Keeps the dependencies of your GitHub, GitLab and Gitea repositories up to date, with a web interface inside Home Assistant.
 
@@ -63,11 +63,11 @@ Keeps the dependencies of your GitHub, GitLab and Gitea repositories up to date,
 <details>
 <summary>Build, image and repository details</summary>
 
-[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.20.2&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Renovate-App/releases/tag/2026.11.20.2) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=12&color=1877A5&style=flat)<br>
-![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2077.4%20%C2%B7%20aarch64%2077.0%20MiB&color=157F71&style=flat) ![mounts (read-only)](https://img.shields.io/static/v1?label=mounts%20%28read-only%29&message=addon_config%20%C2%B7%20ssl&color=157F71&style=flat)<br>
+[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.20.2&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Renovate-App/releases/tag/2026.11.20.2) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=14&color=1877A5&style=flat)<br>
+![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2077.5%20%C2%B7%20aarch64%2077.0%20MiB&color=157F71&style=flat) ![mounts (read-only)](https://img.shields.io/static/v1?label=mounts%20%28read-only%29&message=addon_config%20%C2%B7%20ssl&color=157F71&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Git-Renovate-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Renovate-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=100%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Git-Renovate-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Renovate-App/issues)
 
-[Pinned commit `564eeda`](https://github.com/seb5594/Home-Assistant-Git-Renovate-App/commit/564eeda861a01c5bdfd5cef908c8e1ce9d66566e)
+[Pinned commit `47d4846`](https://github.com/seb5594/Home-Assistant-Git-Renovate-App/commit/47d48468f6b74c37fcc43411a9263fee8f2990e3)
 
 </details>
 
@@ -204,7 +204,7 @@ One experimental Ingress workspace for UnTuyaOS3, Lightleak flash backups and Tu
 
 </details>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-UnTuyaOS3-App/bd9e62afb0113efbda9c75f382e85db6d59bb74c/untuyaos3/icon.png" width="28" height="28" alt=""> [UnTuyaOS3](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App) (1.0.4)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-UnTuyaOS3-App/159ee79ad1b1142b61db84b46d19f72cc12f7d1c/untuyaos3/icon.png" width="28" height="28" alt=""> [UnTuyaOS3](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App) (1.0.4)
 
 Flash compatible Tuya devices with open firmware from Home Assistant (UnTuyaOS3), with live console and isolated Wi-Fi
 
@@ -216,10 +216,10 @@ Flash compatible Tuya devices with open firmware from Home Assistant (UnTuyaOS3)
 <summary>Build, image and repository details</summary>
 
 [![app version](https://img.shields.io/static/v1?label=app%20version&message=1.0.4&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/releases/tag/v1.0.4) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=69&color=1877A5&style=flat)<br>
-![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20154.9%20%C2%B7%20aarch64%20169.2%20MiB&color=157F71&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN%2C%20NET_RAW&color=B45309&style=flat)<br>
+![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2050.6%20%C2%B7%20aarch64%2050.3%20MiB&color=157F71&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN%2C%20NET_RAW&color=B45309&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-UnTuyaOS3-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=6%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-UnTuyaOS3-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/issues)
 
-[Pinned commit `bd9e62a`](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/commit/bd9e62afb0113efbda9c75f382e85db6d59bb74c)
+[Pinned commit `159ee79`](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/commit/159ee79ad1b1142b61db84b46d19f72cc12f7d1c)
 
 </details>
 
