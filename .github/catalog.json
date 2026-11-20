@@ -1,7 +1,7 @@
 [
   {
     "repository": "seb5594/Home-Assistant-Assist-AI-Router-App",
-    "commit": "b4b9d5f304a0639f539388057dcd7fb6bace6127"
+    "commit": "c83c0de3e9f9fc28af9e56c69897c084a5fe995a"
   },
   {
     "repository": "seb5594/Home-Assistant-Git-Exporter-Addon",
@@ -21,15 +21,15 @@
   },
   {
     "repository": "seb5594/Home-Assistant-Mail-Forwarder-App",
-    "commit": "b987065d4951804e0fa44e4d5e7e7a734f523e3e"
+    "commit": "9c11d3f4dd7fcefca0a1b02680236629bf702134"
   },
   {
     "repository": "seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App",
-    "commit": "a41b2d0789bb26452331a1ac7693619424f37e40"
+    "commit": "bfba165af33c30884e431858d602fb9153de200e"
   },
   {
     "repository": "seb5594/Home-Assistant-Renovate-App",
-    "commit": "187c45b0eff8da03a42ca78a64fe9384a33a2074"
+    "commit": "f2a6e813cf170a98a8b25f0e8aaaa2838058b1df"
   },
   {
     "repository": "seb5594/Home-Assistant-Rsync-Local-Addon",
@@ -37,14 +37,14 @@
   },
   {
     "repository": "seb5594/Home-Assistant-Tuya-Breaker-App",
-    "commit": "822090b9d0cde9b6dfbe13a87f5e8fa91b0582ec"
+    "commit": "16384fb268404981eef5ce2dc3d4942820a1704c"
   },
   {
     "repository": "seb5594/Home-Assistant-UnTuyaOS3-App",
-    "commit": "9a5bbfdf78e63e84e8fbc27a1f3842de19f5a9fe"
+    "commit": "befa5d33eaaecf5142172015d2e0ea1adc0dd6a9"
   },
   {
     "repository": "seb5594/Home-Assistant-WiFi-Helper-App",
-    "commit": "36b28f563af2f0c28b82f62b94799292ae6fca10"
+    "commit": "9cf9524c920b76c1405462197284a4bac78c7c32"
   }
 ]

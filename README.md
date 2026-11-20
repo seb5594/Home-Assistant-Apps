@@ -30,7 +30,7 @@ Add this catalog once to install apps for backups, development tools, smart devi
 <!-- Generated from the source repositories by the hass-workflows catalog action. -->
 <a name="app-assist-ai-router-assist_ai_router"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Assist-AI-Router-App/b4b9d5f304a0639f539388057dcd7fb6bace6127/assist_ai_router/icon.png" width="28" height="28" alt=""> [Assist AI Router](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App) (1.0.5)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Assist-AI-Router-App/c83c0de3e9f9fc28af9e56c69897c084a5fe995a/assist_ai_router/icon.png" width="28" height="28" alt=""> [Assist AI Router](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App) (1.0.5)
 
 Multi-provider AI gateway for Home Assistant Assist, powered by LiteLLM.
 
@@ -41,10 +41,10 @@ Multi-provider AI gateway for Home Assistant Assist, powered by LiteLLM.
 
 ![home assistant](https://img.shields.io/static/v1?label=home%20assistant&message=%E2%89%A5%202026.8.0&color=1877A5&style=flat)<br>
 [![app version](https://img.shields.io/static/v1?label=app%20version&message=1.0.5&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/releases/tag/v1.0.5) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=32&color=1877A5&style=flat)<br>
-![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20149.1%20%C2%B7%20aarch64%20147.5%20MiB&color=157F71&style=flat)<br>
+![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20149.1%20%C2%B7%20aarch64%20147.5%20MiB%20%C2%B7%20armv7%20%C2%B7%20armhf%20%C2%B7%20i386&color=157F71&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Assist-AI-Router-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=4%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Assist-AI-Router-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/issues)
 
-[Pinned commit `b4b9d5f`](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/commit/b4b9d5f304a0639f539388057dcd7fb6bace6127)
+[Pinned commit `c83c0de`](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/commit/c83c0de3e9f9fc28af9e56c69897c084a5fe995a)
 
 </details>
 
@@ -126,7 +126,7 @@ Runs the Actions workflows of your Gitea inside an isolated app, without access 
 
 <a name="app-mail-forwarder-mail_forwarder"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Mail-Forwarder-App/b987065d4951804e0fa44e4d5e7e7a734f523e3e/mail_forwarder/icon.png" width="28" height="28" alt=""> [Mail Forwarder](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App) (2026.11.20.4)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Mail-Forwarder-App/9c11d3f4dd7fcefca0a1b02680236629bf702134/mail_forwarder/icon.png" width="28" height="28" alt=""> [Mail Forwarder](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App) (2026.11.20.4)
 
 Receives mail for your own domains and forwards it to your Gmail, Outlook or WEB.DE inbox.
 
@@ -136,16 +136,16 @@ Receives mail for your own domains and forwards it to your Gmail, Outlook or WEB
 <summary>Build, image and repository details</summary>
 
 [![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.20.4&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/releases/tag/2026.11.20.4) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=15&color=1877A5&style=flat)<br>
-![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2041.2%20%C2%B7%20aarch64%2041.3%20MiB&color=157F71&style=flat)<br>
-[![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Mail-Forwarder-App/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=22%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Mail-Forwarder-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/issues)
+![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2041.2%20%C2%B7%20aarch64%2041.3%20%C2%B7%20armv7%2038.4%20%C2%B7%20armhf%2039.3%20%C2%B7%20i386%2041.1%20MiB&color=157F71&style=flat)<br>
+[![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Mail-Forwarder-App/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=25%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Mail-Forwarder-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/issues)
 
-[Pinned commit `b987065`](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/commit/b987065d4951804e0fa44e4d5e7e7a734f523e3e)
+[Pinned commit `9c11d3f`](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/commit/9c11d3f4dd7fcefca0a1b02680236629bf702134)
 
 </details>
 
 <a name="app-playstation-vr-camera-loader-sony_playstation_vr_camera_loader"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/a41b2d0789bb26452331a1ac7693619424f37e40/sony_playstation_vr_camera_loader/icon.png" width="28" height="28" alt=""> [Sony PlayStation VR Camera Loader](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App) (1.0.0-beta.6)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/bfba165af33c30884e431858d602fb9153de200e/sony_playstation_vr_camera_loader/icon.png" width="28" height="28" alt=""> [Sony PlayStation VR Camera Loader](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App) (1.0.0-beta.6)
 
 Turns the PlayStation (VR) Camera into a far-field voice microphone for Assist, with an optional video preview.
 
@@ -155,16 +155,16 @@ Turns the PlayStation (VR) Camera into a far-field voice microphone for Assist, 
 <summary>Build, image and repository details</summary>
 
 [![app version](https://img.shields.io/static/v1?label=app%20version&message=Beta%206&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/releases/tag/v1.0.0-beta.6) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=24&color=1877A5&style=flat)<br>
-![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2090.1%20%C2%B7%20aarch64%2086.2%20MiB&color=157F71&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=addon_config&color=B45309&style=flat) ![local disks](https://img.shields.io/static/v1?label=local%20disks&message=attached&color=1877A5&style=flat)<br>
+![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2090.1%20%C2%B7%20aarch64%2086.2%20MiB%20%C2%B7%20armv7%20%C2%B7%20armhf%20%C2%B7%20i386&color=157F71&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=addon_config&color=B45309&style=flat) ![local disks](https://img.shields.io/static/v1?label=local%20disks&message=attached&color=1877A5&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=5%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/issues)
 
-[Pinned commit `a41b2d0`](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/commit/a41b2d0789bb26452331a1ac7693619424f37e40)
+[Pinned commit `bfba165`](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/commit/bfba165af33c30884e431858d602fb9153de200e)
 
 </details>
 
 <a name="app-renovate-renovate"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Renovate-App/187c45b0eff8da03a42ca78a64fe9384a33a2074/renovate/icon.png" width="28" height="28" alt=""> [Renovate](https://github.com/seb5594/Home-Assistant-Renovate-App) (2026.11.20.2)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Renovate-App/f2a6e813cf170a98a8b25f0e8aaaa2838058b1df/renovate/icon.png" width="28" height="28" alt=""> [Renovate](https://github.com/seb5594/Home-Assistant-Renovate-App) (2026.11.20.2)
 
 Keeps the dependencies of your GitHub, GitLab and Gitea repositories up to date, with a web interface inside Home Assistant.
 
@@ -174,10 +174,10 @@ Keeps the dependencies of your GitHub, GitLab and Gitea repositories up to date,
 <summary>Build, image and repository details</summary>
 
 [![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.20.2&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Renovate-App/releases/tag/2026.11.20.2) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=14&color=1877A5&style=flat)<br>
-![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2077.5%20%C2%B7%20aarch64%2077.0%20MiB&color=157F71&style=flat) ![mounts (read-only)](https://img.shields.io/static/v1?label=mounts%20%28read-only%29&message=addon_config%20%C2%B7%20ssl&color=157F71&style=flat)<br>
+![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2077.5%20%C2%B7%20aarch64%2077.0%20MiB%20%C2%B7%20armv7%20%C2%B7%20armhf%20%C2%B7%20i386&color=157F71&style=flat) ![mounts (read-only)](https://img.shields.io/static/v1?label=mounts%20%28read-only%29&message=addon_config%20%C2%B7%20ssl&color=157F71&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Renovate-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Renovate-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=100%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Renovate-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Renovate-App/issues)
 
-[Pinned commit `187c45b`](https://github.com/seb5594/Home-Assistant-Renovate-App/commit/187c45b0eff8da03a42ca78a64fe9384a33a2074)
+[Pinned commit `f2a6e81`](https://github.com/seb5594/Home-Assistant-Renovate-App/commit/f2a6e813cf170a98a8b25f0e8aaaa2838058b1df)
 
 </details>
 
@@ -202,7 +202,7 @@ Keep an extra local copy of your Home Assistant files on an attached USB drive.
 
 <a name="app-tuya-breaker-tuya_breaker"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Tuya-Breaker-App/822090b9d0cde9b6dfbe13a87f5e8fa91b0582ec/tuya_breaker/icon.png" width="28" height="28" alt=""> [Tuya Breaker](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App) (2026.11.20.3)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Tuya-Breaker-App/16384fb268404981eef5ce2dc3d4942820a1704c/tuya_breaker/icon.png" width="28" height="28" alt=""> [Tuya Breaker](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App) (2026.11.20.3)
 
 One experimental Ingress workspace for UnTuyaOS3, Lightleak flash backups and Tuya-Cloudcutter, with an isolated Wi-Fi lease
 
@@ -212,16 +212,16 @@ One experimental Ingress workspace for UnTuyaOS3, Lightleak flash backups and Tu
 <summary>Build, image and repository details</summary>
 
 [![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.20.3&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/releases/tag/2026.11.20.3) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=11&color=1877A5&style=flat)<br>
-![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2069.4%20%C2%B7%20aarch64%2069.3%20MiB&color=157F71&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN%2C%20NET_RAW&color=B45309&style=flat)<br>
+![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2069.4%20%C2%B7%20aarch64%2069.3%20MiB%20%C2%B7%20armv7%20%C2%B7%20armhf%20%C2%B7%20i386&color=157F71&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN%2C%20NET_RAW&color=B45309&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Tuya-Breaker-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=9%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Tuya-Breaker-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/issues)
 
-[Pinned commit `822090b`](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/commit/822090b9d0cde9b6dfbe13a87f5e8fa91b0582ec)
+[Pinned commit `16384fb`](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/commit/16384fb268404981eef5ce2dc3d4942820a1704c)
 
 </details>
 
 <a name="app-untuyaos3-untuyaos3"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-UnTuyaOS3-App/9a5bbfdf78e63e84e8fbc27a1f3842de19f5a9fe/untuyaos3/icon.png" width="28" height="28" alt=""> [UnTuyaOS3](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App) (1.0.5)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-UnTuyaOS3-App/befa5d33eaaecf5142172015d2e0ea1adc0dd6a9/untuyaos3/icon.png" width="28" height="28" alt=""> [UnTuyaOS3](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App) (1.0.5)
 
 Flash compatible Tuya devices with open firmware from Home Assistant (UnTuyaOS3), with live console and isolated Wi-Fi
 
@@ -231,16 +231,16 @@ Flash compatible Tuya devices with open firmware from Home Assistant (UnTuyaOS3)
 <summary>Build, image and repository details</summary>
 
 [![app version](https://img.shields.io/static/v1?label=app%20version&message=1.0.5&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/releases/tag/v1.0.5) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=4&color=1877A5&style=flat)<br>
-![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2050.6%20%C2%B7%20aarch64%2050.3%20MiB&color=157F71&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN%2C%20NET_RAW&color=B45309&style=flat)<br>
+![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2050.6%20%C2%B7%20aarch64%2050.3%20MiB%20%C2%B7%20armv7%20%C2%B7%20armhf%20%C2%B7%20i386&color=157F71&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN%2C%20NET_RAW&color=B45309&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-UnTuyaOS3-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=6%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-UnTuyaOS3-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/issues)
 
-[Pinned commit `9a5bbfd`](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/commit/9a5bbfdf78e63e84e8fbc27a1f3842de19f5a9fe)
+[Pinned commit `befa5d3`](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/commit/befa5d33eaaecf5142172015d2e0ea1adc0dd6a9)
 
 </details>
 
 <a name="app-wifi-helper-wifi_helper"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-WiFi-Helper-App/36b28f563af2f0c28b82f62b94799292ae6fca10/wifi_helper/icon.png" width="28" height="28" alt=""> [WiFi App Helper](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App) (1.0.2)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-WiFi-Helper-App/9cf9524c920b76c1405462197284a4bac78c7c32/wifi_helper/icon.png" width="28" height="28" alt=""> [WiFi App Helper](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App) (1.0.2)
 
 Reusable local API to lend one idle Wi-Fi radio to an isolated Home Assistant app and restore it afterwards
 
@@ -250,10 +250,10 @@ Reusable local API to lend one idle Wi-Fi radio to an isolated Home Assistant ap
 <summary>Build, image and repository details</summary>
 
 [![app version](https://img.shields.io/static/v1?label=app%20version&message=1.0.2&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/releases/tag/v1.0.2) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=12&color=1877A5&style=flat)<br>
-![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2040.7%20%C2%B7%20aarch64%2040.6%20MiB&color=157F71&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN&color=B45309&style=flat)<br>
+![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2040.7%20%C2%B7%20aarch64%2040.6%20MiB%20%C2%B7%20armv7%20%C2%B7%20armhf%20%C2%B7%20i386&color=157F71&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN&color=B45309&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-WiFi-Helper-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=2%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-WiFi-Helper-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/issues)
 
-[Pinned commit `36b28f5`](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/commit/36b28f563af2f0c28b82f62b94799292ae6fca10)
+[Pinned commit `9cf9524`](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/commit/9cf9524c920b76c1405462197284a4bac78c7c32)
 
 </details>
 
