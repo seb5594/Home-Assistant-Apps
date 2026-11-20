@@ -4,20 +4,35 @@
 [![catalog sync](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Apps/update.yml?branch=main&label=catalog%20sync&style=flat)](https://github.com/seb5594/Home-Assistant-Apps/actions/workflows/update.yml) ![apps](https://img.shields.io/static/v1?label=apps&message=12&color=1877A5&style=flat)<br>
 [![synced](https://img.shields.io/github/last-commit/seb5594/Home-Assistant-Apps?label=synced&style=flat)](https://github.com/seb5594/Home-Assistant-Apps/commits/main)
 
-Add this catalog once to install apps for backups, development tools, smart devices and more. Each entry shows its version, supported architectures and links to its setup guide.
+Add this catalog once to install apps for backups, development tools, smart devices and more. Each entry shows its version and setup links, with build and image details below.
 
 ## Install
 
 📲 Use the blue button above, or open **Settings → Apps → App store → ⋮ → Repositories** in Home Assistant and add `https://github.com/seb5594/Home-Assistant-Apps`. Older versions may call these *Add-ons* and *Add-on store*. A Supervisor-based installation, such as Home Assistant OS, is required.
 
-## Available apps
+## Contents
+
+- [Assist AI Router](#app-assist-ai-router-assist_ai_router)
+- [Home Assistant Git Exporter](#app-git-exporter-git-exporter)
+- [Renovate](#app-git-renovate-renovate)
+- [Gitea MCP-Server](#app-gitea-mcp-server-gitea_mcp_server)
+- [Gitea Mirror](#app-gitea-mirror-gitea_mirror)
+- [Gitea Runner](#app-gitea-runner-gitea_runner)
+- [Mail Forwarder](#app-mail-forwarder-mail_forwarder)
+- [Sony PlayStation VR Camera Loader](#app-playstation-vr-camera-loader-sony_playstation_vr_camera_loader)
+- [Rsync Local](#app-rsync-local-rsync-local)
+- [Tuya Breaker](#app-tuya-breaker-tuya_breaker)
+- [UnTuyaOS3](#app-untuyaos3-untuyaos3)
+- [WiFi App Helper](#app-wifi-helper-wifi_helper)
+
+## Apps
 
 <!-- Generated from the source repositories by the hass-workflows catalog action. -->
+<a name="app-assist-ai-router-assist_ai_router"></a>
+
 ### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Assist-AI-Router-App/2e994b9077373e80978754866c039bb66ca877ad/assist_ai_router/icon.png" width="28" height="28" alt=""> [Assist AI Router](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App) (1.0.5)
 
 Multi-provider AI gateway for Home Assistant Assist, powered by LiteLLM.
-
-**Architectures** · amd64 · aarch64
 
 📖 [Source & documentation](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App) · [Changelog](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/blob/dev/assist_ai_router/CHANGELOG.md)
 
@@ -33,11 +48,11 @@ Multi-provider AI gateway for Home Assistant Assist, powered by LiteLLM.
 
 </details>
 
+<a name="app-git-exporter-git-exporter"></a>
+
 ### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Git-Exporter-Addon/067628a180a65e55850f4a9fde0d643296419452/git-exporter/icon.png" width="28" height="28" alt=""> [Home Assistant Git Exporter](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon) (2.0.0-beta.3)
 
 Exports your Home Assistant configuration to one or more git repositories (GitHub, GitLab, Gitea and others), for private use or for the public, with a preview and a file browser.
-
-**Architectures** · amd64 · aarch64 · armv7 · armhf · i386
 
 📖 [Source & documentation](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon) · [Changelog](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/blob/main/git-exporter/CHANGELOG.md)
 
@@ -52,11 +67,11 @@ Exports your Home Assistant configuration to one or more git repositories (GitHu
 
 </details>
 
+<a name="app-git-renovate-renovate"></a>
+
 ### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Git-Renovate-App/47d48468f6b74c37fcc43411a9263fee8f2990e3/renovate/icon.png" width="28" height="28" alt=""> [Renovate](https://github.com/seb5594/Home-Assistant-Git-Renovate-App) (2026.11.20.2)
 
 Keeps the dependencies of your GitHub, GitLab and Gitea repositories up to date, with a web interface inside Home Assistant.
-
-**Architectures** · amd64 · aarch64
 
 📖 [Source & documentation](https://github.com/seb5594/Home-Assistant-Git-Renovate-App) · [Changelog](https://github.com/seb5594/Home-Assistant-Git-Renovate-App/blob/dev/renovate/CHANGELOG.md)
 
@@ -71,11 +86,11 @@ Keeps the dependencies of your GitHub, GitLab and Gitea repositories up to date,
 
 </details>
 
+<a name="app-gitea-mcp-server-gitea_mcp_server"></a>
+
 ### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/ce2ad0b1a3c5203701e8f0851e75db7c71f706b0/gitea_mcp_server/icon.png" width="28" height="28" alt=""> [Gitea MCP-Server](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App) (1.13.0)
 
 Connects MCP clients to your Gitea repositories, issues and pull requests.
-
-**Architectures** · amd64 · aarch64
 
 📖 [Source & documentation](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App) · [Changelog](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App/blob/master/gitea_mcp_server/CHANGELOG.md)
 
@@ -90,11 +105,11 @@ Connects MCP clients to your Gitea repositories, issues and pull requests.
 
 </details>
 
+<a name="app-gitea-mirror-gitea_mirror"></a>
+
 ### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Gitea-Mirror-App/026856d9043f3a89f12d886c5b01c10cca2f7e4c/gitea_mirror/icon.png" width="28" height="28" alt=""> [Gitea Mirror](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App) (3.54.0)
 
 Mirrors your GitHub, GitLab or Gitea repositories to your own Gitea and keeps them up to date, with the original web interface inside Home Assistant.
-
-**Architectures** · amd64 · aarch64
 
 📖 [Source & documentation](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App) · [Changelog](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App/blob/dev/gitea_mirror/CHANGELOG.md)
 
@@ -109,11 +124,11 @@ Mirrors your GitHub, GitLab or Gitea repositories to your own Gitea and keeps th
 
 </details>
 
+<a name="app-gitea-runner-gitea_runner"></a>
+
 ### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Gitea-Runner-App/596b5db84ebf3e4504217aa1442b978f23144e79/gitea_runner/icon.png" width="28" height="28" alt=""> [Gitea Runner](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App) (6.0.1)
 
 Runs the Actions workflows of your Gitea inside an isolated app, without access to your Home Assistant host.
-
-**Architectures** · amd64 · aarch64
 
 📖 [Source & documentation](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App) · [Changelog](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/blob/dev/gitea_runner/CHANGELOG.md)
 
@@ -128,11 +143,11 @@ Runs the Actions workflows of your Gitea inside an isolated app, without access 
 
 </details>
 
+<a name="app-mail-forwarder-mail_forwarder"></a>
+
 ### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Mail-Forwarder-App/43600c778f0205809cf5d7dedc0c06779427598f/mail_forwarder/icon.png" width="28" height="28" alt=""> [Mail Forwarder](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App) (2026.11.20.4)
 
 Receives mail for your own domains and forwards it to your Gmail, Outlook or WEB.DE inbox.
-
-**Architectures** · amd64 · aarch64
 
 📖 [Source & documentation](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App) · [Changelog](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/blob/main/mail_forwarder/CHANGELOG.md)
 
@@ -147,11 +162,11 @@ Receives mail for your own domains and forwards it to your Gmail, Outlook or WEB
 
 </details>
 
+<a name="app-playstation-vr-camera-loader-sony_playstation_vr_camera_loader"></a>
+
 ### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/cc5083f1c996bf741457cb65c7c8191f42be44d5/sony_playstation_vr_camera_loader/icon.png" width="28" height="28" alt=""> [Sony PlayStation VR Camera Loader](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App) (1.0.0-beta.6)
 
 Turns the PlayStation (VR) Camera into a far-field voice microphone for Assist, with an optional video preview.
-
-**Architectures** · amd64 · aarch64
 
 📖 [Source & documentation](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App) · [Changelog](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/blob/main/sony_playstation_vr_camera_loader/CHANGELOG.md)
 
@@ -166,11 +181,11 @@ Turns the PlayStation (VR) Camera into a far-field voice microphone for Assist, 
 
 </details>
 
+<a name="app-rsync-local-rsync-local"></a>
+
 ### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Rsync-Local-Addon/2928b2ad83e9a51711904e9998d9618160594e43/rsync-local/icon.png" width="28" height="28" alt=""> [Rsync Local](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon) (1.75.1)
 
 Keep an extra local copy of your Home Assistant files on an attached USB drive.
-
-**Architectures** · amd64 · aarch64 · armv7 · armhf · i386
 
 📖 [Source & documentation](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon) · [Changelog](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/blob/main/rsync-local/CHANGELOG.md)
 
@@ -185,11 +200,11 @@ Keep an extra local copy of your Home Assistant files on an attached USB drive.
 
 </details>
 
+<a name="app-tuya-breaker-tuya_breaker"></a>
+
 ### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Tuya-Breaker-App/f4317f59c6992f233a43e6a90afa198c25e1df31/tuya_breaker/icon.png" width="28" height="28" alt=""> [Tuya Breaker](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App) (2026.11.20.3)
 
 One experimental Ingress workspace for UnTuyaOS3, Lightleak flash backups and Tuya-Cloudcutter, with an isolated Wi-Fi lease
-
-**Architectures** · amd64 · aarch64
 
 📖 [Source & documentation](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App) · [Changelog](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/blob/dev/tuya_breaker/CHANGELOG.md)
 
@@ -204,11 +219,11 @@ One experimental Ingress workspace for UnTuyaOS3, Lightleak flash backups and Tu
 
 </details>
 
+<a name="app-untuyaos3-untuyaos3"></a>
+
 ### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-UnTuyaOS3-App/159ee79ad1b1142b61db84b46d19f72cc12f7d1c/untuyaos3/icon.png" width="28" height="28" alt=""> [UnTuyaOS3](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App) (1.0.4)
 
 Flash compatible Tuya devices with open firmware from Home Assistant (UnTuyaOS3), with live console and isolated Wi-Fi
-
-**Architectures** · amd64 · aarch64
 
 📖 [Source & documentation](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App) · [Changelog](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/blob/dev/untuyaos3/CHANGELOG.md)
 
@@ -223,11 +238,11 @@ Flash compatible Tuya devices with open firmware from Home Assistant (UnTuyaOS3)
 
 </details>
 
+<a name="app-wifi-helper-wifi_helper"></a>
+
 ### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-WiFi-Helper-App/1920662f0e414fa4d7ec0f73aaff440d69c32cc8/wifi_helper/icon.png" width="28" height="28" alt=""> [WiFi App Helper](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App) (1.0.2)
 
 Reusable local API to lend one idle Wi-Fi radio to an isolated Home Assistant app and restore it afterwards
-
-**Architectures** · amd64 · aarch64
 
 📖 [Source & documentation](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App) · [Changelog](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/blob/dev/wifi_helper/CHANGELOG.md)
 
