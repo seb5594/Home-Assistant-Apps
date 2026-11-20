@@ -91,16 +91,16 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 
 [Source & documentation](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon) · [Pinned commit `ba24de3`](https://github.com/seb5594/Home-Assistant-Rsync-Local-Addon/commit/ba24de35f4c95a17598a7bdc3b837ccda4dabd6d)
 
-### [Tuya-Breaker](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App) (2026-11-14.2)
+### [Tuya-Breaker](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App) (2026.11.20)
 
 > Tuya Breaker combines UnTuyaOS3, Lightleak and Tuya-Cloudcutter in one experimental Home Assistant Ingress workspace. Choose a tool, review its requirements and use the shared WiFi App Helper to isolate one dedicated adapter. Includes the community hardware explorer, private firmware library and bounded Lightleak flash readout. The Lightleak controller is experimental and awaits physical-device validation.
 
 [Changelog](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/blob/dev/tuya_breaker/CHANGELOG.md)<br>
-[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026-11-14.2&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/releases/tag/v2026-11-14.2) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=20&color=1877A5&style=flat)<br>
+[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.20&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/releases) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=20&color=1877A5&style=flat)<br>
 ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20205.5%20%C2%B7%20aarch64%20224.7%20MiB&color=157F71&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN%2C%20NET_RAW&color=B45309&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Tuya-Breaker-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=9%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Tuya-Breaker-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/issues)
 
-[Source & documentation](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App) · [Pinned commit `26cd0a0`](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/commit/26cd0a0e33bb934e1fcc966cb70a8d9b0bb5d0f7)
+[Source & documentation](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App) · [Pinned commit `a4c721a`](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/commit/a4c721ae7206c0bbfb9c7cc7c9d397a8057ade27)
 
 ### [UnTuyaOS3](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App) (1.0.4)
 
