@@ -240,7 +240,7 @@ Flash compatible Tuya devices with open firmware from Home Assistant (UnTuyaOS3)
 
 <a name="app-wifi-helper-wifi_helper"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-WiFi-Helper-App/1920662f0e414fa4d7ec0f73aaff440d69c32cc8/wifi_helper/icon.png" width="28" height="28" alt=""> [WiFi App Helper](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App) (1.0.2)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-WiFi-Helper-App/36b28f563af2f0c28b82f62b94799292ae6fca10/wifi_helper/icon.png" width="28" height="28" alt=""> [WiFi App Helper](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App) (1.0.2)
 
 Reusable local API to lend one idle Wi-Fi radio to an isolated Home Assistant app and restore it afterwards
 
@@ -253,7 +253,7 @@ Reusable local API to lend one idle Wi-Fi radio to an isolated Home Assistant ap
 ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2040.7%20%C2%B7%20aarch64%2040.6%20MiB&color=157F71&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN&color=B45309&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-WiFi-Helper-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=2%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-WiFi-Helper-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/issues)
 
-[Pinned commit `1920662`](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/commit/1920662f0e414fa4d7ec0f73aaff440d69c32cc8)
+[Pinned commit `36b28f5`](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/commit/36b28f563af2f0c28b82f62b94799292ae6fca10)
 
 </details>
 
