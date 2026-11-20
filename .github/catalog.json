@@ -5,7 +5,7 @@
   },
   {
     "repository": "seb5594/Home-Assistant-Git-Exporter-Addon",
-    "commit": "82c250253f0d77d031331af558c7d1ff9833eb2b"
+    "commit": "067628a180a65e55850f4a9fde0d643296419452"
   },
   {
     "repository": "seb5594/Home-Assistant-Git-Renovate-App",
@@ -41,7 +41,7 @@
   },
   {
     "repository": "seb5594/Home-Assistant-UnTuyaOS3-App",
-    "commit": "3bd153269427c2f217f1f498a14b86663d3e26cd"
+    "commit": "bd9e62afb0113efbda9c75f382e85db6d59bb74c"
   },
   {
     "repository": "seb5594/Home-Assistant-WiFi-Helper-App",
