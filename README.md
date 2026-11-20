@@ -145,7 +145,7 @@ Receives mail for your own domains and forwards it to your Gmail, Outlook or WEB
 
 <a name="app-playstation-vr-camera-loader-sony_playstation_vr_camera_loader"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/ca2a21797bf2556f2e89a7c67be8bd415c2ed363/sony_playstation_vr_camera_loader/icon.png" width="28" height="28" alt=""> [Sony PlayStation VR Camera Loader](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App) (1.0.0-beta.6)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/667f2ff5f593cfb1548dd49ba606d8a46d3952f4/sony_playstation_vr_camera_loader/icon.png" width="28" height="28" alt=""> [Sony PlayStation VR Camera Loader](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App) (1.0.0-beta.6)
 
 Turns the PlayStation (VR) Camera into a far-field voice microphone for Assist, with an optional video preview.
 
@@ -158,7 +158,7 @@ Turns the PlayStation (VR) Camera into a far-field voice microphone for Assist, 
 ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2090.1%20%C2%B7%20aarch64%2086.2%20%C2%B7%20armv7%2074.9%20%C2%B7%20armhf%2077.3%20%C2%B7%20i386%2083.7%20MiB&color=157F71&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=addon_config&color=B45309&style=flat) ![local disks](https://img.shields.io/static/v1?label=local%20disks&message=attached&color=1877A5&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=5%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/issues)
 
-[Pinned commit `ca2a217`](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/commit/ca2a21797bf2556f2e89a7c67be8bd415c2ed363)
+[Pinned commit `667f2ff`](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App/commit/667f2ff5f593cfb1548dd49ba606d8a46d3952f4)
 
 </details>
 
@@ -221,7 +221,7 @@ One experimental Ingress workspace for UnTuyaOS3, Lightleak flash backups and Tu
 
 <a name="app-untuyaos3-untuyaos3"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-UnTuyaOS3-App/befa5d33eaaecf5142172015d2e0ea1adc0dd6a9/untuyaos3/icon.png" width="28" height="28" alt=""> [UnTuyaOS3](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App) (1.0.5)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-UnTuyaOS3-App/ab5df542b23841059191c4fd8b578c2da0e7b2c4/untuyaos3/icon.png" width="28" height="28" alt=""> [UnTuyaOS3](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App) (1.0.5)
 
 Flash compatible Tuya devices with open firmware from Home Assistant (UnTuyaOS3), with live console and isolated Wi-Fi
 
@@ -234,7 +234,7 @@ Flash compatible Tuya devices with open firmware from Home Assistant (UnTuyaOS3)
 ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2050.6%20%C2%B7%20aarch64%2050.3%20MiB%20%C2%B7%20armv7%20%C2%B7%20armhf%20%C2%B7%20i386&color=157F71&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN%2C%20NET_RAW&color=B45309&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-UnTuyaOS3-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=6%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-UnTuyaOS3-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/issues)
 
-[Pinned commit `befa5d3`](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/commit/befa5d33eaaecf5142172015d2e0ea1adc0dd6a9)
+[Pinned commit `ab5df54`](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/commit/ab5df542b23841059191c4fd8b578c2da0e7b2c4)
 
 </details>
 
