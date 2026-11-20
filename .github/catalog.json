@@ -29,7 +29,7 @@
   },
   {
     "repository": "seb5594/Home-Assistant-Renovate-App",
-    "commit": "7158018815d46cff2cf12f36d8e64c7f82dadcd7"
+    "commit": "c843a924e2245340625c2a7183566422b210d589"
   },
   {
     "repository": "seb5594/Home-Assistant-Rsync-Local-Addon",
@@ -41,7 +41,7 @@
   },
   {
     "repository": "seb5594/Home-Assistant-UnTuyaOS3-App",
-    "commit": "62341aaf5033d1a995a657f83719ce20d248106e"
+    "commit": "e4ba9570a3d3833d74fb572afea86a5aef2ed43b"
   },
   {
     "repository": "seb5594/Home-Assistant-WiFi-Helper-App",
