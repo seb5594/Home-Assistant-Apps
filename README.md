@@ -107,7 +107,7 @@ Mirrors your GitHub, GitLab or Gitea repositories to your own Gitea and keeps th
 
 <a name="app-gitea-runner-gitea_runner"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Gitea-Runner-App/596b5db84ebf3e4504217aa1442b978f23144e79/gitea_runner/icon.png" width="28" height="28" alt=""> [Gitea Runner](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App) (6.0.1)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Gitea-Runner-App/7cac940dffd31cb36bc18fbb62d44156182cbc5c/gitea_runner/icon.png" width="28" height="28" alt=""> [Gitea Runner](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App) (6.0.1)
 
 Runs the Actions workflows of your Gitea inside an isolated app, without access to your Home Assistant host.
 
@@ -120,7 +120,7 @@ Runs the Actions workflows of your Gitea inside an isolated app, without access 
 ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2053.0%20%C2%B7%20aarch64%2052.0%20MiB&color=157F71&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Gitea-Runner-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=13%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Gitea-Runner-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/issues)
 
-[Pinned commit `596b5db`](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/commit/596b5db84ebf3e4504217aa1442b978f23144e79)
+[Pinned commit `7cac940`](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/commit/7cac940dffd31cb36bc18fbb62d44156182cbc5c)
 
 </details>
 
