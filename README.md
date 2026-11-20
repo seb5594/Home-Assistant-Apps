@@ -1,7 +1,7 @@
 # Home Assistant Apps by seb5594
 
 [![Home Assistant](https://img.shields.io/static/v1?label=Home%20Assistant&message=Add%20app%20repository&color=18BCF2&logo=homeassistant&logoColor=white&style=flat)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fseb5594%2FHome-Assistant-Apps)<br>
-[![catalog sync](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Apps/update.yml?branch=main&label=catalog%20sync&style=flat)](https://github.com/seb5594/Home-Assistant-Apps/actions/workflows/update.yml) ![apps](https://img.shields.io/static/v1?label=apps&message=10&color=1877A5&style=flat)<br>
+[![catalog sync](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Apps/update.yml?branch=main&label=catalog%20sync&style=flat)](https://github.com/seb5594/Home-Assistant-Apps/actions/workflows/update.yml) ![apps](https://img.shields.io/static/v1?label=apps&message=11&color=1877A5&style=flat)<br>
 [![synced](https://img.shields.io/github/last-commit/seb5594/Home-Assistant-Apps?label=synced&style=flat)](https://github.com/seb5594/Home-Assistant-Apps/commits/main)
 
 Practical Home Assistant apps for backups and configuration history. Add this catalog once, then choose the apps that fit your setup. Their versions, supported architectures, available mounts, and build status are shown below.
@@ -35,6 +35,17 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 [![stars](https://img.shields.io/github/stars/seb5594/Home-Assistant-Git-Exporter-Addon?label=stars&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/stargazers) [![forks](https://img.shields.io/github/forks/seb5594/Home-Assistant-Git-Exporter-Addon?label=forks&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/forks) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Git-Exporter-Addon/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=49%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Git-Exporter-Addon?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/issues)
 
 [Source & documentation](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon) · [Pinned commit `d9909fd`](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/commit/d9909fd06d8076b9a1e34508d1a33359199ce5d3)
+
+### [Git-Renovate](https://github.com/seb5594/Home-Assistant-Git-Renovate-App) (0.1.0)
+
+> A starting point for a Home Assistant app with the shared pipeline already wired in: validation, multi-architecture build, runtime tests, GHCR release and README badges.
+
+[Changelog](https://github.com/seb5594/Home-Assistant-Git-Renovate-App/blob/dev/example-app/CHANGELOG.md)<br>
+[![app version](https://img.shields.io/static/v1?label=app%20version&message=0.1.0&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Renovate-App/releases)<br>
+![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![arch](https://img.shields.io/static/v1?label=arch&message=amd64%20%C2%B7%20aarch64%20%C2%B7%20armv7%20%C2%B7%20armhf%20%C2%B7%20i386&color=157F71&style=flat) ![mounts (read-only)](https://img.shields.io/static/v1?label=mounts%20%28read-only%29&message=config&color=157F71&style=flat)<br>
+[![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Git-Renovate-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Renovate-App/actions/workflows/ci.yml) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Git-Renovate-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Renovate-App/issues)
+
+[Source & documentation](https://github.com/seb5594/Home-Assistant-Git-Renovate-App) · [Pinned commit `402f434`](https://github.com/seb5594/Home-Assistant-Git-Renovate-App/commit/402f4348d8d200696483a7a0d91bdc70b2023392)
 
 ### [Gitea-MCP-Server](https://github.com/seb5594/Home-Assistant-Gitea-MCP-Server-App) (1.13.0)
 

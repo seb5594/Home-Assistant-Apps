@@ -8,6 +8,10 @@
     "commit": "d9909fd06d8076b9a1e34508d1a33359199ce5d3"
   },
   {
+    "repository": "seb5594/Home-Assistant-Git-Renovate-App",
+    "commit": "402f4348d8d200696483a7a0d91bdc70b2023392"
+  },
+  {
     "repository": "seb5594/Home-Assistant-Gitea-MCP-Server-App",
     "commit": "13a58f8a55275612a3545dea5ec0eca669bd4567"
   },
