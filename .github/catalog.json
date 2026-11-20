@@ -1,7 +1,7 @@
 [
   {
     "repository": "seb5594/Home-Assistant-Assist-AI-Router-App",
-    "commit": "94c7895542cab0bfb40752e38948006cef6bbe3d"
+    "commit": "1364a05d772d24029b24d340c9e44275336bb288"
   },
   {
     "repository": "seb5594/Home-Assistant-Git-Exporter-Addon",
@@ -29,7 +29,7 @@
   },
   {
     "repository": "seb5594/Home-Assistant-Renovate-App",
-    "commit": "c843a924e2245340625c2a7183566422b210d589"
+    "commit": "d21ce49027d649780a73dcca18549dbd5fbd6f10"
   },
   {
     "repository": "seb5594/Home-Assistant-Rsync-Local-Addon",

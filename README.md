@@ -30,7 +30,7 @@ Add this catalog once to install apps for backups, development tools, smart devi
 <!-- Generated from the source repositories by the hass-workflows catalog action. -->
 <a name="app-assist-ai-router-assist_ai_router"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Assist-AI-Router-App/94c7895542cab0bfb40752e38948006cef6bbe3d/assist_ai_router/icon.png" width="28" height="28" alt=""> [Assist AI Router](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App) (1.0.5)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Assist-AI-Router-App/1364a05d772d24029b24d340c9e44275336bb288/assist_ai_router/icon.png" width="28" height="28" alt=""> [Assist AI Router](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App) (1.0.5)
 
 Multi-provider AI gateway for Home Assistant Assist, powered by LiteLLM.
 
@@ -44,7 +44,7 @@ Multi-provider AI gateway for Home Assistant Assist, powered by LiteLLM.
 ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20149.1%20%C2%B7%20aarch64%20147.5%20MiB&color=157F71&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Assist-AI-Router-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=4%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Assist-AI-Router-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/issues)
 
-[Pinned commit `94c7895`](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/commit/94c7895542cab0bfb40752e38948006cef6bbe3d)
+[Pinned commit `1364a05`](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/commit/1364a05d772d24029b24d340c9e44275336bb288)
 
 </details>
 
@@ -164,7 +164,7 @@ Turns the PlayStation (VR) Camera into a far-field voice microphone for Assist, 
 
 <a name="app-renovate-renovate"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Renovate-App/c843a924e2245340625c2a7183566422b210d589/renovate/icon.png" width="28" height="28" alt=""> [Renovate](https://github.com/seb5594/Home-Assistant-Renovate-App) (2026.11.20.3)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Renovate-App/d21ce49027d649780a73dcca18549dbd5fbd6f10/renovate/icon.png" width="28" height="28" alt=""> [Renovate](https://github.com/seb5594/Home-Assistant-Renovate-App) (2026.11.20.3)
 
 Keeps the dependencies of your GitHub, GitLab and Gitea repositories up to date, with a web interface inside Home Assistant.
 
@@ -173,11 +173,11 @@ Keeps the dependencies of your GitHub, GitLab and Gitea repositories up to date,
 <details>
 <summary>Build, image and repository details</summary>
 
-[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.20.3&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Renovate-App/releases) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=15&color=1877A5&style=flat)<br>
+[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.20.3&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Renovate-App/releases/tag/2026.11.20.3) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=25&color=1877A5&style=flat)<br>
 ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2077.5%20%C2%B7%20aarch64%2077.0%20%C2%B7%20armv7%2073.8%20%C2%B7%20armhf%2075.1%20%C2%B7%20i386%2076.8%20MiB&color=157F71&style=flat) ![mounts (read-only)](https://img.shields.io/static/v1?label=mounts%20%28read-only%29&message=addon_config%20%C2%B7%20ssl&color=157F71&style=flat)<br>
-[![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Renovate-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Renovate-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=100%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Renovate-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Renovate-App/issues)
+[![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Renovate-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Renovate-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=117%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Renovate-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Renovate-App/issues)
 
-[Pinned commit `c843a92`](https://github.com/seb5594/Home-Assistant-Renovate-App/commit/c843a924e2245340625c2a7183566422b210d589)
+[Pinned commit `d21ce49`](https://github.com/seb5594/Home-Assistant-Renovate-App/commit/d21ce49027d649780a73dcca18549dbd5fbd6f10)
 
 </details>
 
