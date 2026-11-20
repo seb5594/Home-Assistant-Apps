@@ -52,7 +52,7 @@ Exports your Home Assistant configuration to one or more git repositories (GitHu
 
 </details>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Git-Renovate-App/69bf08b2079866930991820bee9e0be172a0a8b9/renovate/icon.png" width="28" height="28" alt=""> [Renovate](https://github.com/seb5594/Home-Assistant-Git-Renovate-App) (2026.11.20.2)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Git-Renovate-App/564eeda861a01c5bdfd5cef908c8e1ce9d66566e/renovate/icon.png" width="28" height="28" alt=""> [Renovate](https://github.com/seb5594/Home-Assistant-Git-Renovate-App) (2026.11.20.2)
 
 Keeps the dependencies of your GitHub, GitLab and Gitea repositories up to date, with a web interface inside Home Assistant.
 
@@ -67,7 +67,7 @@ Keeps the dependencies of your GitHub, GitLab and Gitea repositories up to date,
 ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2077.4%20%C2%B7%20aarch64%2077.0%20MiB&color=157F71&style=flat) ![mounts (read-only)](https://img.shields.io/static/v1?label=mounts%20%28read-only%29&message=addon_config%20%C2%B7%20ssl&color=157F71&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Git-Renovate-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Renovate-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=100%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Git-Renovate-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Renovate-App/issues)
 
-[Pinned commit `69bf08b`](https://github.com/seb5594/Home-Assistant-Git-Renovate-App/commit/69bf08b2079866930991820bee9e0be172a0a8b9)
+[Pinned commit `564eeda`](https://github.com/seb5594/Home-Assistant-Git-Renovate-App/commit/564eeda861a01c5bdfd5cef908c8e1ce9d66566e)
 
 </details>
 
@@ -109,7 +109,7 @@ Mirrors your GitHub, GitLab or Gitea repositories to your own Gitea and keeps th
 
 </details>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Gitea-Runner-App/622299e4d70928c9797fd63a843a744b420691f7/gitea_runner/icon.png" width="28" height="28" alt=""> [Gitea Runner](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App) (6.0.1)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Gitea-Runner-App/596b5db84ebf3e4504217aa1442b978f23144e79/gitea_runner/icon.png" width="28" height="28" alt=""> [Gitea Runner](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App) (6.0.1)
 
 Runs the Actions workflows of your Gitea inside an isolated app, without access to your Home Assistant host.
 
@@ -120,11 +120,11 @@ Runs the Actions workflows of your Gitea inside an isolated app, without access 
 <details>
 <summary>Build, image and repository details</summary>
 
-[![app version](https://img.shields.io/static/v1?label=app%20version&message=6.0.1&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/releases) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=40&color=1877A5&style=flat)<br>
-![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20136.9%20%C2%B7%20aarch64%20146.0%20MiB&color=157F71&style=flat)<br>
+[![app version](https://img.shields.io/static/v1?label=app%20version&message=6.0.1&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/releases/tag/v6.0.1) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=4&color=1877A5&style=flat)<br>
+![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2053.0%20%C2%B7%20aarch64%2052.0%20MiB&color=157F71&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Gitea-Runner-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=13%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Gitea-Runner-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/issues)
 
-[Pinned commit `622299e`](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/commit/622299e4d70928c9797fd63a843a744b420691f7)
+[Pinned commit `596b5db`](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/commit/596b5db84ebf3e4504217aa1442b978f23144e79)
 
 </details>
 
@@ -185,7 +185,7 @@ Keep an extra local copy of your Home Assistant files on an attached USB drive.
 
 </details>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Tuya-Breaker-App/0282dc8f11bc32dcbe3c1dd62cfde6078f600a45/tuya_breaker/icon.png" width="28" height="28" alt=""> [Tuya Breaker](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App) (2026.11.20.3)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Tuya-Breaker-App/1215046fbd36be84ca9248f77c656de948e95814/tuya_breaker/icon.png" width="28" height="28" alt=""> [Tuya Breaker](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App) (2026.11.20.3)
 
 One experimental Ingress workspace for UnTuyaOS3, Lightleak flash backups and Tuya-Cloudcutter, with an isolated Wi-Fi lease
 
@@ -200,7 +200,7 @@ One experimental Ingress workspace for UnTuyaOS3, Lightleak flash backups and Tu
 ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2069.4%20%C2%B7%20aarch64%2069.3%20MiB&color=157F71&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN%2C%20NET_RAW&color=B45309&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Tuya-Breaker-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=9%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Tuya-Breaker-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/issues)
 
-[Pinned commit `0282dc8`](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/commit/0282dc8f11bc32dcbe3c1dd62cfde6078f600a45)
+[Pinned commit `1215046`](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/commit/1215046fbd36be84ca9248f77c656de948e95814)
 
 </details>
 
