@@ -80,16 +80,16 @@ Use the blue button above, or open **Settings → Apps → App store → ⋮ →
 
 [Source & documentation](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App) · [Pinned commit `b3c52f3`](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/commit/b3c52f3d2cc0c294ab2d7b318fffaf8b0e8425e0)
 
-### [Mail-Forwarder](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App) (2026.11.20)
+### [Mail-Forwarder](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App) (2026.11.20.1)
 
 > Mail Forwarder
 
 [Changelog](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/blob/dev/mail_forwarder/CHANGELOG.md)<br>
-[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.20&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/releases/tag/2026.11.20) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=4&color=1877A5&style=flat)<br>
+[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.20.1&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/releases/tag/2026.11.20.1) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=8&color=1877A5&style=flat)<br>
 ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2041.2%20%C2%B7%20aarch64%2041.2%20MiB&color=157F71&style=flat)<br>
-[![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Mail-Forwarder-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=14%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Mail-Forwarder-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/issues)
+[![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Mail-Forwarder-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=20%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Mail-Forwarder-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/issues)
 
-[Source & documentation](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App) · [Pinned commit `ed269b1`](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/commit/ed269b151f3da02c6d81452977e70b6c4e35bf14)
+[Source & documentation](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App) · [Pinned commit `a9145bf`](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/commit/a9145bf5b92191c6bdba3a2f1fb9366b6282109b)
 
 ### [Playstation-VR-Camera-Loader](https://github.com/seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App) (1.0.0-beta.6)
 
