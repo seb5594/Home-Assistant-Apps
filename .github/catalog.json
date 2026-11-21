@@ -9,7 +9,7 @@
   },
   {
     "repository": "seb5594/Home-Assistant-Docker-Socket-Proxy-App",
-    "commit": "917e99fdc50ba9fe8c1e6f74a78ec789b0d6854c"
+    "commit": "7ac231af675e64036d2bef7e4393ff1d65c5c0d9"
   },
   {
     "repository": "seb5594/Home-Assistant-Git-Exporter-Addon",
@@ -41,7 +41,7 @@
   },
   {
     "repository": "seb5594/Home-Assistant-Renovate-App",
-    "commit": "283b0c3cf71662d694dd0df448c13ca770c6d6b1"
+    "commit": "c6d76c03326b5edaccd7d35f6b9cf0bd0acc867f"
   },
   {
     "repository": "seb5594/Home-Assistant-Rsync-Local-Addon",
