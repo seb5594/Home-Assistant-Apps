@@ -1,7 +1,7 @@
 # Home Assistant Apps by seb5594
 
 [![Home Assistant](https://img.shields.io/static/v1?label=Home%20Assistant&message=Add%20app%20repository&color=18BCF2&logo=homeassistant&logoColor=white&style=flat)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fseb5594%2FHome-Assistant-Apps)<br>
-[![catalog sync](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Apps/update.yml?branch=main&label=catalog%20sync&style=flat)](https://github.com/seb5594/Home-Assistant-Apps/actions/workflows/update.yml) ![apps](https://img.shields.io/static/v1?label=apps&message=14&color=1877A5&style=flat)<br>
+[![catalog sync](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Apps/update.yml?branch=main&label=catalog%20sync&style=flat)](https://github.com/seb5594/Home-Assistant-Apps/actions/workflows/update.yml) ![apps](https://img.shields.io/static/v1?label=apps&message=15&color=1877A5&style=flat)<br>
 [![synced](https://img.shields.io/github/last-commit/seb5594/Home-Assistant-Apps?label=synced&style=flat)](https://github.com/seb5594/Home-Assistant-Apps/commits/main)
 
 Add this catalog once to install apps for backups, development tools, smart devices and more. Each entry shows its version and setup links, with build and image details below.
@@ -14,6 +14,7 @@ Add this catalog once to install apps for backups, development tools, smart devi
 
 - [Assist AI Router](#app-assist-ai-router-assist_ai_router)
 - [Caddy Forge](#app-caddy-forge-caddy-forge)
+- [Example App](#app-docker-socket-proxy-example-app)
 - [Home Assistant Git Exporter](#app-git-exporter-git-exporter)
 - [Gitea MCP-Server](#app-gitea-mcp-server-gitea_mcp_server)
 - [Gitea Mirror](#app-gitea-mirror-gitea_mirror)
@@ -66,6 +67,25 @@ Caddy web server that builds itself with the plugins you name.
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Caddy-Forge-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Caddy-Forge-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=284%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Caddy-Forge-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Caddy-Forge-App/issues)
 
 [Pinned commit `c1465af`](https://github.com/seb5594/Home-Assistant-Caddy-Forge-App/commit/c1465af19cde08932f207e27d08bae186b233961)
+
+</details>
+
+<a name="app-docker-socket-proxy-example-app"></a>
+
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Docker-Socket-Proxy-App/ecccb10bc0858b3c4a47e845f1e222366b9849a1/example-app/icon.png" width="28" height="28" alt=""> [Example App](https://github.com/seb5594/Home-Assistant-Docker-Socket-Proxy-App) (0.1.0)
+
+Starting point for a new Home Assistant app.
+
+📖 [Source & documentation](https://github.com/seb5594/Home-Assistant-Docker-Socket-Proxy-App) · [Changelog](https://github.com/seb5594/Home-Assistant-Docker-Socket-Proxy-App/blob/main/example-app/CHANGELOG.md)
+
+<details>
+<summary>Build, image and repository details</summary>
+
+[![app version](https://img.shields.io/static/v1?label=app%20version&message=0.1.0&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Docker-Socket-Proxy-App/releases)<br>
+![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![arch](https://img.shields.io/static/v1?label=arch&message=amd64%20%C2%B7%20aarch64%20%C2%B7%20armv7%20%C2%B7%20armhf%20%C2%B7%20i386&color=157F71&style=flat) ![mounts (read-only)](https://img.shields.io/static/v1?label=mounts%20%28read-only%29&message=config&color=157F71&style=flat)<br>
+[![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Docker-Socket-Proxy-App/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Docker-Socket-Proxy-App/actions/workflows/ci.yml) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Docker-Socket-Proxy-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Docker-Socket-Proxy-App/issues)
+
+[Pinned commit `ecccb10`](https://github.com/seb5594/Home-Assistant-Docker-Socket-Proxy-App/commit/ecccb10bc0858b3c4a47e845f1e222366b9849a1)
 
 </details>
 
@@ -166,7 +186,7 @@ Receives mail for your own domains and forwards it to your Gmail, Outlook or WEB
 
 <a name="app-npmplus-npmplus"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-NPMplus-App/bd812578600f66257c15e9af66853cebad8de61e/npmplus/icon.png" width="28" height="28" alt=""> [NPMplus](https://github.com/seb5594/Home-Assistant-NPMplus-App) (2026.11.21.6)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-NPMplus-App/6785b407a06d69c9c2b49571a1cdae369e4e7fa2/npmplus/icon.png" width="28" height="28" alt=""> [NPMplus](https://github.com/seb5594/Home-Assistant-NPMplus-App) (2026.11.21.7)
 
 Nginx Proxy Manager fork with free TLS certificates, HTTP/3 and a modern admin UI. Reverse proxy for your smart home.
 
@@ -175,11 +195,11 @@ Nginx Proxy Manager fork with free TLS certificates, HTTP/3 and a modern admin U
 <details>
 <summary>Build, image and repository details</summary>
 
-[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.21.6&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-NPMplus-App/releases/tag/2026.11.21.6) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=28&color=1877A5&style=flat)<br>
+[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.21.7&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-NPMplus-App/releases/tag/2026.11.21.7) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=32&color=1877A5&style=flat)<br>
 ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2091.7%20%C2%B7%20aarch64%2091.3%20MiB&color=157F71&style=flat) ![mounts](https://img.shields.io/static/v1?label=mounts&message=addon_config%20%28rw%29%20%C2%B7%20app%20configs&color=B45309&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-NPMplus-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-NPMplus-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=27%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-NPMplus-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-NPMplus-App/issues)
 
-[Pinned commit `bd81257`](https://github.com/seb5594/Home-Assistant-NPMplus-App/commit/bd812578600f66257c15e9af66853cebad8de61e)
+[Pinned commit `6785b40`](https://github.com/seb5594/Home-Assistant-NPMplus-App/commit/6785b407a06d69c9c2b49571a1cdae369e4e7fa2)
 
 </details>
 

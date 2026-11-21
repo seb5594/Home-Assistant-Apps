@@ -41,3 +41,6 @@
 [submodule "Caddy-Forge"]
 	path = Caddy-Forge
 	url = https://github.com/seb5594/Home-Assistant-Caddy-Forge-App.git
+[submodule "Docker-Socket-Proxy"]
+	path = Docker-Socket-Proxy
+	url = https://github.com/seb5594/Home-Assistant-Docker-Socket-Proxy-App.git
