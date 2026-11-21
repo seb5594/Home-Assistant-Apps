@@ -14,7 +14,7 @@ Add this catalog once to install apps for backups, development tools, smart devi
 
 - [Assist AI Router](#app-assist-ai-router-assist_ai_router)
 - [Caddy Forge](#app-caddy-forge-caddy-forge)
-- [Example App](#app-docker-socket-proxy-example-app)
+- [Docker Socket Proxy](#app-docker-socket-proxy-docker-socket-proxy)
 - [Home Assistant Git Exporter](#app-git-exporter-git-exporter)
 - [Gitea MCP-Server](#app-gitea-mcp-server-gitea_mcp_server)
 - [Gitea Mirror](#app-gitea-mirror-gitea_mirror)
@@ -53,7 +53,7 @@ Multi-provider AI gateway for Home Assistant Assist, powered by LiteLLM.
 
 <a name="app-caddy-forge-caddy-forge"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Caddy-Forge-App/c1465af19cde08932f207e27d08bae186b233961/caddy-forge/icon.png" width="28" height="28" alt=""> [Caddy Forge](https://github.com/seb5594/Home-Assistant-Caddy-Forge-App) (2026.11.21.9)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Caddy-Forge-App/607feee1b8c8377db773664b98e8805dd767ea89/caddy-forge/icon.png" width="28" height="28" alt=""> [Caddy Forge](https://github.com/seb5594/Home-Assistant-Caddy-Forge-App) (2026.11.21.10)
 
 Caddy web server that builds itself with the plugins you name.
 
@@ -62,30 +62,30 @@ Caddy web server that builds itself with the plugins you name.
 <details>
 <summary>Build, image and repository details</summary>
 
-[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.21.9&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Caddy-Forge-App/releases/tag/2026.11.21.9) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=40&color=1877A5&style=flat)<br>
+[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.21.10&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Caddy-Forge-App/releases) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=50&color=1877A5&style=flat)<br>
 ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20163.9%20%C2%B7%20aarch64%20151.3%20%C2%B7%20armv7%20135.0%20%C2%B7%20armhf%20140.4%20%C2%B7%20i386%20158.0%20MiB&color=157F71&style=flat) ![mounts](https://img.shields.io/static/v1?label=mounts&message=addon_config%20%28rw%29%20%C2%B7%20app%20configs%20%C2%B7%20homeassistant_config%20%C2%B7%20media%20%C2%B7%20share%20%C2%B7%20ssl&color=B45309&style=flat)<br>
-[![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Caddy-Forge-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Caddy-Forge-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=284%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Caddy-Forge-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Caddy-Forge-App/issues)
+[![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Caddy-Forge-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Caddy-Forge-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=286%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Caddy-Forge-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Caddy-Forge-App/issues)
 
-[Pinned commit `c1465af`](https://github.com/seb5594/Home-Assistant-Caddy-Forge-App/commit/c1465af19cde08932f207e27d08bae186b233961)
+[Pinned commit `607feee`](https://github.com/seb5594/Home-Assistant-Caddy-Forge-App/commit/607feee1b8c8377db773664b98e8805dd767ea89)
 
 </details>
 
-<a name="app-docker-socket-proxy-example-app"></a>
+<a name="app-docker-socket-proxy-docker-socket-proxy"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Docker-Socket-Proxy-App/ecccb10bc0858b3c4a47e845f1e222366b9849a1/example-app/icon.png" width="28" height="28" alt=""> [Example App](https://github.com/seb5594/Home-Assistant-Docker-Socket-Proxy-App) (0.1.0)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Docker-Socket-Proxy-App/917e99fdc50ba9fe8c1e6f74a78ec789b0d6854c/docker-socket-proxy/icon.png" width="28" height="28" alt=""> [Docker Socket Proxy](https://github.com/seb5594/Home-Assistant-Docker-Socket-Proxy-App) (2026.11.21)
 
-Starting point for a new Home Assistant app.
+Read-only Docker API over TCP for Monitor Docker and other dashboards.
 
-📖 [Source & documentation](https://github.com/seb5594/Home-Assistant-Docker-Socket-Proxy-App) · [Changelog](https://github.com/seb5594/Home-Assistant-Docker-Socket-Proxy-App/blob/main/example-app/CHANGELOG.md)
+📖 [Source & documentation](https://github.com/seb5594/Home-Assistant-Docker-Socket-Proxy-App) · [Changelog](https://github.com/seb5594/Home-Assistant-Docker-Socket-Proxy-App/blob/main/docker-socket-proxy/CHANGELOG.md)
 
 <details>
 <summary>Build, image and repository details</summary>
 
-[![app version](https://img.shields.io/static/v1?label=app%20version&message=0.1.0&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Docker-Socket-Proxy-App/releases)<br>
-![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![arch](https://img.shields.io/static/v1?label=arch&message=amd64%20%C2%B7%20aarch64%20%C2%B7%20armv7%20%C2%B7%20armhf%20%C2%B7%20i386&color=157F71&style=flat) ![mounts (read-only)](https://img.shields.io/static/v1?label=mounts%20%28read-only%29&message=config&color=157F71&style=flat)<br>
+[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.21&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Docker-Socket-Proxy-App/releases)<br>
+![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![arch](https://img.shields.io/static/v1?label=arch&message=amd64%20%C2%B7%20aarch64%20%C2%B7%20armv7%20%C2%B7%20armhf%20%C2%B7%20i386&color=157F71&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Docker-Socket-Proxy-App/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Docker-Socket-Proxy-App/actions/workflows/ci.yml) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Docker-Socket-Proxy-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Docker-Socket-Proxy-App/issues)
 
-[Pinned commit `ecccb10`](https://github.com/seb5594/Home-Assistant-Docker-Socket-Proxy-App/commit/ecccb10bc0858b3c4a47e845f1e222366b9849a1)
+[Pinned commit `917e99f`](https://github.com/seb5594/Home-Assistant-Docker-Socket-Proxy-App/commit/917e99fdc50ba9fe8c1e6f74a78ec789b0d6854c)
 
 </details>
 

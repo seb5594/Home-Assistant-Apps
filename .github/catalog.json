@@ -5,11 +5,11 @@
   },
   {
     "repository": "seb5594/Home-Assistant-Caddy-Forge-App",
-    "commit": "c1465af19cde08932f207e27d08bae186b233961"
+    "commit": "607feee1b8c8377db773664b98e8805dd767ea89"
   },
   {
     "repository": "seb5594/Home-Assistant-Docker-Socket-Proxy-App",
-    "commit": "ecccb10bc0858b3c4a47e845f1e222366b9849a1"
+    "commit": "917e99fdc50ba9fe8c1e6f74a78ec789b0d6854c"
   },
   {
     "repository": "seb5594/Home-Assistant-Git-Exporter-Addon",
