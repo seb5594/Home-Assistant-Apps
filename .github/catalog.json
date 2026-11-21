@@ -4,6 +4,10 @@
     "commit": "f5d9eb6cd0f0a64c777eb42e5247495db8a547fa"
   },
   {
+    "repository": "seb5594/Home-Assistant-Caddy-Webserver-App",
+    "commit": "8c596387f382a0baed537f43986c6e0829451345"
+  },
+  {
     "repository": "seb5594/Home-Assistant-Git-Exporter-Addon",
     "commit": "0b5252a17d59abc0ce78e3bc574e137ec5ddf122"
   },
@@ -22,6 +26,10 @@
   {
     "repository": "seb5594/Home-Assistant-Mail-Forwarder-App",
     "commit": "8786a1f1c6304290f0413801b2d5160395a6ad4a"
+  },
+  {
+    "repository": "seb5594/Home-Assistant-NPMplus-App",
+    "commit": "86d704bc16c1fcbe006f21544d83000010b4782f"
   },
   {
     "repository": "seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App",

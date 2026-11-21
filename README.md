@@ -1,7 +1,7 @@
 # Home Assistant Apps by seb5594
 
 [![Home Assistant](https://img.shields.io/static/v1?label=Home%20Assistant&message=Add%20app%20repository&color=18BCF2&logo=homeassistant&logoColor=white&style=flat)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fseb5594%2FHome-Assistant-Apps)<br>
-[![catalog sync](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Apps/update.yml?branch=main&label=catalog%20sync&style=flat)](https://github.com/seb5594/Home-Assistant-Apps/actions/workflows/update.yml) ![apps](https://img.shields.io/static/v1?label=apps&message=12&color=1877A5&style=flat)<br>
+[![catalog sync](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Apps/update.yml?branch=main&label=catalog%20sync&style=flat)](https://github.com/seb5594/Home-Assistant-Apps/actions/workflows/update.yml) ![apps](https://img.shields.io/static/v1?label=apps&message=14&color=1877A5&style=flat)<br>
 [![synced](https://img.shields.io/github/last-commit/seb5594/Home-Assistant-Apps?label=synced&style=flat)](https://github.com/seb5594/Home-Assistant-Apps/commits/main)
 
 Add this catalog once to install apps for backups, development tools, smart devices and more. Each entry shows its version and setup links, with build and image details below.
@@ -13,11 +13,13 @@ Add this catalog once to install apps for backups, development tools, smart devi
 ## Contents
 
 - [Assist AI Router](#app-assist-ai-router-assist_ai_router)
+- [Caddy Forge](#app-caddy-webserver-caddy-forge)
 - [Home Assistant Git Exporter](#app-git-exporter-git-exporter)
 - [Gitea MCP-Server](#app-gitea-mcp-server-gitea_mcp_server)
 - [Gitea Mirror](#app-gitea-mirror-gitea_mirror)
 - [Gitea Runner](#app-gitea-runner-gitea_runner)
 - [Mail Forwarder](#app-mail-forwarder-mail_forwarder)
+- [Example App](#app-npmplus-example-app)
 - [Sony PlayStation VR Camera Loader](#app-playstation-vr-camera-loader-sony_playstation_vr_camera_loader)
 - [Renovate](#app-renovate-renovate)
 - [Rsync Local](#app-rsync-local-rsync-local)
@@ -45,6 +47,25 @@ Multi-provider AI gateway for Home Assistant Assist, powered by LiteLLM.
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Assist-AI-Router-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=4%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Assist-AI-Router-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/issues)
 
 [Pinned commit `f5d9eb6`](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/commit/f5d9eb6cd0f0a64c777eb42e5247495db8a547fa)
+
+</details>
+
+<a name="app-caddy-webserver-caddy-forge"></a>
+
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Caddy-Webserver-App/8c596387f382a0baed537f43986c6e0829451345/caddy-forge/icon.png" width="28" height="28" alt=""> [Caddy Forge](https://github.com/seb5594/Home-Assistant-Caddy-Webserver-App) (2026.11.21.3)
+
+Caddy web server that builds itself with the plugins you name.
+
+📖 [Source & documentation](https://github.com/seb5594/Home-Assistant-Caddy-Webserver-App) · [Changelog](https://github.com/seb5594/Home-Assistant-Caddy-Webserver-App/blob/dev/caddy-forge/CHANGELOG.md)
+
+<details>
+<summary>Build, image and repository details</summary>
+
+[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.21.3&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Caddy-Webserver-App/releases/tag/2026.11.21.3) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=10&color=1877A5&style=flat)<br>
+![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20166.6%20%C2%B7%20aarch64%20153.8%20%C2%B7%20armv7%20137.6%20%C2%B7%20armhf%20143.0%20%C2%B7%20i386%20161.8%20MiB&color=157F71&style=flat) ![mounts](https://img.shields.io/static/v1?label=mounts&message=addon_config%20%28rw%29%20%C2%B7%20homeassistant_config%20%C2%B7%20media%20%C2%B7%20share%20%C2%B7%20ssl&color=B45309&style=flat)<br>
+[![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Caddy-Webserver-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Caddy-Webserver-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=142%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Caddy-Webserver-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Caddy-Webserver-App/issues)
+
+[Pinned commit `8c59638`](https://github.com/seb5594/Home-Assistant-Caddy-Webserver-App/commit/8c596387f382a0baed537f43986c6e0829451345)
 
 </details>
 
@@ -140,6 +161,25 @@ Receives mail for your own domains and forwards it to your Gmail, Outlook or WEB
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Mail-Forwarder-App/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=18%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Mail-Forwarder-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/issues)
 
 [Pinned commit `8786a1f`](https://github.com/seb5594/Home-Assistant-Mail-Forwarder-App/commit/8786a1f1c6304290f0413801b2d5160395a6ad4a)
+
+</details>
+
+<a name="app-npmplus-example-app"></a>
+
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-NPMplus-App/86d704bc16c1fcbe006f21544d83000010b4782f/example-app/icon.png" width="28" height="28" alt=""> [Example App](https://github.com/seb5594/Home-Assistant-NPMplus-App) (0.1.0)
+
+Starting point for a new Home Assistant app.
+
+📖 [Source & documentation](https://github.com/seb5594/Home-Assistant-NPMplus-App) · [Changelog](https://github.com/seb5594/Home-Assistant-NPMplus-App/blob/dev/example-app/CHANGELOG.md)
+
+<details>
+<summary>Build, image and repository details</summary>
+
+[![app version](https://img.shields.io/static/v1?label=app%20version&message=0.1.0&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-NPMplus-App/releases)<br>
+![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![arch](https://img.shields.io/static/v1?label=arch&message=amd64%20%C2%B7%20aarch64%20%C2%B7%20armv7%20%C2%B7%20armhf%20%C2%B7%20i386&color=157F71&style=flat) ![mounts (read-only)](https://img.shields.io/static/v1?label=mounts%20%28read-only%29&message=config&color=157F71&style=flat)<br>
+[![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-NPMplus-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-NPMplus-App/actions/workflows/ci.yml) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-NPMplus-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-NPMplus-App/issues)
+
+[Pinned commit `86d704b`](https://github.com/seb5594/Home-Assistant-NPMplus-App/commit/86d704bc16c1fcbe006f21544d83000010b4782f)
 
 </details>
 
