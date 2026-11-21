@@ -35,9 +35,9 @@
 [submodule "Renovate"]
 	path = Renovate
 	url = https://github.com/seb5594/Home-Assistant-Renovate-App.git
-[submodule "Caddy-Webserver"]
-	path = Caddy-Webserver
-	url = https://github.com/seb5594/Home-Assistant-Caddy-Webserver-App.git
 [submodule "NPMplus"]
 	path = NPMplus
 	url = https://github.com/seb5594/Home-Assistant-NPMplus-App.git
+[submodule "Caddy-Forge"]
+	path = Caddy-Forge
+	url = https://github.com/seb5594/Home-Assistant-Caddy-Forge-App.git
