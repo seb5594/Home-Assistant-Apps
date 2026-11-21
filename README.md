@@ -72,7 +72,7 @@ Caddy web server that builds itself with the plugins you name.
 
 <a name="app-docker-socket-proxy-docker-socket-proxy"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Docker-Socket-Proxy-App/7ac231af675e64036d2bef7e4393ff1d65c5c0d9/docker-socket-proxy/icon.png" width="28" height="28" alt=""> [Docker Socket Proxy](https://github.com/seb5594/Home-Assistant-Docker-Socket-Proxy-App) (1.0.0)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Docker-Socket-Proxy-App/388d6f1dc61c31a704ddebc3db85b6541d0e36d7/docker-socket-proxy/icon.png" width="28" height="28" alt=""> [Docker Socket Proxy](https://github.com/seb5594/Home-Assistant-Docker-Socket-Proxy-App) (1.0.0)
 
 Read-only Docker API over TCP for Monitor Docker and other dashboards.
 
@@ -81,11 +81,11 @@ Read-only Docker API over TCP for Monitor Docker and other dashboards.
 <details>
 <summary>Build, image and repository details</summary>
 
-[![app version](https://img.shields.io/static/v1?label=app%20version&message=1.0.0&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Docker-Socket-Proxy-App/releases)<br>
-![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![arch](https://img.shields.io/static/v1?label=arch&message=amd64%20%C2%B7%20aarch64%20%C2%B7%20armv7%20%C2%B7%20armhf%20%C2%B7%20i386&color=157F71&style=flat)<br>
-[![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Docker-Socket-Proxy-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Docker-Socket-Proxy-App/issues)
+[![app version](https://img.shields.io/static/v1?label=app%20version&message=1.0.0&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Docker-Socket-Proxy-App/releases/tag/v1.0.0) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=10&color=1877A5&style=flat)<br>
+![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2020.0%20%C2%B7%20aarch64%2020.0%20%C2%B7%20armv7%2018.5%20%C2%B7%20armhf%2019.0%20%C2%B7%20i386%2019.9%20MiB&color=157F71&style=flat)<br>
+[![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Docker-Socket-Proxy-App/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Docker-Socket-Proxy-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=47%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Docker-Socket-Proxy-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Docker-Socket-Proxy-App/issues)
 
-[Pinned commit `7ac231a`](https://github.com/seb5594/Home-Assistant-Docker-Socket-Proxy-App/commit/7ac231af675e64036d2bef7e4393ff1d65c5c0d9)
+[Pinned commit `388d6f1`](https://github.com/seb5594/Home-Assistant-Docker-Socket-Proxy-App/commit/388d6f1dc61c31a704ddebc3db85b6541d0e36d7)
 
 </details>
 
