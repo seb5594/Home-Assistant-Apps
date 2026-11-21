@@ -166,7 +166,7 @@ Receives mail for your own domains and forwards it to your Gmail, Outlook or WEB
 
 <a name="app-npmplus-npmplus"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-NPMplus-App/e6f14a9d68028e176076e1b4d7b70ba9c645ddb3/npmplus/icon.png" width="28" height="28" alt=""> [NPMplus](https://github.com/seb5594/Home-Assistant-NPMplus-App) (2026.11.21.3)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-NPMplus-App/8b1495eed1c2c46733ba9c4e36c00882d5917f1b/npmplus/icon.png" width="28" height="28" alt=""> [NPMplus](https://github.com/seb5594/Home-Assistant-NPMplus-App) (2026.11.21.4)
 
 Reverse proxy with free TLS certificates, HTTP/3 and a modern admin UI. A fork of Nginx Proxy Manager.
 
@@ -175,11 +175,11 @@ Reverse proxy with free TLS certificates, HTTP/3 and a modern admin UI. A fork o
 <details>
 <summary>Build, image and repository details</summary>
 
-[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.21.3&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-NPMplus-App/releases/tag/2026.11.21.3) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=16&color=1877A5&style=flat)<br>
+[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.21.4&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-NPMplus-App/releases/tag/2026.11.21.4) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=20&color=1877A5&style=flat)<br>
 ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2091.7%20%C2%B7%20aarch64%2091.3%20MiB&color=157F71&style=flat) ![mounts](https://img.shields.io/static/v1?label=mounts&message=addon_config%20%28rw%29%20%C2%B7%20app%20configs&color=B45309&style=flat)<br>
-[![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-NPMplus-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-NPMplus-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=24%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-NPMplus-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-NPMplus-App/issues)
+[![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-NPMplus-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-NPMplus-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=26%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-NPMplus-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-NPMplus-App/issues)
 
-[Pinned commit `e6f14a9`](https://github.com/seb5594/Home-Assistant-NPMplus-App/commit/e6f14a9d68028e176076e1b4d7b70ba9c645ddb3)
+[Pinned commit `8b1495e`](https://github.com/seb5594/Home-Assistant-NPMplus-App/commit/8b1495eed1c2c46733ba9c4e36c00882d5917f1b)
 
 </details>
 
@@ -204,7 +204,7 @@ Turns the PlayStation (VR) Camera into a far-field voice microphone for Assist, 
 
 <a name="app-renovate-renovate"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Renovate-App/334a50e7ca68b68b8f909231fe6b4379b9f955d3/renovate/icon.png" width="28" height="28" alt=""> [Renovate](https://github.com/seb5594/Home-Assistant-Renovate-App) (2026.11.20.3)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Renovate-App/1953034005513a96586ac790a85badf0b3af18f8/renovate/icon.png" width="28" height="28" alt=""> [Renovate](https://github.com/seb5594/Home-Assistant-Renovate-App) (2026.11.21)
 
 Keeps the dependencies of your GitHub, GitLab and Gitea repositories up to date, with a web interface inside Home Assistant.
 
@@ -213,11 +213,11 @@ Keeps the dependencies of your GitHub, GitLab and Gitea repositories up to date,
 <details>
 <summary>Build, image and repository details</summary>
 
-[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.20.3&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Renovate-App/releases/tag/2026.11.20.3) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=25&color=1877A5&style=flat)<br>
+[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.21&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Renovate-App/releases) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=25&color=1877A5&style=flat)<br>
 ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2077.5%20%C2%B7%20aarch64%2077.0%20%C2%B7%20armv7%2073.8%20%C2%B7%20armhf%2075.1%20%C2%B7%20i386%2076.8%20MiB&color=157F71&style=flat) ![mounts (read-only)](https://img.shields.io/static/v1?label=mounts%20%28read-only%29&message=addon_config%20%C2%B7%20ssl&color=157F71&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Renovate-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Renovate-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=117%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Renovate-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Renovate-App/issues)
 
-[Pinned commit `334a50e`](https://github.com/seb5594/Home-Assistant-Renovate-App/commit/334a50e7ca68b68b8f909231fe6b4379b9f955d3)
+[Pinned commit `1953034`](https://github.com/seb5594/Home-Assistant-Renovate-App/commit/1953034005513a96586ac790a85badf0b3af18f8)
 
 </details>
 
