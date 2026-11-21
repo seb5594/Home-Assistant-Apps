@@ -1,7 +1,7 @@
 [
   {
     "repository": "seb5594/Home-Assistant-Assist-AI-Router-App",
-    "commit": "f5d9eb6cd0f0a64c777eb42e5247495db8a547fa"
+    "commit": "b444994a160647dc5539a6122ac7d1cbc2d49fda"
   },
   {
     "repository": "seb5594/Home-Assistant-Caddy-Forge-App",
@@ -29,7 +29,7 @@
   },
   {
     "repository": "seb5594/Home-Assistant-NPMplus-App",
-    "commit": "8b1495eed1c2c46733ba9c4e36c00882d5917f1b"
+    "commit": "37989df265130057399b648094c81c6422d4002c"
   },
   {
     "repository": "seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App",
