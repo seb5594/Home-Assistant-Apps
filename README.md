@@ -32,7 +32,7 @@ Add this catalog once to install apps for backups, development tools, smart devi
 <!-- Generated from the source repositories by the hass-workflows catalog action. -->
 <a name="app-assist-ai-router-assist_ai_router"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Assist-AI-Router-App/b444994a160647dc5539a6122ac7d1cbc2d49fda/assist_ai_router/icon.png" width="28" height="28" alt=""> [Assist AI Router](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App) (2026.11.21)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Assist-AI-Router-App/1575141c8c5e373732b1c28b6f0e4b7c3ca28783/assist_ai_router/icon.png" width="28" height="28" alt=""> [Assist AI Router](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App) (2026.11.21)
 
 Multi-provider AI gateway for Home Assistant Assist, powered by LiteLLM.
 
@@ -46,7 +46,7 @@ Multi-provider AI gateway for Home Assistant Assist, powered by LiteLLM.
 ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20161.4%20%C2%B7%20aarch64%20159.6%20MiB&color=157F71&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Assist-AI-Router-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=5%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Assist-AI-Router-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/issues)
 
-[Pinned commit `b444994`](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/commit/b444994a160647dc5539a6122ac7d1cbc2d49fda)
+[Pinned commit `1575141`](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/commit/1575141c8c5e373732b1c28b6f0e4b7c3ca28783)
 
 </details>
 
