@@ -52,7 +52,7 @@ Multi-provider AI gateway for Home Assistant Assist, powered by LiteLLM.
 
 <a name="app-caddy-forge-caddy-forge"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Caddy-Forge-App/560f4914b06208131de19f1f33259f5b2b84ab0c/caddy-forge/icon.png" width="28" height="28" alt=""> [Caddy Forge](https://github.com/seb5594/Home-Assistant-Caddy-Forge-App) (2026.11.21.6)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Caddy-Forge-App/bec6010995337e536710fbcda1b3ba917a6d53ba/caddy-forge/icon.png" width="28" height="28" alt=""> [Caddy Forge](https://github.com/seb5594/Home-Assistant-Caddy-Forge-App) (2026.11.21.8)
 
 Caddy web server that builds itself with the plugins you name.
 
@@ -61,11 +61,11 @@ Caddy web server that builds itself with the plugins you name.
 <details>
 <summary>Build, image and repository details</summary>
 
-[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.21.6&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Caddy-Forge-App/releases/tag/2026.11.21.6) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=20&color=1877A5&style=flat)<br>
-![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20166.6%20%C2%B7%20aarch64%20153.8%20%C2%B7%20armv7%20137.6%20%C2%B7%20armhf%20143.0%20%C2%B7%20i386%20161.8%20MiB&color=157F71&style=flat) ![mounts](https://img.shields.io/static/v1?label=mounts&message=addon_config%20%28rw%29%20%C2%B7%20app%20configs%20%C2%B7%20homeassistant_config%20%C2%B7%20media%20%C2%B7%20share%20%C2%B7%20ssl&color=B45309&style=flat)<br>
+[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.21.8&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Caddy-Forge-App/releases) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=20&color=1877A5&style=flat)<br>
+![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20166.6%20%C2%B7%20aarch64%20153.8%20%C2%B7%20armv7%20137.6%20%C2%B7%20armhf%20143.0%20%C2%B7%20i386%20161.8%20MiB&color=157F71&style=flat) ![mounts](https://img.shields.io/static/v1?label=mounts&message=addon_config%20%28rw%29%20%C2%B7%20app%20configs%20%C2%B7%20homeassistant_config%20%C2%B7%20media%20%C2%B7%20share%20%C2%B7%20ssl&color=B45309&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Caddy-Forge-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Caddy-Forge-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=203%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Caddy-Forge-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Caddy-Forge-App/issues)
 
-[Pinned commit `560f491`](https://github.com/seb5594/Home-Assistant-Caddy-Forge-App/commit/560f4914b06208131de19f1f33259f5b2b84ab0c)
+[Pinned commit `bec6010`](https://github.com/seb5594/Home-Assistant-Caddy-Forge-App/commit/bec6010995337e536710fbcda1b3ba917a6d53ba)
 
 </details>
 
@@ -166,7 +166,7 @@ Receives mail for your own domains and forwards it to your Gmail, Outlook or WEB
 
 <a name="app-npmplus-npmplus"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-NPMplus-App/691ee560a371ee0e70555bbe5002a209d68899d4/npmplus/icon.png" width="28" height="28" alt=""> [NPMplus](https://github.com/seb5594/Home-Assistant-NPMplus-App) (2026.11.21.1)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-NPMplus-App/0f27d52a0b10bafbf09eed5c975d272c64ba3ff5/npmplus/icon.png" width="28" height="28" alt=""> [NPMplus](https://github.com/seb5594/Home-Assistant-NPMplus-App) (2026.11.21.2)
 
 Reverse proxy with free TLS certificates, HTTP/3 and a modern admin UI. A fork of Nginx Proxy Manager.
 
@@ -175,11 +175,11 @@ Reverse proxy with free TLS certificates, HTTP/3 and a modern admin UI. A fork o
 <details>
 <summary>Build, image and repository details</summary>
 
-[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.21.1&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-NPMplus-App/releases/tag/2026.11.21.1) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=8&color=1877A5&style=flat)<br>
-![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2089.6%20%C2%B7%20aarch64%2089.2%20MiB&color=157F71&style=flat) ![mounts](https://img.shields.io/static/v1?label=mounts&message=addon_config%20%28rw%29%20%C2%B7%20app%20configs&color=B45309&style=flat)<br>
-[![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-NPMplus-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-NPMplus-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=17%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-NPMplus-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-NPMplus-App/issues)
+[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.21.2&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-NPMplus-App/releases/tag/2026.11.21.2) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=12&color=1877A5&style=flat)<br>
+![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2091.7%20%C2%B7%20aarch64%2091.3%20MiB&color=157F71&style=flat) ![mounts](https://img.shields.io/static/v1?label=mounts&message=addon_config%20%28rw%29%20%C2%B7%20app%20configs&color=B45309&style=flat)<br>
+[![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-NPMplus-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-NPMplus-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=21%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-NPMplus-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-NPMplus-App/issues)
 
-[Pinned commit `691ee56`](https://github.com/seb5594/Home-Assistant-NPMplus-App/commit/691ee560a371ee0e70555bbe5002a209d68899d4)
+[Pinned commit `0f27d52`](https://github.com/seb5594/Home-Assistant-NPMplus-App/commit/0f27d52a0b10bafbf09eed5c975d272c64ba3ff5)
 
 </details>
 
