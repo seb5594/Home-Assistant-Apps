@@ -33,7 +33,7 @@
   },
   {
     "repository": "seb5594/Home-Assistant-NPMplus-App",
-    "commit": "6785b407a06d69c9c2b49571a1cdae369e4e7fa2"
+    "commit": "c0479c8abcbb69d1e08ddabb0ac880ee29cb70dd"
   },
   {
     "repository": "seb5594/Home-Assistant-Playstation-VR-Camera-Loader-App",
@@ -41,7 +41,7 @@
   },
   {
     "repository": "seb5594/Home-Assistant-Renovate-App",
-    "commit": "ce3a3e69a0bf530f5d736f122130e6ffab3f50a8"
+    "commit": "283b0c3cf71662d694dd0df448c13ca770c6d6b1"
   },
   {
     "repository": "seb5594/Home-Assistant-Rsync-Local-Addon",
