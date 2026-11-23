@@ -17,11 +17,11 @@
   },
   {
     "repository": "seb5594/Home-Assistant-Gitea-MCP-Server-App",
-    "commit": "c94a26d41cb3c19dab09bc19ac16a96d239354dc"
+    "commit": "b796b16ff0c93d70fdd6969706043fb19c04067a"
   },
   {
     "repository": "seb5594/Home-Assistant-Gitea-Mirror-App",
-    "commit": "0f23ec75c66709bf772cc13cce13d493f2b9ba03"
+    "commit": "2e7b7f2d6e5ed300ef19664dd4ecc28b765cb9ed"
   },
   {
     "repository": "seb5594/Home-Assistant-Gitea-Runner-App",
@@ -41,7 +41,7 @@
   },
   {
     "repository": "seb5594/Home-Assistant-Renovate-App",
-    "commit": "1998f728174646d7ad9721cbfba3b1baf71bb421"
+    "commit": "38b6a577ade86e843413606188ed533da83259ab"
   },
   {
     "repository": "seb5594/Home-Assistant-Rsync-Local-Addon",
