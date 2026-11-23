@@ -33,7 +33,7 @@ Add this catalog once to install apps for backups, development tools, smart devi
 <!-- Generated from the source repositories by the hass-workflows catalog action. -->
 <a name="app-assist-ai-router-assist_ai_router"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Assist-AI-Router-App/83deaf8e09b357bac2cd9f349da53f081c197933/assist_ai_router/icon.png" width="28" height="28" alt=""> [Assist AI Router](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App) (2026.11.21.1)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Assist-AI-Router-App/e4124585818bf0da2c0153b0a19ff02074f39f52/assist_ai_router/icon.png" width="28" height="28" alt=""> [Assist AI Router](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App) (2026.11.21.1)
 
 Multi-provider AI gateway for Home Assistant Assist, powered by LiteLLM.
 
@@ -47,7 +47,7 @@ Multi-provider AI gateway for Home Assistant Assist, powered by LiteLLM.
 ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20161.4%20%C2%B7%20aarch64%20159.6%20MiB&color=157F71&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Assist-AI-Router-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=5%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Assist-AI-Router-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/issues)
 
-[Pinned commit `83deaf8`](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/commit/83deaf8e09b357bac2cd9f349da53f081c197933)
+[Pinned commit `e412458`](https://github.com/seb5594/Home-Assistant-Assist-AI-Router-App/commit/e4124585818bf0da2c0153b0a19ff02074f39f52)
 
 </details>
 
@@ -91,7 +91,7 @@ Read-only Docker API over TCP for Monitor Docker and other dashboards.
 
 <a name="app-git-exporter-git-exporter"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Git-Exporter-Addon/0b5252a17d59abc0ce78e3bc574e137ec5ddf122/git-exporter/icon.png" width="28" height="28" alt=""> [Home Assistant Git Exporter](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon) (2.0.0-beta.3)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Git-Exporter-Addon/b9fb2325b1733665d7b742d02f27a569dacd0088/git-exporter/icon.png" width="28" height="28" alt=""> [Home Assistant Git Exporter](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon) (2.0.0-beta.3)
 
 Exports your Home Assistant configuration to one or more git repositories (GitHub, GitLab, Gitea and others), for private use or for the public, with a preview and a file browser.
 
@@ -100,11 +100,11 @@ Exports your Home Assistant configuration to one or more git repositories (GitHu
 <details>
 <summary>Build, image and repository details</summary>
 
-[![app version](https://img.shields.io/static/v1?label=app%20version&message=Beta%203&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/releases/tag/v2.0.0-beta.3) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=53&color=1877A5&style=flat)<br>
+[![app version](https://img.shields.io/static/v1?label=app%20version&message=Beta%203&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/releases/tag/v2.0.0-beta.3) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=61&color=1877A5&style=flat)<br>
 ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2043.1%20%C2%B7%20aarch64%2042.9%20%C2%B7%20armv7%2039.6%20%C2%B7%20armhf%2040.8%20%C2%B7%20i386%2042.4%20MiB&color=157F71&style=flat) ![mounts (read-only)](https://img.shields.io/static/v1?label=mounts%20%28read-only%29&message=app%20configs%20%C2%B7%20config%20%C2%B7%20local%20apps&color=157F71&style=flat)<br>
 [![stars](https://img.shields.io/github/stars/seb5594/Home-Assistant-Git-Exporter-Addon?label=stars&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/stargazers) [![forks](https://img.shields.io/github/forks/seb5594/Home-Assistant-Git-Exporter-Addon?label=forks&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/forks) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Git-Exporter-Addon/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=49%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Git-Exporter-Addon?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/issues)
 
-[Pinned commit `0b5252a`](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/commit/0b5252a17d59abc0ce78e3bc574e137ec5ddf122)
+[Pinned commit `b9fb232`](https://github.com/seb5594/Home-Assistant-Git-Exporter-Addon/commit/b9fb2325b1733665d7b742d02f27a569dacd0088)
 
 </details>
 

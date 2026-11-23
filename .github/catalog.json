@@ -1,7 +1,7 @@
 [
   {
     "repository": "seb5594/Home-Assistant-Assist-AI-Router-App",
-    "commit": "83deaf8e09b357bac2cd9f349da53f081c197933"
+    "commit": "e4124585818bf0da2c0153b0a19ff02074f39f52"
   },
   {
     "repository": "seb5594/Home-Assistant-Caddy-Forge-App",
@@ -13,7 +13,7 @@
   },
   {
     "repository": "seb5594/Home-Assistant-Git-Exporter-Addon",
-    "commit": "0b5252a17d59abc0ce78e3bc574e137ec5ddf122"
+    "commit": "b9fb2325b1733665d7b742d02f27a569dacd0088"
   },
   {
     "repository": "seb5594/Home-Assistant-Gitea-MCP-Server-App",
