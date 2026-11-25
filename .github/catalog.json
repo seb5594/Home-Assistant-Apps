@@ -56,6 +56,10 @@
     "commit": "e4ba9570a3d3833d74fb572afea86a5aef2ed43b"
   },
   {
+    "repository": "seb5594/Home-Assistant-WiFi-Drone-App",
+    "commit": "91c6bec56dd3c43e45e6481774ad9993e4e08160"
+  },
+  {
     "repository": "seb5594/Home-Assistant-WiFi-Helper-App",
     "commit": "35ce2b51f217aef6a16c335996e8eaad3fbe2ed3"
   }

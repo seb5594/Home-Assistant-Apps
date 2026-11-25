@@ -44,3 +44,6 @@
 [submodule "Docker-Socket-Proxy"]
 	path = Docker-Socket-Proxy
 	url = https://github.com/seb5594/Home-Assistant-Docker-Socket-Proxy-App.git
+[submodule "WiFi-Drone"]
+	path = WiFi-Drone
+	url = https://github.com/seb5594/Home-Assistant-WiFi-Drone-App.git

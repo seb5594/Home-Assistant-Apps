@@ -1,7 +1,7 @@
 # Home Assistant Apps by seb5594
 
 [![Home Assistant](https://img.shields.io/static/v1?label=Home%20Assistant&message=Add%20app%20repository&color=18BCF2&logo=homeassistant&logoColor=white&style=flat)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fseb5594%2FHome-Assistant-Apps)<br>
-[![catalog sync](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Apps/update.yml?branch=main&label=catalog%20sync&style=flat)](https://github.com/seb5594/Home-Assistant-Apps/actions/workflows/update.yml) ![apps](https://img.shields.io/static/v1?label=apps&message=15&color=1877A5&style=flat)<br>
+[![catalog sync](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Apps/update.yml?branch=main&label=catalog%20sync&style=flat)](https://github.com/seb5594/Home-Assistant-Apps/actions/workflows/update.yml) ![apps](https://img.shields.io/static/v1?label=apps&message=16&color=1877A5&style=flat)<br>
 [![synced](https://img.shields.io/github/last-commit/seb5594/Home-Assistant-Apps?label=synced&style=flat)](https://github.com/seb5594/Home-Assistant-Apps/commits/main)
 
 Add this catalog once to install apps for backups, development tools, smart devices and more. Each entry shows its version and setup links, with build and image details below.
@@ -26,6 +26,7 @@ Add this catalog once to install apps for backups, development tools, smart devi
 - [Rsync Local](#app-rsync-local-rsync-local)
 - [Tuya Breaker](#app-tuya-breaker-tuya_breaker)
 - [UnTuyaOS3](#app-untuyaos3-untuyaos3)
+- [WiFi Drone Connect](#app-wifi-drone-wifi_drone)
 - [WiFi App Helper](#app-wifi-helper-wifi_helper)
 
 ## Apps
@@ -295,6 +296,25 @@ Flash compatible Tuya devices with open firmware from Home Assistant (UnTuyaOS3)
 [![stars](https://img.shields.io/github/stars/seb5594/Home-Assistant-UnTuyaOS3-App?label=stars&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/stargazers) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-UnTuyaOS3-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=6%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-UnTuyaOS3-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/issues)
 
 [Pinned commit `e4ba957`](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/commit/e4ba9570a3d3833d74fb572afea86a5aef2ed43b)
+
+</details>
+
+<a name="app-wifi-drone-wifi_drone"></a>
+
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-WiFi-Drone-App/91c6bec56dd3c43e45e6481774ad9993e4e08160/wifi_drone/icon.png" width="28" height="28" alt=""> [WiFi Drone Connect](https://github.com/seb5594/Home-Assistant-WiFi-Drone-App) (0.3.0)
+
+Local live video and snapshots from WiFi drone cameras.
+
+📖 [Source & documentation](https://github.com/seb5594/Home-Assistant-WiFi-Drone-App) · [Changelog](https://github.com/seb5594/Home-Assistant-WiFi-Drone-App/blob/dev/wifi_drone/CHANGELOG.md)
+
+<details>
+<summary>Build, image and repository details</summary>
+
+[![app version](https://img.shields.io/static/v1?label=app%20version&message=0.3.0&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-WiFi-Drone-App/releases/tag/v0.3.0) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=12&color=1877A5&style=flat)<br>
+![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2083.7%20%C2%B7%20aarch64%2080.8%20MiB&color=157F71&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN%2C%20NET_RAW&color=B45309&style=flat)<br>
+[![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-WiFi-Drone-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-WiFi-Drone-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=2%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-WiFi-Drone-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-WiFi-Drone-App/issues)
+
+[Pinned commit `91c6bec`](https://github.com/seb5594/Home-Assistant-WiFi-Drone-App/commit/91c6bec56dd3c43e45e6481774ad9993e4e08160)
 
 </details>
 
