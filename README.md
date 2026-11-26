@@ -263,7 +263,7 @@ Keep an extra local copy of your Home Assistant files on an attached USB drive.
 
 <a name="app-tuya-breaker-tuya_breaker"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Tuya-Breaker-App/7faf4f53905bdc78c37d26663db08921d37be073/tuya_breaker/icon.png" width="28" height="28" alt=""> [Tuya Breaker](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App) (2026.11.20.3)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Tuya-Breaker-App/da2d6bf403348ab31ff7ac2a240ea6f9fb1a9e8a/tuya_breaker/icon.png" width="28" height="28" alt=""> [Tuya Breaker](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App) (2026.11.26)
 
 One experimental Ingress workspace for UnTuyaOS3, Lightleak flash backups and Tuya-Cloudcutter, with an isolated Wi-Fi lease
 
@@ -272,17 +272,17 @@ One experimental Ingress workspace for UnTuyaOS3, Lightleak flash backups and Tu
 <details>
 <summary>Build, image and repository details</summary>
 
-[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.20.3&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/releases/tag/2026.11.20.3) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=11&color=1877A5&style=flat)<br>
+[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.26&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/releases) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=11&color=1877A5&style=flat)<br>
 ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2069.4%20%C2%B7%20aarch64%2069.3%20%C2%B7%20armv7%2066.0%20%C2%B7%20armhf%2067.4%20%C2%B7%20i386%2069.5%20MiB&color=157F71&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN%2C%20NET_RAW&color=B45309&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Tuya-Breaker-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=9%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Tuya-Breaker-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/issues)
 
-[Pinned commit `7faf4f5`](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/commit/7faf4f53905bdc78c37d26663db08921d37be073)
+[Pinned commit `da2d6bf`](https://github.com/seb5594/Home-Assistant-Tuya-Breaker-App/commit/da2d6bf403348ab31ff7ac2a240ea6f9fb1a9e8a)
 
 </details>
 
 <a name="app-untuyaos3-untuyaos3"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-UnTuyaOS3-App/e4ba9570a3d3833d74fb572afea86a5aef2ed43b/untuyaos3/icon.png" width="28" height="28" alt=""> [UnTuyaOS3](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App) (1.0.5)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-UnTuyaOS3-App/9d98521876f01b854735063341a267681cd8c839/untuyaos3/icon.png" width="28" height="28" alt=""> [UnTuyaOS3](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App) (2026.11.26)
 
 Flash compatible Tuya devices with open firmware from Home Assistant (UnTuyaOS3), with live console and isolated Wi-Fi
 
@@ -291,17 +291,17 @@ Flash compatible Tuya devices with open firmware from Home Assistant (UnTuyaOS3)
 <details>
 <summary>Build, image and repository details</summary>
 
-[![app version](https://img.shields.io/static/v1?label=app%20version&message=1.0.5&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/releases/tag/v1.0.5) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=4&color=1877A5&style=flat)<br>
+[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.26&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/releases) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=4&color=1877A5&style=flat)<br>
 ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2050.6%20%C2%B7%20aarch64%2050.3%20%C2%B7%20armv7%2047.3%20%C2%B7%20armhf%2048.4%20%C2%B7%20i386%2050.7%20MiB&color=157F71&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN%2C%20NET_RAW&color=B45309&style=flat)<br>
 [![stars](https://img.shields.io/github/stars/seb5594/Home-Assistant-UnTuyaOS3-App?label=stars&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/stargazers) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-UnTuyaOS3-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=6%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-UnTuyaOS3-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/issues)
 
-[Pinned commit `e4ba957`](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/commit/e4ba9570a3d3833d74fb572afea86a5aef2ed43b)
+[Pinned commit `9d98521`](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/commit/9d98521876f01b854735063341a267681cd8c839)
 
 </details>
 
 <a name="app-wifi-drone-wifi_drone"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-WiFi-Drone-App/e5ce18ca1099e1233cafd83cf15f8a7786b28bb8/wifi_drone/icon.png" width="28" height="28" alt=""> [WiFi Drone Connect](https://github.com/seb5594/Home-Assistant-WiFi-Drone-App) (0.3.2)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-WiFi-Drone-App/34b5b5b21aee9de16613aae0d243069c171fde05/wifi_drone/icon.png" width="28" height="28" alt=""> [WiFi Drone Connect](https://github.com/seb5594/Home-Assistant-WiFi-Drone-App) (2026.11.26)
 
 Local live video and snapshots from WiFi drone cameras.
 
@@ -310,17 +310,17 @@ Local live video and snapshots from WiFi drone cameras.
 <details>
 <summary>Build, image and repository details</summary>
 
-[![app version](https://img.shields.io/static/v1?label=app%20version&message=0.3.2&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-WiFi-Drone-App/releases/tag/v0.3.2) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=20&color=1877A5&style=flat)<br>
-![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2083.7%20%C2%B7%20aarch64%2080.8%20MiB&color=157F71&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN%2C%20NET_RAW&color=B45309&style=flat)<br>
+[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.26&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-WiFi-Drone-App/releases/tag/2026.11.26) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=24&color=1877A5&style=flat)<br>
+![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2083.7%20%C2%B7%20aarch64%2080.9%20MiB&color=157F71&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN%2C%20NET_RAW&color=B45309&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-WiFi-Drone-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-WiFi-Drone-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=2%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-WiFi-Drone-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-WiFi-Drone-App/issues)
 
-[Pinned commit `e5ce18c`](https://github.com/seb5594/Home-Assistant-WiFi-Drone-App/commit/e5ce18ca1099e1233cafd83cf15f8a7786b28bb8)
+[Pinned commit `34b5b5b`](https://github.com/seb5594/Home-Assistant-WiFi-Drone-App/commit/34b5b5b21aee9de16613aae0d243069c171fde05)
 
 </details>
 
 <a name="app-wifi-helper-wifi_helper"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-WiFi-Helper-App/35ce2b51f217aef6a16c335996e8eaad3fbe2ed3/wifi_helper/icon.png" width="28" height="28" alt=""> [WiFi App Helper](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App) (1.0.2)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-WiFi-Helper-App/7fbfc19b8624a2cf7fbcf3df3109b5479ecaa833/wifi_helper/icon.png" width="28" height="28" alt=""> [WiFi App Helper](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App) (2026.11.26)
 
 Reusable local API to lend one idle Wi-Fi radio to an isolated Home Assistant app and restore it afterwards
 
@@ -329,11 +329,11 @@ Reusable local API to lend one idle Wi-Fi radio to an isolated Home Assistant ap
 <details>
 <summary>Build, image and repository details</summary>
 
-[![app version](https://img.shields.io/static/v1?label=app%20version&message=1.0.2&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/releases/tag/v1.0.2) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=12&color=1877A5&style=flat)<br>
-![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2040.7%20%C2%B7%20aarch64%2040.6%20%C2%B7%20armv7%2038.3%20%C2%B7%20armhf%2039.3%20%C2%B7%20i386%2040.8%20MiB&color=157F71&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN&color=B45309&style=flat)<br>
+[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.26&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/releases/tag/2026.11.26) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=10&color=1877A5&style=flat)<br>
+![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2074.2%20%C2%B7%20aarch64%2073.0%20%C2%B7%20armv7%2072.0%20%C2%B7%20armhf%2074.5%20%C2%B7%20i386%2075.5%20MiB&color=157F71&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN&color=B45309&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-WiFi-Helper-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=2%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-WiFi-Helper-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/issues)
 
-[Pinned commit `35ce2b5`](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/commit/35ce2b51f217aef6a16c335996e8eaad3fbe2ed3)
+[Pinned commit `7fbfc19`](https://github.com/seb5594/Home-Assistant-WiFi-Helper-App/commit/7fbfc19b8624a2cf7fbcf3df3109b5479ecaa833)
 
 </details>
 

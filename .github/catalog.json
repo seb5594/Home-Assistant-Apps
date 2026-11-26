@@ -49,18 +49,18 @@
   },
   {
     "repository": "seb5594/Home-Assistant-Tuya-Breaker-App",
-    "commit": "7faf4f53905bdc78c37d26663db08921d37be073"
+    "commit": "da2d6bf403348ab31ff7ac2a240ea6f9fb1a9e8a"
   },
   {
     "repository": "seb5594/Home-Assistant-UnTuyaOS3-App",
-    "commit": "e4ba9570a3d3833d74fb572afea86a5aef2ed43b"
+    "commit": "9d98521876f01b854735063341a267681cd8c839"
   },
   {
     "repository": "seb5594/Home-Assistant-WiFi-Drone-App",
-    "commit": "e5ce18ca1099e1233cafd83cf15f8a7786b28bb8"
+    "commit": "34b5b5b21aee9de16613aae0d243069c171fde05"
   },
   {
     "repository": "seb5594/Home-Assistant-WiFi-Helper-App",
-    "commit": "35ce2b51f217aef6a16c335996e8eaad3fbe2ed3"
+    "commit": "7fbfc19b8624a2cf7fbcf3df3109b5479ecaa833"
   }
 ]
