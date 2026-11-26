@@ -282,7 +282,7 @@ One experimental Ingress workspace for UnTuyaOS3, Lightleak flash backups and Tu
 
 <a name="app-untuyaos3-untuyaos3"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-UnTuyaOS3-App/9d98521876f01b854735063341a267681cd8c839/untuyaos3/icon.png" width="28" height="28" alt=""> [UnTuyaOS3](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App) (2026.11.26)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-UnTuyaOS3-App/a29def0c819f6725a077d6d027cf313153faa08f/untuyaos3/icon.png" width="28" height="28" alt=""> [UnTuyaOS3](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App) (2026.11.26)
 
 Flash compatible Tuya devices with open firmware from Home Assistant (UnTuyaOS3), with live console and isolated Wi-Fi
 
@@ -291,11 +291,11 @@ Flash compatible Tuya devices with open firmware from Home Assistant (UnTuyaOS3)
 <details>
 <summary>Build, image and repository details</summary>
 
-[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.26&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/releases) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=4&color=1877A5&style=flat)<br>
+[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.26&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/releases/tag/2026.11.26) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=14&color=1877A5&style=flat)<br>
 ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2050.6%20%C2%B7%20aarch64%2050.3%20%C2%B7%20armv7%2047.3%20%C2%B7%20armhf%2048.4%20%C2%B7%20i386%2050.7%20MiB&color=157F71&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN%2C%20NET_RAW&color=B45309&style=flat)<br>
 [![stars](https://img.shields.io/github/stars/seb5594/Home-Assistant-UnTuyaOS3-App?label=stars&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/stargazers) [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-UnTuyaOS3-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=6%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-UnTuyaOS3-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/issues)
 
-[Pinned commit `9d98521`](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/commit/9d98521876f01b854735063341a267681cd8c839)
+[Pinned commit `a29def0`](https://github.com/seb5594/Home-Assistant-UnTuyaOS3-App/commit/a29def0c819f6725a077d6d027cf313153faa08f)
 
 </details>
 
