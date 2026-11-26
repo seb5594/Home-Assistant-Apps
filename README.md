@@ -130,7 +130,7 @@ Connects MCP clients to your Gitea repositories, issues and pull requests.
 
 <a name="app-gitea-mirror-gitea_mirror"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Gitea-Mirror-App/b1abdf345295f1ca0ec3feca15a38aa27a43ff98/gitea_mirror/icon.png" width="28" height="28" alt=""> [Gitea Mirror](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App) (3.56.1)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Gitea-Mirror-App/fcddc00ccd66a21cedd18a4f0dd1ff0a2dfc7e6c/gitea_mirror/icon.png" width="28" height="28" alt=""> [Gitea Mirror](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App) (3.58.1)
 
 Mirrors your GitHub, GitLab or Gitea repositories to your own Gitea and keeps them up to date, with the original web interface inside Home Assistant.
 
@@ -139,11 +139,11 @@ Mirrors your GitHub, GitLab or Gitea repositories to your own Gitea and keeps th
 <details>
 <summary>Build, image and repository details</summary>
 
-[![app version](https://img.shields.io/static/v1?label=app%20version&message=3.56.1&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App/releases) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=66&color=1877A5&style=flat)<br>
+[![app version](https://img.shields.io/static/v1?label=app%20version&message=3.58.1&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App/releases) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=66&color=1877A5&style=flat)<br>
 ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20591.2%20%C2%B7%20aarch64%20587.2%20MiB&color=157F71&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Gitea-Mirror-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=24%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Gitea-Mirror-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App/issues)
 
-[Pinned commit `b1abdf3`](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App/commit/b1abdf345295f1ca0ec3feca15a38aa27a43ff98)
+[Pinned commit `fcddc00`](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App/commit/fcddc00ccd66a21cedd18a4f0dd1ff0a2dfc7e6c)
 
 </details>
 
@@ -225,7 +225,7 @@ Turns the PlayStation (VR) Camera into a far-field voice microphone for Assist, 
 
 <a name="app-renovate-renovate"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Renovate-App/efb8fb84f76f0929d9fc67c63e43ce6a233bc1fc/renovate/icon.png" width="28" height="28" alt=""> [Renovate](https://github.com/seb5594/Home-Assistant-Renovate-App) (2026.11.25)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Renovate-App/565054ffd3851e6b7203b4ae2b8380807becf4cf/renovate/icon.png" width="28" height="28" alt=""> [Renovate](https://github.com/seb5594/Home-Assistant-Renovate-App) (2026.11.26)
 
 Keeps the dependencies of your GitHub, GitLab and Gitea repositories up to date, with a web interface inside Home Assistant.
 
@@ -234,11 +234,11 @@ Keeps the dependencies of your GitHub, GitLab and Gitea repositories up to date,
 <details>
 <summary>Build, image and repository details</summary>
 
-[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.25&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Renovate-App/releases) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=85&color=1877A5&style=flat)<br>
+[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.26&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Renovate-App/releases/tag/2026.11.26) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=95&color=1877A5&style=flat)<br>
 ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2077.5%20%C2%B7%20aarch64%2077.0%20%C2%B7%20armv7%2073.8%20%C2%B7%20armhf%2075.2%20%C2%B7%20i386%2076.9%20MiB&color=157F71&style=flat) ![mounts (read-only)](https://img.shields.io/static/v1?label=mounts%20%28read-only%29&message=addon_config%20%C2%B7%20ssl&color=157F71&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Renovate-App/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Renovate-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=120%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Renovate-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Renovate-App/issues)
 
-[Pinned commit `efb8fb8`](https://github.com/seb5594/Home-Assistant-Renovate-App/commit/efb8fb84f76f0929d9fc67c63e43ce6a233bc1fc)
+[Pinned commit `565054f`](https://github.com/seb5594/Home-Assistant-Renovate-App/commit/565054ffd3851e6b7203b4ae2b8380807becf4cf)
 
 </details>
 
