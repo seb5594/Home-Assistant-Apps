@@ -54,7 +54,7 @@ Multi-provider AI gateway for Home Assistant Assist, powered by LiteLLM.
 
 <a name="app-caddy-forge-caddy-forge"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Caddy-Forge-App/607feee1b8c8377db773664b98e8805dd767ea89/caddy-forge/icon.png" width="28" height="28" alt=""> [Caddy Forge](https://github.com/seb5594/Home-Assistant-Caddy-Forge-App) (2026.11.21.10)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Caddy-Forge-App/a297514d596d0a97d2e7fe00cae8bf9032c455b3/caddy-forge/icon.png" width="28" height="28" alt=""> [Caddy Forge](https://github.com/seb5594/Home-Assistant-Caddy-Forge-App) (2026.11.21.10)
 
 Caddy web server that builds itself with the plugins you name.
 
@@ -67,7 +67,7 @@ Caddy web server that builds itself with the plugins you name.
 ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20163.9%20%C2%B7%20aarch64%20151.3%20%C2%B7%20armv7%20135.0%20%C2%B7%20armhf%20140.4%20%C2%B7%20i386%20158.0%20MiB&color=157F71&style=flat) ![mounts](https://img.shields.io/static/v1?label=mounts&message=addon_config%20%28rw%29%20%C2%B7%20app%20configs%20%C2%B7%20homeassistant_config%20%C2%B7%20media%20%C2%B7%20share%20%C2%B7%20ssl&color=B45309&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Caddy-Forge-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Caddy-Forge-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=286%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Caddy-Forge-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Caddy-Forge-App/issues)
 
-[Pinned commit `607feee`](https://github.com/seb5594/Home-Assistant-Caddy-Forge-App/commit/607feee1b8c8377db773664b98e8805dd767ea89)
+[Pinned commit `a297514`](https://github.com/seb5594/Home-Assistant-Caddy-Forge-App/commit/a297514d596d0a97d2e7fe00cae8bf9032c455b3)
 
 </details>
 
@@ -130,7 +130,7 @@ Connects MCP clients to your Gitea repositories, issues and pull requests.
 
 <a name="app-gitea-mirror-gitea_mirror"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Gitea-Mirror-App/fcddc00ccd66a21cedd18a4f0dd1ff0a2dfc7e6c/gitea_mirror/icon.png" width="28" height="28" alt=""> [Gitea Mirror](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App) (3.58.1)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Gitea-Mirror-App/e727da4dade1768575f31b02f8bc0b8e6bc071af/gitea_mirror/icon.png" width="28" height="28" alt=""> [Gitea Mirror](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App) (3.58.1)
 
 Mirrors your GitHub, GitLab or Gitea repositories to your own Gitea and keeps them up to date, with the original web interface inside Home Assistant.
 
@@ -143,7 +143,7 @@ Mirrors your GitHub, GitLab or Gitea repositories to your own Gitea and keeps th
 ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20591.2%20%C2%B7%20aarch64%20587.2%20MiB&color=157F71&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Gitea-Mirror-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=24%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Gitea-Mirror-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App/issues)
 
-[Pinned commit `fcddc00`](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App/commit/fcddc00ccd66a21cedd18a4f0dd1ff0a2dfc7e6c)
+[Pinned commit `e727da4`](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App/commit/e727da4dade1768575f31b02f8bc0b8e6bc071af)
 
 </details>
 
@@ -301,7 +301,7 @@ Flash compatible Tuya devices with open firmware from Home Assistant (UnTuyaOS3)
 
 <a name="app-wifi-drone-wifi_drone"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-WiFi-Drone-App/fb01c5901e09f0667be4c4d3ace41bf1bca83f33/wifi_drone/icon.png" width="28" height="28" alt=""> [WiFi Drone Connect](https://github.com/seb5594/Home-Assistant-WiFi-Drone-App) (2026.11.26.1)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-WiFi-Drone-App/c1e019821d04e1d8ad6d3c588ab719f7304e7f0b/wifi_drone/icon.png" width="28" height="28" alt=""> [WiFi Drone Connect](https://github.com/seb5594/Home-Assistant-WiFi-Drone-App) (2026.11.26.1)
 
 Local live video and snapshots from WiFi drone cameras.
 
@@ -314,7 +314,7 @@ Local live video and snapshots from WiFi drone cameras.
 ![stage](https://img.shields.io/static/v1?label=stage&message=stable&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2083.7%20%C2%B7%20aarch64%2080.9%20MiB&color=157F71&style=flat) ![mounts (read-write)](https://img.shields.io/static/v1?label=mounts%20%28read-write%29&message=share&color=B45309&style=flat) ![privileged](https://img.shields.io/static/v1?label=privileged&message=NET_ADMIN%2C%20NET_RAW&color=B45309&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-WiFi-Drone-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-WiFi-Drone-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=2%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-WiFi-Drone-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-WiFi-Drone-App/issues)
 
-[Pinned commit `fb01c59`](https://github.com/seb5594/Home-Assistant-WiFi-Drone-App/commit/fb01c5901e09f0667be4c4d3ace41bf1bca83f33)
+[Pinned commit `c1e0198`](https://github.com/seb5594/Home-Assistant-WiFi-Drone-App/commit/c1e019821d04e1d8ad6d3c588ab719f7304e7f0b)
 
 </details>
 

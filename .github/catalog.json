@@ -5,7 +5,7 @@
   },
   {
     "repository": "seb5594/Home-Assistant-Caddy-Forge-App",
-    "commit": "607feee1b8c8377db773664b98e8805dd767ea89"
+    "commit": "a297514d596d0a97d2e7fe00cae8bf9032c455b3"
   },
   {
     "repository": "seb5594/Home-Assistant-Docker-Socket-Proxy-App",
@@ -21,7 +21,7 @@
   },
   {
     "repository": "seb5594/Home-Assistant-Gitea-Mirror-App",
-    "commit": "fcddc00ccd66a21cedd18a4f0dd1ff0a2dfc7e6c"
+    "commit": "e727da4dade1768575f31b02f8bc0b8e6bc071af"
   },
   {
     "repository": "seb5594/Home-Assistant-Gitea-Runner-App",
@@ -57,7 +57,7 @@
   },
   {
     "repository": "seb5594/Home-Assistant-WiFi-Drone-App",
-    "commit": "fb01c5901e09f0667be4c4d3ace41bf1bca83f33"
+    "commit": "c1e019821d04e1d8ad6d3c588ab719f7304e7f0b"
   },
   {
     "repository": "seb5594/Home-Assistant-WiFi-Helper-App",
