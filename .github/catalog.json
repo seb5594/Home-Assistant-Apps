@@ -21,11 +21,11 @@
   },
   {
     "repository": "seb5594/Home-Assistant-Gitea-Mirror-App",
-    "commit": "30ed80d381120c110c1577e10d8793f408dfdc02"
+    "commit": "7ad55c47ab87ff19101d7803d729018944e6662d"
   },
   {
     "repository": "seb5594/Home-Assistant-Gitea-Runner-App",
-    "commit": "03eb9fd4e4397c95d36e304b71ff961e75f42ba3"
+    "commit": "ec17f69b7d69d3400657446aca836265b8917daa"
   },
   {
     "repository": "seb5594/Home-Assistant-Mail-Forwarder-App",

@@ -130,7 +130,7 @@ Connects MCP clients to your Gitea repositories, issues and pull requests.
 
 <a name="app-gitea-mirror-gitea_mirror"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Gitea-Mirror-App/30ed80d381120c110c1577e10d8793f408dfdc02/gitea_mirror/icon.png" width="28" height="28" alt=""> [Gitea Mirror](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App) (3.59.0)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Gitea-Mirror-App/7ad55c47ab87ff19101d7803d729018944e6662d/gitea_mirror/icon.png" width="28" height="28" alt=""> [Gitea Mirror](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App) (3.59.2)
 
 Mirrors your GitHub, GitLab or Gitea repositories to your own Gitea and keeps them up to date, with the original web interface inside Home Assistant.
 
@@ -139,17 +139,17 @@ Mirrors your GitHub, GitLab or Gitea repositories to your own Gitea and keeps th
 <details>
 <summary>Build, image and repository details</summary>
 
-[![app version](https://img.shields.io/static/v1?label=app%20version&message=3.59.0&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App/releases) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=66&color=1877A5&style=flat)<br>
+[![app version](https://img.shields.io/static/v1?label=app%20version&message=3.59.2&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App/releases) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=66&color=1877A5&style=flat)<br>
 ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%20591.2%20%C2%B7%20aarch64%20587.2%20MiB&color=157F71&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Gitea-Mirror-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=24%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Gitea-Mirror-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App/issues)
 
-[Pinned commit `30ed80d`](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App/commit/30ed80d381120c110c1577e10d8793f408dfdc02)
+[Pinned commit `7ad55c4`](https://github.com/seb5594/Home-Assistant-Gitea-Mirror-App/commit/7ad55c47ab87ff19101d7803d729018944e6662d)
 
 </details>
 
 <a name="app-gitea-runner-gitea_runner"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Gitea-Runner-App/03eb9fd4e4397c95d36e304b71ff961e75f42ba3/gitea_runner/icon.png" width="28" height="28" alt=""> [Gitea Runner](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App) (6.0.1)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Gitea-Runner-App/ec17f69b7d69d3400657446aca836265b8917daa/gitea_runner/icon.png" width="28" height="28" alt=""> [Gitea Runner](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App) (6.1.0)
 
 Runs the Actions workflows of your Gitea inside an isolated app, without access to your Home Assistant host.
 
@@ -158,11 +158,11 @@ Runs the Actions workflows of your Gitea inside an isolated app, without access 
 <details>
 <summary>Build, image and repository details</summary>
 
-[![app version](https://img.shields.io/static/v1?label=app%20version&message=6.0.1&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/releases/tag/v6.0.1) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=5&color=1877A5&style=flat)<br>
-![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2053.0%20%C2%B7%20aarch64%2052.0%20MiB&color=157F71&style=flat)<br>
+[![app version](https://img.shields.io/static/v1?label=app%20version&message=6.1.0&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/releases/tag/v6.1.0) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=9&color=1877A5&style=flat)<br>
+![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2053.1%20%C2%B7%20aarch64%2052.1%20MiB&color=157F71&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Gitea-Runner-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=13%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Gitea-Runner-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/issues)
 
-[Pinned commit `03eb9fd`](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/commit/03eb9fd4e4397c95d36e304b71ff961e75f42ba3)
+[Pinned commit `ec17f69`](https://github.com/seb5594/Home-Assistant-Gitea-Runner-App/commit/ec17f69b7d69d3400657446aca836265b8917daa)
 
 </details>
 
