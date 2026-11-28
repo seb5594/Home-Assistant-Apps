@@ -225,7 +225,7 @@ Turns the PlayStation (VR) Camera into a far-field voice microphone for Assist, 
 
 <a name="app-renovate-renovate"></a>
 
-### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Renovate-App/6ad4a6e0c03ac5b16eab3cf3e568ced8c6c1b800/renovate/icon.png" width="28" height="28" alt=""> [Renovate](https://github.com/seb5594/Home-Assistant-Renovate-App) (2026.11.27)
+### <img src="https://raw.githubusercontent.com/seb5594/Home-Assistant-Renovate-App/15cfb3dd78c10957d4e57cdec8a6185e4afc8630/renovate/icon.png" width="28" height="28" alt=""> [Renovate](https://github.com/seb5594/Home-Assistant-Renovate-App) (2026.11.28)
 
 Keeps the dependencies of your GitHub, GitLab and Gitea repositories up to date, with a web interface inside Home Assistant.
 
@@ -234,11 +234,11 @@ Keeps the dependencies of your GitHub, GitLab and Gitea repositories up to date,
 <details>
 <summary>Build, image and repository details</summary>
 
-[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.27&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Renovate-App/releases) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=95&color=1877A5&style=flat)<br>
-![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2077.5%20%C2%B7%20aarch64%2077.0%20%C2%B7%20armv7%2073.8%20%C2%B7%20armhf%2075.2%20%C2%B7%20i386%2076.9%20MiB&color=157F71&style=flat) ![mounts (read-only)](https://img.shields.io/static/v1?label=mounts%20%28read-only%29&message=addon_config%20%C2%B7%20ssl&color=157F71&style=flat)<br>
+[![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.28&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-Renovate-App/releases/tag/2026.11.28) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=105&color=1877A5&style=flat)<br>
+![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2077.8%20%C2%B7%20aarch64%2077.3%20%C2%B7%20armv7%2074.1%20%C2%B7%20armhf%2075.4%20%C2%B7%20i386%2077.1%20MiB&color=157F71&style=flat) ![mounts (read-only)](https://img.shields.io/static/v1?label=mounts%20%28read-only%29&message=addon_config%20%C2%B7%20ssl&color=157F71&style=flat)<br>
 [![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-Renovate-App/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-Renovate-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=120%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-Renovate-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-Renovate-App/issues)
 
-[Pinned commit `6ad4a6e`](https://github.com/seb5594/Home-Assistant-Renovate-App/commit/6ad4a6e0c03ac5b16eab3cf3e568ced8c6c1b800)
+[Pinned commit `15cfb3d`](https://github.com/seb5594/Home-Assistant-Renovate-App/commit/15cfb3dd78c10957d4e57cdec8a6185e4afc8630)
 
 </details>
 
