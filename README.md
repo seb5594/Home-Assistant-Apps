@@ -191,14 +191,14 @@ Receives mail for your own domains and forwards it to your Gmail, Outlook or WEB
 
 Nginx Proxy Manager fork with free TLS certificates, HTTP/3 and a modern admin UI. Reverse proxy for your smart home.
 
-📖 [Source & documentation](https://github.com/seb5594/Home-Assistant-NPMplus-App) · [Changelog](https://github.com/seb5594/Home-Assistant-NPMplus-App/blob/dev/npmplus/CHANGELOG.md)
+📖 [Source & documentation](https://github.com/seb5594/Home-Assistant-NPMplus-App) · [Changelog](https://github.com/seb5594/Home-Assistant-NPMplus-App/blob/main/npmplus/CHANGELOG.md)
 
 <details>
 <summary>Build, image and repository details</summary>
 
 [![app version](https://img.shields.io/static/v1?label=app%20version&message=2026.11.21.8&color=1877A5&style=flat)](https://github.com/seb5594/Home-Assistant-NPMplus-App/releases/tag/2026.11.21.8) ![image pulls](https://img.shields.io/static/v1?label=image%20pulls&message=36&color=1877A5&style=flat)<br>
 ![stage](https://img.shields.io/static/v1?label=stage&message=experimental&color=2F855A&style=flat) ![ingress](https://img.shields.io/static/v1?label=ingress&message=enabled&color=7C3AED&style=flat) ![arch & size](https://img.shields.io/static/v1?label=arch%20%26%20size&message=amd64%2091.7%20%C2%B7%20aarch64%2091.3%20MiB&color=157F71&style=flat) ![mounts](https://img.shields.io/static/v1?label=mounts&message=addon_config%20%28rw%29%20%C2%B7%20app%20configs&color=B45309&style=flat)<br>
-[![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-NPMplus-App/ci.yml?branch=dev&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-NPMplus-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=28%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-NPMplus-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-NPMplus-App/issues)
+[![checks](https://img.shields.io/github/actions/workflow/status/seb5594/Home-Assistant-NPMplus-App/ci.yml?branch=main&label=checks&style=flat)](https://github.com/seb5594/Home-Assistant-NPMplus-App/actions/workflows/ci.yml) ![runtime tests](https://img.shields.io/static/v1?label=runtime%20tests&message=28%20passed&color=2F855A&style=flat) [![issues](https://img.shields.io/github/issues/seb5594/Home-Assistant-NPMplus-App?label=issues&style=flat)](https://github.com/seb5594/Home-Assistant-NPMplus-App/issues)
 
 [Pinned commit `32e2e6d`](https://github.com/seb5594/Home-Assistant-NPMplus-App/commit/32e2e6d267d12547af8e14d4de3e70e9b41a54c3)
 
